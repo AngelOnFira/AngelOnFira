@@ -13,3 +13,5 @@ I'm also working on a startup called [Timsle](https://timsle.com)
 <p align="center">
   <img width="600" src="https://media.discordapp.net/attachments/444005079410802699/730566842674053130/rsz_5f0657242abb4.png">
 </p>
+
+<!--START_SECTION:activity-->
