@@ -15,9 +15,9 @@ I'm also working on a startup called [Timsle](https://timsle.com)
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com//Brobin/django-seed/pull/74) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-2. 💪 Opened PR [#73](https://github.com//Brobin/django-seed/pull/73) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-3. 🎉 Merged PR [#1](https://github.com//AngelOnFira/redbaron/pull/1) in [AngelOnFira/redbaron](https://github.com//AngelOnFira/redbaron)
-4. 💪 Opened PR [#1](https://github.com//AngelOnFira/redbaron/pull/1) in [AngelOnFira/redbaron](https://github.com//AngelOnFira/redbaron)
-5. 🗣 Commented on [#102664](https://github.com//microsoft/vscode/issues/102664) in [microsoft/vscode](https://github.com//microsoft/vscode)
+1. 💪 Opened PR [#75](https://github.com//Brobin/django-seed/pull/75) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+2. 🗣 Commented on [#36](https://github.com//Brobin/django-seed/issues/36) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+3. 💪 Opened PR [#74](https://github.com//Brobin/django-seed/pull/74) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+4. 💪 Opened PR [#73](https://github.com//Brobin/django-seed/pull/73) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+5. 🎉 Merged PR [#1](https://github.com//AngelOnFira/redbaron/pull/1) in [AngelOnFira/redbaron](https://github.com//AngelOnFira/redbaron)
 <!--END_SECTION:activity-->
