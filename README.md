@@ -15,9 +15,9 @@ I'm also working on a startup called [Timsle](https://timsle.com)
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com//Brobin/django-seed/pull/75) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-2. 🗣 Commented on [#36](https://github.com//Brobin/django-seed/issues/36) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-3. 💪 Opened PR [#74](https://github.com//Brobin/django-seed/pull/74) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-4. 💪 Opened PR [#73](https://github.com//Brobin/django-seed/pull/73) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-5. 🎉 Merged PR [#1](https://github.com//AngelOnFira/redbaron/pull/1) in [AngelOnFira/redbaron](https://github.com//AngelOnFira/redbaron)
+1. 🗣 Commented on [#59](https://github.com//Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+2. 💪 Opened PR [#77](https://github.com//Brobin/django-seed/pull/77) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+3. ❌ Closed PR [#58](https://github.com//Brobin/django-seed/pull/58) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+4. 🗣 Commented on [#72](https://github.com//Brobin/django-seed/issues/72) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+5. ❌ Closed PR [#76](https://github.com//Brobin/django-seed/pull/76) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
 <!--END_SECTION:activity-->
