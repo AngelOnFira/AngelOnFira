@@ -15,9 +15,9 @@ I'm also working on a startup called [Timsle](https://timsle.com)
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com//Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-2. 💪 Opened PR [#77](https://github.com//Brobin/django-seed/pull/77) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-3. ❌ Closed PR [#58](https://github.com//Brobin/django-seed/pull/58) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-4. 🗣 Commented on [#72](https://github.com//Brobin/django-seed/issues/72) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-5. ❌ Closed PR [#76](https://github.com//Brobin/django-seed/pull/76) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+1. ❗️ Opened issue [#21](https://github.com//strawstack/strawstack/issues/21) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
+2. ❗️ Opened issue [#20](https://github.com//strawstack/strawstack/issues/20) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
+3. ❗️ Opened issue [#19](https://github.com//strawstack/strawstack/issues/19) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
+4. ❗️ Opened issue [#18](https://github.com//strawstack/strawstack/issues/18) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
+5. ❗️ Opened issue [#17](https://github.com//strawstack/strawstack/issues/17) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
 <!--END_SECTION:activity-->
