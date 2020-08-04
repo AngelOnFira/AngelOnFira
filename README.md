@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com//strawstack/strawstack/issues/21) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
-2. ❗️ Opened issue [#20](https://github.com//strawstack/strawstack/issues/20) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
-3. ❗️ Opened issue [#19](https://github.com//strawstack/strawstack/issues/19) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
-4. ❗️ Opened issue [#18](https://github.com//strawstack/strawstack/issues/18) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
-5. ❗️ Opened issue [#17](https://github.com//strawstack/strawstack/issues/17) in [strawstack/strawstack](https://github.com//strawstack/strawstack)
+1. 💪 Opened PR [#80](https://github.com//Brobin/django-seed/pull/80) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+2. 🗣 Commented on [#221](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/221) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#221](https://github.com//rust-gamedev/rust-gamedev.github.io/pull/221) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#43](https://github.com//Brobin/django-seed/issues/43) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+5. 🎉 Merged PR [#77](https://github.com//Brobin/django-seed/pull/77) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
 <!--END_SECTION:activity-->
