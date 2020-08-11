@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com//Brobin/django-seed/issues/81) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-2. ❗️ Closed issue [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-3. 🗣 Commented on [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+1. 🗣 Commented on [#5](https://github.com//Dragoncraft89/godotdoc/issues/5) in [Dragoncraft89/godotdoc](https://github.com//Dragoncraft89/godotdoc)
+2. ❗️ Opened issue [#81](https://github.com//Brobin/django-seed/issues/81) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+3. ❗️ Closed issue [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
 4. 🗣 Commented on [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-5. ❗️ Closed issue [#47](https://github.com//Brobin/django-seed/issues/47) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+5. 🗣 Commented on [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
 <!--END_SECTION:activity-->
