@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com//Scony/godot-gdscript-toolkit/issues/70) in [Scony/godot-gdscript-toolkit](https://github.com//Scony/godot-gdscript-toolkit)
-2. 🗣 Commented on [#5](https://github.com//Dragoncraft89/godotdoc/issues/5) in [Dragoncraft89/godotdoc](https://github.com//Dragoncraft89/godotdoc)
-3. ❗️ Opened issue [#81](https://github.com//Brobin/django-seed/issues/81) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-4. ❗️ Closed issue [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
-5. 🗣 Commented on [#69](https://github.com//Brobin/django-seed/issues/69) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
+1. 🗣 Commented on [#95226](https://github.com//NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com//NixOS/nixpkgs)
+2. 🗣 Commented on [#95226](https://github.com//NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com//NixOS/nixpkgs)
+3. 🗣 Commented on [#70](https://github.com//Scony/godot-gdscript-toolkit/issues/70) in [Scony/godot-gdscript-toolkit](https://github.com//Scony/godot-gdscript-toolkit)
+4. 🗣 Commented on [#5](https://github.com//Dragoncraft89/godotdoc/issues/5) in [Dragoncraft89/godotdoc](https://github.com//Dragoncraft89/godotdoc)
+5. ❗️ Opened issue [#81](https://github.com//Brobin/django-seed/issues/81) in [Brobin/django-seed](https://github.com//Brobin/django-seed)
 <!--END_SECTION:activity-->
