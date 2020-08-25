@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-2. 🗣 Commented on [#95226](https://github.com//NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com//NixOS/nixpkgs)
-3. 🗣 Commented on [#95226](https://github.com//NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com//NixOS/nixpkgs)
-4. 🗣 Commented on [#70](https://github.com//Scony/godot-gdscript-toolkit/issues/70) in [Scony/godot-gdscript-toolkit](https://github.com//Scony/godot-gdscript-toolkit)
-5. 🗣 Commented on [#5](https://github.com//Dragoncraft89/godotdoc/issues/5) in [Dragoncraft89/godotdoc](https://github.com//Dragoncraft89/godotdoc)
+1. 🗣 Commented on [#533](https://github.com//xd009642/tarpaulin/issues/533) in [xd009642/tarpaulin](https://github.com//xd009642/tarpaulin)
+2. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+3. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+4. 💪 Opened PR [#325](https://github.com//bevyengine/bevy/pull/325) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+5. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
 <!--END_SECTION:activity-->
