@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com//xd009642/tarpaulin/issues/533) in [xd009642/tarpaulin](https://github.com//xd009642/tarpaulin)
-2. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+1. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+2. 🗣 Commented on [#533](https://github.com//xd009642/tarpaulin/issues/533) in [xd009642/tarpaulin](https://github.com//xd009642/tarpaulin)
 3. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-4. 💪 Opened PR [#325](https://github.com//bevyengine/bevy/pull/325) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-5. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+4. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+5. 💪 Opened PR [#325](https://github.com//bevyengine/bevy/pull/325) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
 <!--END_SECTION:activity-->
