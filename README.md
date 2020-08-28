@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//AngelOnFira/bevy/pull/1) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
-2. 💪 Opened PR [#357](https://github.com//bevyengine/bevy/pull/357) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-3. 💪 Opened PR [#1](https://github.com//AngelOnFira/bevy/pull/1) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
-4. 💪 Opened PR [#349](https://github.com//bevyengine/bevy/pull/349) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-5. 🗣 Commented on [#238](https://github.com//bevyengine/bevy/issues/238) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+1. 💪 Opened PR [#3](https://github.com//AngelOnFira/bevy/pull/3) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
+2. ❌ Closed PR [#2](https://github.com//AngelOnFira/bevy/pull/2) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
+3. 💪 Opened PR [#373](https://github.com//bevyengine/bevy/pull/373) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+4. 💪 Opened PR [#2](https://github.com//AngelOnFira/bevy/pull/2) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
+5. 🗣 Commented on [#372](https://github.com//bevyengine/bevy/issues/372) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
 <!--END_SECTION:activity-->
