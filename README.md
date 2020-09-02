@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com//bevyengine/bevy/issues/379) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-2. 🗣 Commented on [#377](https://github.com//bevyengine/bevy/issues/377) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-3. 🗣 Commented on [#376](https://github.com//bevyengine/bevy/issues/376) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-4. ❗️ Closed issue [#380](https://github.com//bevyengine/bevy/issues/380) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
-5. 🗣 Commented on [#380](https://github.com//bevyengine/bevy/issues/380) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+1. 💪 Opened PR [#4](https://github.com//AngelOnFira/bevy/pull/4) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
+2. 🗣 Commented on [#421](https://github.com//bevyengine/bevy/issues/421) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+3. ❌ Closed PR [#421](https://github.com//bevyengine/bevy/pull/421) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+4. 💪 Opened PR [#421](https://github.com//bevyengine/bevy/pull/421) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+5. 🗣 Commented on [#379](https://github.com//bevyengine/bevy/issues/379) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
 <!--END_SECTION:activity-->
