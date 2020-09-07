@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#274](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#266](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/266) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#266](https://github.com//rust-gamedev/rust-gamedev.github.io/pull/266) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
-4. ❌ Closed PR [#4](https://github.com//AngelOnFira/bevy/pull/4) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
-5. 🗣 Commented on [#418](https://github.com//bevyengine/bevy/issues/418) in [bevyengine/bevy](https://github.com//bevyengine/bevy)
+2. 🗣 Commented on [#274](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#266](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/266) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#266](https://github.com//rust-gamedev/rust-gamedev.github.io/pull/266) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+5. ❌ Closed PR [#4](https://github.com//AngelOnFira/bevy/pull/4) in [AngelOnFira/bevy](https://github.com//AngelOnFira/bevy)
 <!--END_SECTION:activity-->
