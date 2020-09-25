@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3174](https://github.com//jupyterhub/jupyterhub/pull/3174) in [jupyterhub/jupyterhub](https://github.com//jupyterhub/jupyterhub)
-2. 💪 Opened PR [#114](https://github.com//CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/114) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com//CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-3. 🗣 Commented on [#274](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#1615](https://github.com//kubernetes-sigs/kubespray/issues/1615) in [kubernetes-sigs/kubespray](https://github.com//kubernetes-sigs/kubespray)
+2. 💪 Opened PR [#3174](https://github.com//jupyterhub/jupyterhub/pull/3174) in [jupyterhub/jupyterhub](https://github.com//jupyterhub/jupyterhub)
+3. 💪 Opened PR [#114](https://github.com//CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/114) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com//CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
 4. 🗣 Commented on [#274](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#266](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/266) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#274](https://github.com//rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com//rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
