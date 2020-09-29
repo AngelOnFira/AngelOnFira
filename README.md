@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1615](https://github.com/kubernetes-sigs/kubespray/issues/1615) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
-2. 💪 Opened PR [#3174](https://github.com/jupyterhub/jupyterhub/pull/3174) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
-3. 💪 Opened PR [#114](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/114) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-4. 🗣 Commented on [#274](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#274](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/274) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#9](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/9) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+2. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/8) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+3. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/7) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+4. 🗣 Commented on [#1615](https://github.com/kubernetes-sigs/kubespray/issues/1615) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+5. 💪 Opened PR [#3174](https://github.com/jupyterhub/jupyterhub/pull/3174) in [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
 <!--END_SECTION:activity-->
