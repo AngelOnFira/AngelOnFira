@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#278](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/278) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#9](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/9) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
-3. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/8) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
-4. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/7) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
-5. 🗣 Commented on [#1615](https://github.com/kubernetes-sigs/kubespray/issues/1615) in [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)
+1. 💪 Opened PR [#304](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/304) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#278](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/278) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#9](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/9) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+4. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/8) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+5. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/7) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
 <!--END_SECTION:activity-->
