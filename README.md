@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/sherlly/blog/issues/1) in [sherlly/blog](https://github.com/sherlly/blog)
-2. 🗣 Commented on [#59](https://github.com/Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 💪 Opened PR [#308](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/308) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#307](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/307) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#305](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/305) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#83](https://github.com/Brobin/django-seed/issues/83) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+2. 🗣 Commented on [#1](https://github.com/sherlly/blog/issues/1) in [sherlly/blog](https://github.com/sherlly/blog)
+3. 🗣 Commented on [#59](https://github.com/Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 💪 Opened PR [#308](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/308) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#307](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/307) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
