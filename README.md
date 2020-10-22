@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/Brobin/django-seed/pull/85) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. 🎉 Merged PR [#72](https://github.com/Brobin/django-seed/pull/72) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 🗣 Commented on [#82](https://github.com/Brobin/django-seed/issues/82) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. 🎉 Merged PR [#84](https://github.com/Brobin/django-seed/pull/84) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🗣 Commented on [#84](https://github.com/Brobin/django-seed/issues/84) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 💪 Opened PR [#2](https://github.com/AngelOnFira/django-seed/pull/2) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
+2. ❌ Closed PR [#1](https://github.com/AngelOnFira/django-seed/pull/1) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
+3. 💪 Opened PR [#1](https://github.com/AngelOnFira/django-seed/pull/1) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
+4. ❌ Closed PR [#48](https://github.com/Brobin/django-seed/pull/48) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. 🗣 Commented on [#48](https://github.com/Brobin/django-seed/issues/48) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
