@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/EmbarkStudios/cargo-deny-action/pull/27) in [EmbarkStudios/cargo-deny-action](https://github.com/EmbarkStudios/cargo-deny-action)
-2. 🗣 Commented on [#72](https://github.com/Brobin/django-seed/issues/72) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 💪 Opened PR [#1](https://github.com/AngelOnFira/cargo-deny-action/pull/1) in [AngelOnFira/cargo-deny-action](https://github.com/AngelOnFira/cargo-deny-action)
-4. 🗣 Commented on [#299](https://github.com/EmbarkStudios/cargo-deny/issues/299) in [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
+1. 🗣 Commented on [#892](https://github.com/boa-dev/boa/issues/892) in [boa-dev/boa](https://github.com/boa-dev/boa)
+2. 💪 Opened PR [#27](https://github.com/EmbarkStudios/cargo-deny-action/pull/27) in [EmbarkStudios/cargo-deny-action](https://github.com/EmbarkStudios/cargo-deny-action)
+3. 🗣 Commented on [#72](https://github.com/Brobin/django-seed/issues/72) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 💪 Opened PR [#1](https://github.com/AngelOnFira/cargo-deny-action/pull/1) in [AngelOnFira/cargo-deny-action](https://github.com/AngelOnFira/cargo-deny-action)
 5. 🗣 Commented on [#299](https://github.com/EmbarkStudios/cargo-deny/issues/299) in [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
 <!--END_SECTION:activity-->
