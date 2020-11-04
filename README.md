@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#341](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/341) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#320](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/320) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
-5. 💪 Opened PR [#10](https://github.com/aidancrowther/ASCIIPlay/pull/10) in [aidancrowther/ASCIIPlay](https://github.com/aidancrowther/ASCIIPlay)
+1. 💪 Opened PR [#342](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/342) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#341](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/341) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#320](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/320) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
 <!--END_SECTION:activity-->
