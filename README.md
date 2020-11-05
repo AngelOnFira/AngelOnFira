@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#320](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/320) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
+1. 💪 Opened PR [#351](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/351) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#320](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/320) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 3. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
 4. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
-5. 💪 Opened PR [#342](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/342) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
 <!--END_SECTION:activity-->
