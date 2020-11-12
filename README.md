@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#361](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/361) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#363](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/363) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
-4. 🗣 Commented on [#59](https://github.com/Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
+1. 🗣 Commented on [#2609](https://github.com/talos-systems/talos/issues/2609) in [talos-systems/talos](https://github.com/talos-systems/talos)
+2. 🗣 Commented on [#361](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/361) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#363](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/363) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#913](https://github.com/boa-dev/boa/issues/913) in [boa-dev/boa](https://github.com/boa-dev/boa)
+5. 🗣 Commented on [#59](https://github.com/Brobin/django-seed/issues/59) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
