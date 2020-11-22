@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SpicyPizza/create-envfile/issues/1) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🗣 Commented on [#1](https://github.com/SpicyPizza/create-envfile/issues/1) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#2609](https://github.com/talos-systems/talos/issues/2609) in [talos-systems/talos](https://github.com/talos-systems/talos)
-4. 🗣 Commented on [#361](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/361) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#363](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/363) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#5](https://github.com/SpicyPizza/create-envfile/issues/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🎉 Merged PR [#5](https://github.com/SpicyPizza/create-envfile/pull/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Closed issue [#4](https://github.com/SpicyPizza/create-envfile/issues/4) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 🗣 Commented on [#5](https://github.com/SpicyPizza/create-envfile/issues/5) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. ❗️ Closed issue [#1](https://github.com/SpicyPizza/create-envfile/issues/1) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
