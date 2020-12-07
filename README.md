@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/40) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-2. 💪 Opened PR [#40](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/40) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-3. 💪 Opened PR [#397](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/397) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#395](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/395) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#365](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/365) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/39) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+2. 🎉 Merged PR [#38](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/38) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+3. 🎉 Merged PR [#40](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/40) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+4. 💪 Opened PR [#40](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/40) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+5. 💪 Opened PR [#397](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/397) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
