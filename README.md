@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/72) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-2. 🗣 Commented on [#72](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/72) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-3. 🎉 Merged PR [#71](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/71) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-4. 🎉 Merged PR [#70](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/70) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-5. 🎉 Merged PR [#69](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/69) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+1. 🎉 Merged PR [#77](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/77) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+2. 🎉 Merged PR [#76](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/76) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+3. 🎉 Merged PR [#74](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/74) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+4. 💪 Opened PR [#73](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/73) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+5. 🎉 Merged PR [#72](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/72) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 <!--END_SECTION:activity-->
