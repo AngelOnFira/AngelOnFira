@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/80) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-2. 💪 Opened PR [#80](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/80) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-3. 🎉 Merged PR [#79](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/79) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-4. 🗣 Commented on [#79](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/79) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+1. 🗣 Commented on [#89](https://github.com/Brobin/django-seed/issues/89) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+2. 🎉 Merged PR [#80](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/80) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+3. 💪 Opened PR [#80](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/80) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+4. 🎉 Merged PR [#79](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/79) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 5. 🗣 Commented on [#79](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/79) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 <!--END_SECTION:activity-->
