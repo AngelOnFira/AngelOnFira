@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/84) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-2. 🗣 Commented on [#85](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/85) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-3. 💪 Opened PR [#85](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/85) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+1. 🎉 Merged PR [#85](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/85) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+2. 🎉 Merged PR [#86](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/86) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+3. 💪 Opened PR [#86](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/86) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 4. 🗣 Commented on [#83](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/83) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-5. 🎉 Merged PR [#82](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/82) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+5. 🎉 Merged PR [#83](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/83) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 <!--END_SECTION:activity-->
