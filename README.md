@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 🎉 Merged PR [#85](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/85) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-4. 🎉 Merged PR [#86](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/86) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-5. 💪 Opened PR [#86](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/86) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+1. 🗣 Commented on [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+2. 🎉 Merged PR [#87](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/87) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+3. 💪 Opened PR [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+4. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
