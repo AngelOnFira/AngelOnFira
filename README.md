@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-2. 🗣 Commented on [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-3. 🎉 Merged PR [#87](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/87) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-4. 💪 Opened PR [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-5. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 💪 Opened PR [#92](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/92) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+2. ❗️ Opened issue [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+3. 🗣 Commented on [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/issues/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+4. 🎉 Merged PR [#87](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/87) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+5. 💪 Opened PR [#88](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/88) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 <!--END_SECTION:activity-->
