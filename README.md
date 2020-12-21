@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+1. 💪 Opened PR [#93](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/93) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 2. 🗣 Commented on [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-3. 🎉 Merged PR [#91](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/91) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-4. 💪 Opened PR [#92](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/92) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
-5. ❗️ Opened issue [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+3. 🗣 Commented on [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+4. 🎉 Merged PR [#91](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/91) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
+5. 💪 Opened PR [#92](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020/pull/92) in [CarletonComputerScienceSociety/advent-of-code-2020](https://github.com/CarletonComputerScienceSociety/advent-of-code-2020)
 <!--END_SECTION:activity-->
