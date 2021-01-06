@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#408](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/408) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-4. 🗣 Commented on [#1](https://github.com/strawstack/AOC/issues/1) in [strawstack/AOC](https://github.com/strawstack/AOC)
-5. 💪 Opened PR [#1](https://github.com/strawstack/AOC/pull/1) in [strawstack/AOC](https://github.com/strawstack/AOC)
+1. 🗣 Commented on [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#408](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/408) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#98](https://github.com/rust-gamedev/wg/issues/98) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+5. 🗣 Commented on [#1](https://github.com/strawstack/AOC/issues/1) in [strawstack/AOC](https://github.com/strawstack/AOC)
 <!--END_SECTION:activity-->
