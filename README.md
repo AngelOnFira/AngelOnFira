@@ -27,8 +27,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Opened issue [#1051](https://github.com/exercism/rust/issues/1051) in [exercism/rust](https://github.com/exercism/rust)
-3. 💪 Opened PR [#443](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/443) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#442](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/442) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#422](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/422) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. ❗️ Opened issue [#1051](https://github.com/exercism/rust/issues/1051) in [exercism/rust](https://github.com/exercism/rust)
+4. 💪 Opened PR [#443](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/443) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#442](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/442) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
