@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#489](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/489) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#454](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/454) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#15](https://github.com/Brobin/django-seed/issues/15) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. 🗣 Commented on [#2594](https://github.com/MicrosoftDocs/live-share/issues/2594) in [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share)
-5. 🗣 Commented on [#450](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/450) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#491](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/491) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#490](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/490) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#489](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/489) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#454](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/454) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#15](https://github.com/Brobin/django-seed/issues/15) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
