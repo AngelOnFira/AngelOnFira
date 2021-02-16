@@ -26,9 +26,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/Core/pull/3) in [CarletonComputerScienceSociety/Core](https://github.com/CarletonComputerScienceSociety/Core)
-2. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/Core/pull/1) in [CarletonComputerScienceSociety/Core](https://github.com/CarletonComputerScienceSociety/Core)
-3. 🗣 Commented on [#491](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/491) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#491](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/491) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#490](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/490) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#29](https://github.com/Keavon/Graphite/issues/29) in [Keavon/Graphite](https://github.com/Keavon/Graphite)
+2. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/Core/pull/3) in [CarletonComputerScienceSociety/Core](https://github.com/CarletonComputerScienceSociety/Core)
+3. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/Core/pull/1) in [CarletonComputerScienceSociety/Core](https://github.com/CarletonComputerScienceSociety/Core)
+4. 🗣 Commented on [#491](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/491) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#491](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/491) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
