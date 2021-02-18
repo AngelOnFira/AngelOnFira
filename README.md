@@ -22,6 +22,8 @@
 [![django-seed-builds](https://github.com/Brobin/django-seed/workflows/Test/badge.svg)](https://github.com/Brobin/django-seed)
 
 [Create Envfile](https://github.com/SpicyPizza/create-envfile)
+:lock:
+[![create-envfile-stars](https://img.shields.io/github/stars/SpicyPizza/create-envfile?style=social)](https://github.com/SpicyPizza/create-envfile)
 
 **Recent Stuff I did around the hub:**
 
