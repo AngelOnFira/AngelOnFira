@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/SpicyPizza/create-envfile/issues/14) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 💪 Opened PR [#6](https://github.com/AdiChops/lineup/pull/6) in [AdiChops/lineup](https://github.com/AdiChops/lineup)
 2. 🗣 Commented on [#14](https://github.com/SpicyPizza/create-envfile/issues/14) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#11](https://github.com/SpicyPizza/create-envfile/issues/11) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#10](https://github.com/SpicyPizza/create-envfile/issues/10) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#14](https://github.com/SpicyPizza/create-envfile/issues/14) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 🗣 Commented on [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🗣 Commented on [#11](https://github.com/SpicyPizza/create-envfile/issues/11) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
