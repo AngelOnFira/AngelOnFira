@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/103) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-2. 🗣 Commented on [#496](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/496) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗️ Opened issue [#496](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/496) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#6](https://github.com/AdiChops/lineup/pull/6) in [AdiChops/lineup](https://github.com/AdiChops/lineup)
-5. 🗣 Commented on [#14](https://github.com/SpicyPizza/create-envfile/issues/14) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 💪 Opened PR [#510](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/510) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#103](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/103) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+3. 🗣 Commented on [#496](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/496) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. ❗️ Opened issue [#496](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/496) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#6](https://github.com/AdiChops/lineup/pull/6) in [AdiChops/lineup](https://github.com/AdiChops/lineup)
 <!--END_SECTION:activity-->
