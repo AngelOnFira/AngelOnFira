@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-2. 🎉 Merged PR [#529](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/529) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#529](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/529) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#525](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/525) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#525](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/525) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+2. ❗️ Opened issue [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+3. 🎉 Merged PR [#529](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/529) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#529](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/529) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#525](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/525) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
