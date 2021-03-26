@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/159) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-2. ❗️ Opened issue [#122](https://github.com/Songtronix/Airshipper/issues/122) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-3. 🗣 Commented on [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-4. ❗️ Opened issue [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-5. 🎉 Merged PR [#529](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/529) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#4](https://github.com/AngelOnFira/resume-templater/pull/4) in [AngelOnFira/resume-templater](https://github.com/AngelOnFira/resume-templater)
+2. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/159) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+3. ❗️ Opened issue [#122](https://github.com/Songtronix/Airshipper/issues/122) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+4. 🗣 Commented on [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+5. ❗️ Opened issue [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
 <!--END_SECTION:activity-->
