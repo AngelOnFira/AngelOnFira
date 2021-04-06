@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/AngelOnFira/resume-templater/pull/4) in [AngelOnFira/resume-templater](https://github.com/AngelOnFira/resume-templater)
-2. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/159) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-3. ❗️ Opened issue [#122](https://github.com/Songtronix/Airshipper/issues/122) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-4. 🗣 Commented on [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-5. ❗️ Opened issue [#9254](https://github.com/rust-lang/cargo/issues/9254) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+1. 🎉 Merged PR [#557](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/557) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#554](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/554) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#563](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/563) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#4](https://github.com/AngelOnFira/resume-templater/pull/4) in [AngelOnFira/resume-templater](https://github.com/AngelOnFira/resume-templater)
+5. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/159) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
 <!--END_SECTION:activity-->
