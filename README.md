@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#557](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/557) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#554](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/554) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#563](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/563) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#4](https://github.com/AngelOnFira/resume-templater/pull/4) in [AngelOnFira/resume-templater](https://github.com/AngelOnFira/resume-templater)
-5. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/pull/159) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+1. 🗣 Commented on [#551](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/551) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#550](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/550) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#557](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/557) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#554](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/554) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#563](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/563) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
