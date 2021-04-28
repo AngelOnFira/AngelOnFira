@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🗣 Commented on [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 💪 Opened PR [#18](https://github.com/SpicyPizza/create-envfile/pull/18) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🎉 Merged PR [#17](https://github.com/SpicyPizza/create-envfile/pull/17) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❗️ Closed issue [#10](https://github.com/SpicyPizza/create-envfile/issues/10) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🗣 Commented on [#4](https://github.com/aidancrowther/Odysseus/issues/4) in [aidancrowther/Odysseus](https://github.com/aidancrowther/Odysseus)
+2. ❗️ Closed issue [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 💪 Opened PR [#18](https://github.com/SpicyPizza/create-envfile/pull/18) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🎉 Merged PR [#17](https://github.com/SpicyPizza/create-envfile/pull/17) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
