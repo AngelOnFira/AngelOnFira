@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/aidancrowther/Odysseus/issues/4) in [aidancrowther/Odysseus](https://github.com/aidancrowther/Odysseus)
-2. ❗️ Closed issue [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 💪 Opened PR [#18](https://github.com/SpicyPizza/create-envfile/pull/18) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🎉 Merged PR [#17](https://github.com/SpicyPizza/create-envfile/pull/17) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🎉 Merged PR [#7](https://github.com/AngelOnFira/dcp-hackathon-2020/pull/7) in [AngelOnFira/dcp-hackathon-2020](https://github.com/AngelOnFira/dcp-hackathon-2020)
+2. ❌ Closed PR [#2](https://github.com/AngelOnFira/angelonfira.github.io/pull/2) in [AngelOnFira/angelonfira.github.io](https://github.com/AngelOnFira/angelonfira.github.io)
+3. 🎉 Merged PR [#4](https://github.com/AngelOnFira/angelonfira.github.io/pull/4) in [AngelOnFira/angelonfira.github.io](https://github.com/AngelOnFira/angelonfira.github.io)
+4. 🗣 Commented on [#4](https://github.com/aidancrowther/Odysseus/issues/4) in [aidancrowther/Odysseus](https://github.com/aidancrowther/Odysseus)
+5. ❗️ Closed issue [#20](https://github.com/SpicyPizza/create-envfile/issues/20) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
