@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#606](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/606) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/terraform/pull/1) in [CarletonComputerScienceSociety/terraform](https://github.com/CarletonComputerScienceSociety/terraform)
-4. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceSociety/test-fork/pull/7) in [CarletonComputerScienceSociety/test-fork](https://github.com/CarletonComputerScienceSociety/test-fork)
-5. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/test-fork/pull/1) in [CarletonComputerScienceSociety/test-fork](https://github.com/CarletonComputerScienceSociety/test-fork)
+1. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#607](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/607) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#606](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/606) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/terraform/pull/1) in [CarletonComputerScienceSociety/terraform](https://github.com/CarletonComputerScienceSociety/terraform)
 <!--END_SECTION:activity-->
