@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#607](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/607) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#606](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/606) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/terraform/pull/1) in [CarletonComputerScienceSociety/terraform](https://github.com/CarletonComputerScienceSociety/terraform)
+1. ❗️ Closed issue [#21](https://github.com/SpicyPizza/create-envfile/issues/21) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#21](https://github.com/SpicyPizza/create-envfile/issues/21) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#589](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/589) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#607](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/607) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#606](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/606) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
