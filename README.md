@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. ❗️ Closed issue [#19](https://github.com/SpicyPizza/create-envfile/issues/19) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 💪 Opened PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 💪 Opened PR [#67](https://github.com/mixxorz/django-service-objects/pull/67) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-5. ❗️ Closed issue [#21](https://github.com/SpicyPizza/create-envfile/issues/21) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Closed issue [#19](https://github.com/SpicyPizza/create-envfile/issues/19) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 💪 Opened PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 💪 Opened PR [#67](https://github.com/mixxorz/django-service-objects/pull/67) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
 <!--END_SECTION:activity-->
