@@ -28,9 +28,9 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#16](https://github.com/CarletonComputerScienceSociety/ccss-website/issues/16) in [CarletonComputerScienceSociety/ccss-website](https://github.com/CarletonComputerScienceSociety/ccss-website)
 2. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. ❗️ Closed issue [#19](https://github.com/SpicyPizza/create-envfile/issues/19) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 💪 Opened PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. ❗️ Closed issue [#19](https://github.com/SpicyPizza/create-envfile/issues/19) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
