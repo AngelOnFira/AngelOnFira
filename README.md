@@ -34,3 +34,7 @@
 4. 🎉 Merged PR [#22](https://github.com/SpicyPizza/create-envfile/pull/22) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 5. ❗️ Closed issue [#19](https://github.com/SpicyPizza/create-envfile/issues/19) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&theme=nord&margin-w=15&margin-h=15">
+</p>
