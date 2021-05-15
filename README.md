@@ -36,5 +36,5 @@
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&theme=nord&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=angelonfira&column=4&theme=nord&margin-w=15&margin-h=15">
 </p>
