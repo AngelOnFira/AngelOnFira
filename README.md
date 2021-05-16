@@ -28,10 +28,10 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
-2. 🗣 Commented on [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
-3. 🗣 Commented on [#16](https://github.com/CarletonComputerScienceSociety/ccss-website/issues/16) in [CarletonComputerScienceSociety/ccss-website](https://github.com/CarletonComputerScienceSociety/ccss-website)
-4. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#23](https://github.com/SpicyPizza/create-envfile/pull/23) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
+3. 🗣 Commented on [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#16](https://github.com/CarletonComputerScienceSociety/ccss-website/issues/16) in [CarletonComputerScienceSociety/ccss-website](https://github.com/CarletonComputerScienceSociety/ccss-website)
 5. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
