@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/SpicyPizza/create-envfile/pull/23) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
-3. 🗣 Commented on [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#16](https://github.com/CarletonComputerScienceSociety/ccss-website/issues/16) in [CarletonComputerScienceSociety/ccss-website](https://github.com/CarletonComputerScienceSociety/ccss-website)
-5. 🗣 Commented on [#636](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/636) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Opened issue [#1](https://github.com/longfangsong/anatole-zola/issues/1) in [longfangsong/anatole-zola](https://github.com/longfangsong/anatole-zola)
+2. 🎉 Merged PR [#23](https://github.com/SpicyPizza/create-envfile/pull/23) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
+5. 🗣 Commented on [#16](https://github.com/CarletonComputerScienceSociety/ccss-website/issues/16) in [CarletonComputerScienceSociety/ccss-website](https://github.com/CarletonComputerScienceSociety/ccss-website)
 <!--END_SECTION:activity-->
 
 <p align="center">
