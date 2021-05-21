@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AngelOnFira/angelonfira.github.io/pull/5) in [AngelOnFira/angelonfira.github.io](https://github.com/AngelOnFira/angelonfira.github.io)
-2. ❗️ Opened issue [#1](https://github.com/longfangsong/anatole-zola/issues/1) in [longfangsong/anatole-zola](https://github.com/longfangsong/anatole-zola)
-3. 🎉 Merged PR [#23](https://github.com/SpicyPizza/create-envfile/pull/23) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
-5. 🗣 Commented on [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
+1. 💪 Opened PR [#18](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/18) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
+2. 🎉 Merged PR [#5](https://github.com/AngelOnFira/angelonfira.github.io/pull/5) in [AngelOnFira/angelonfira.github.io](https://github.com/AngelOnFira/angelonfira.github.io)
+3. ❗️ Opened issue [#1](https://github.com/longfangsong/anatole-zola/issues/1) in [longfangsong/anatole-zola](https://github.com/longfangsong/anatole-zola)
+4. 🎉 Merged PR [#23](https://github.com/SpicyPizza/create-envfile/pull/23) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. ❗️ Closed issue [#79](https://github.com/veloren/veloren/issues/79) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
