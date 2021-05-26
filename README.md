@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/19) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
-2. ❌ Closed PR [#18](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/18) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
-3. 💪 Opened PR [#19](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/19) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
-4. 💪 Opened PR [#18](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/18) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
-5. 🎉 Merged PR [#5](https://github.com/AngelOnFira/angelonfira.github.io/pull/5) in [AngelOnFira/angelonfira.github.io](https://github.com/AngelOnFira/angelonfira.github.io)
+1. 🎉 Merged PR [#96](https://github.com/Brobin/django-seed/pull/96) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+2. 🗣 Commented on [#93](https://github.com/Brobin/django-seed/issues/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+3. 💪 Opened PR [#96](https://github.com/Brobin/django-seed/pull/96) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 🎉 Merged PR [#19](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/19) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
+5. ❌ Closed PR [#18](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client/pull/18) in [CarletonComputerScienceStudyCenter/StudyCenter-Client](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-Client)
 <!--END_SECTION:activity-->
 
 <p align="center">
