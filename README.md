@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 🗣 Commented on [#88](https://github.com/Brobin/django-seed/issues/88) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. ❗️ Closed issue [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🗣 Commented on [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 💪 Opened PR [#6](https://github.com/johnckealy/djengu/pull/6) in [johnckealy/djengu](https://github.com/johnckealy/djengu)
+2. ❗️ Closed issue [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+3. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 🗣 Commented on [#88](https://github.com/Brobin/django-seed/issues/88) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. ❗️ Closed issue [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
 
 <p align="center">
