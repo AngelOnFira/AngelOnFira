@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/rust-gamedev/arewegameyet/issues/426) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. 💪 Opened PR [#6](https://github.com/johnckealy/djengu/pull/6) in [johnckealy/djengu](https://github.com/johnckealy/djengu)
-3. ❗️ Closed issue [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. 🗣 Commented on [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🗣 Commented on [#88](https://github.com/Brobin/django-seed/issues/88) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. ❗️ Opened issue [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#426](https://github.com/rust-gamedev/arewegameyet/issues/426) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+4. 💪 Opened PR [#6](https://github.com/johnckealy/djengu/pull/6) in [johnckealy/djengu](https://github.com/johnckealy/djengu)
+5. ❗️ Closed issue [#92](https://github.com/Brobin/django-seed/issues/92) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
 
 <p align="center">
