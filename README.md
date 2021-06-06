@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/CarletonComputerScienceSociety/core/pull/51) in [CarletonComputerScienceSociety/core](https://github.com/CarletonComputerScienceSociety/core)
-2. 💪 Opened PR [#98](https://github.com/Brobin/django-seed/pull/98) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 💪 Opened PR [#657](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/657) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#659](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/659) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#656](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/656) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#658](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/658) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#653](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/653) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#657](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/657) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
