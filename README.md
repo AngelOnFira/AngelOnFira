@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8224](https://github.com/hashicorp/nomad/issues/8224) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
-2. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#669](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/669) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#662](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/662) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#8224](https://github.com/hashicorp/nomad/issues/8224) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
+3. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#669](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/669) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
