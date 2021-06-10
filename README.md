@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#8224](https://github.com/hashicorp/nomad/issues/8224) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
+1. 🗣 Commented on [#32](https://github.com/CarletonComputerScienceSociety/code-project/issues/32) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+2. 🎉 Merged PR [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#640](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/640) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#673](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/673) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
