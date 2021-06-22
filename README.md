@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/fletchto99/status.fletchto99.com/issues/3) in [fletchto99/status.fletchto99.com](https://github.com/fletchto99/status.fletchto99.com)
-2. 🗣 Commented on [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. ❗️ Closed issue [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🎉 Merged PR [#676](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/676) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#676](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/676) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Opened issue [#104](https://github.com/rust-gamedev/wg/issues/104) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+2. ❗️ Opened issue [#3](https://github.com/fletchto99/status.fletchto99.com/issues/3) in [fletchto99/status.fletchto99.com](https://github.com/fletchto99/status.fletchto99.com)
+3. 🗣 Commented on [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. ❗️ Closed issue [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🎉 Merged PR [#676](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/676) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
