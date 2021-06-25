@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2373](https://github.com/bevyengine/bevy/issues/2373) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Opened issue [#104](https://github.com/rust-gamedev/wg/issues/104) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-3. ❗️ Opened issue [#3](https://github.com/fletchto99/status.fletchto99.com/issues/3) in [fletchto99/status.fletchto99.com](https://github.com/fletchto99/status.fletchto99.com)
-4. 🗣 Commented on [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❗️ Closed issue [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🗣 Commented on [#86613](https://github.com/rust-lang/rust/issues/86613) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#2373](https://github.com/bevyengine/bevy/issues/2373) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. ❗️ Opened issue [#104](https://github.com/rust-gamedev/wg/issues/104) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+4. ❗️ Opened issue [#3](https://github.com/fletchto99/status.fletchto99.com/issues/3) in [fletchto99/status.fletchto99.com](https://github.com/fletchto99/status.fletchto99.com)
+5. 🗣 Commented on [#25](https://github.com/SpicyPizza/create-envfile/issues/25) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
