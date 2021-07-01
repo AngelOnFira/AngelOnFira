@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10824](https://github.com/hashicorp/nomad/pull/10824) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
-2. 💪 Opened PR [#14](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/14) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
-3. 🗣 Commented on [#28](https://github.com/SpicyPizza/create-envfile/issues/28) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#86613](https://github.com/rust-lang/rust/issues/86613) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#2373](https://github.com/bevyengine/bevy/issues/2373) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 💪 Opened PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 💪 Opened PR [#10824](https://github.com/hashicorp/nomad/pull/10824) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
+3. 💪 Opened PR [#14](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/14) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+4. 🗣 Commented on [#28](https://github.com/SpicyPizza/create-envfile/issues/28) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🗣 Commented on [#86613](https://github.com/rust-lang/rust/issues/86613) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
 
 <p align="center">
