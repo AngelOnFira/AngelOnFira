@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/Brobin/django-seed/pull/98) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. 🎉 Merged PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 💪 Opened PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 💪 Opened PR [#10824](https://github.com/hashicorp/nomad/pull/10824) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
-5. 💪 Opened PR [#14](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API/pull/14) in [CarletonComputerScienceStudyCenter/StudyCenter-API](https://github.com/CarletonComputerScienceStudyCenter/StudyCenter-API)
+1. 🗣 Commented on [#99](https://github.com/Brobin/django-seed/issues/99) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+2. 🎉 Merged PR [#98](https://github.com/Brobin/django-seed/pull/98) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+3. 🎉 Merged PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+4. 💪 Opened PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 💪 Opened PR [#10824](https://github.com/hashicorp/nomad/pull/10824) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
 <!--END_SECTION:activity-->
 
 <p align="center">
