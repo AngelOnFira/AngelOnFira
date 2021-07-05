@@ -28,11 +28,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/restic/others/issues/65) in [restic/others](https://github.com/restic/others)
-2. 💪 Opened PR [#703](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/703) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#99](https://github.com/Brobin/django-seed/issues/99) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. 🎉 Merged PR [#98](https://github.com/Brobin/django-seed/pull/98) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🎉 Merged PR [#67](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/67) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+1. 🗣 Commented on [#745](https://github.com/microsoft/vscode-pull-request-github/issues/745) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+2. 🗣 Commented on [#65](https://github.com/restic/others/issues/65) in [restic/others](https://github.com/restic/others)
+3. 💪 Opened PR [#703](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/703) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#99](https://github.com/Brobin/django-seed/issues/99) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. 🎉 Merged PR [#98](https://github.com/Brobin/django-seed/pull/98) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
 
 <p align="center">
