@@ -21,6 +21,11 @@
 [![django-seed-downloads](https://pepy.tech/badge/django-seed)](https://pepy.tech/project/django-seed)
 [![django-seed-builds](https://github.com/Brobin/django-seed/workflows/Test/badge.svg)](https://github.com/Brobin/django-seed)
 
+[Django Service Objects](https://github.com/mixxorz/django-service-objects)
+:gear:
+[![django-service-objects-downloads](https://pepy.tech/badge/django-service-objects)](https://pepy.tech/project/django-service-objects)
+[![django-service-objects-builds](https://github.com/mixxorz/django-service-objects/actions/workflows/test.yml/badge.svg)](https://github.com/mixxorz/django-service-objects/actions/workflows/test.yml)
+
 [Create Envfile](https://github.com/SpicyPizza/create-envfile)
 :lock:
 [![create-envfile-stars](https://img.shields.io/github/stars/SpicyPizza/create-envfile?style=social)](https://github.com/SpicyPizza/create-envfile)
