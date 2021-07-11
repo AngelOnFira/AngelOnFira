@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#100](https://github.com/Brobin/django-seed/issues/100) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. ❌ Closed PR [#93](https://github.com/Brobin/django-seed/pull/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-3. 🗣 Commented on [#93](https://github.com/Brobin/django-seed/issues/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. 💪 Opened PR [#711](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/711) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#745](https://github.com/microsoft/vscode-pull-request-github/issues/745) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+1. 💪 Opened PR [#1](https://github.com/zesterer/chumsky/pull/1) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+2. ❗️ Opened issue [#100](https://github.com/Brobin/django-seed/issues/100) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+3. ❌ Closed PR [#93](https://github.com/Brobin/django-seed/pull/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 🗣 Commented on [#93](https://github.com/Brobin/django-seed/issues/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. 💪 Opened PR [#711](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/711) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
