@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#163](https://github.com/veloren/Airshipper/pull/163) in [veloren/Airshipper](https://github.com/veloren/Airshipper)
-2. 💪 Opened PR [#1](https://github.com/zesterer/chumsky/pull/1) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-3. ❗️ Opened issue [#100](https://github.com/Brobin/django-seed/issues/100) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-4. ❌ Closed PR [#93](https://github.com/Brobin/django-seed/pull/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. 🗣 Commented on [#93](https://github.com/Brobin/django-seed/issues/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+2. ❌ Closed PR [#163](https://github.com/veloren/Airshipper/pull/163) in [veloren/Airshipper](https://github.com/veloren/Airshipper)
+3. 💪 Opened PR [#1](https://github.com/zesterer/chumsky/pull/1) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
+4. ❗️ Opened issue [#100](https://github.com/Brobin/django-seed/issues/100) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+5. ❌ Closed PR [#93](https://github.com/Brobin/django-seed/pull/93) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
 
 <p align="center">
