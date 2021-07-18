@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#772](https://github.com/nannou-org/nannou/issues/772) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-2. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-3. ❌ Closed PR [#163](https://github.com/veloren/Airshipper/pull/163) in [veloren/Airshipper](https://github.com/veloren/Airshipper)
-4. 💪 Opened PR [#1](https://github.com/zesterer/chumsky/pull/1) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
-5. ❗️ Opened issue [#100](https://github.com/Brobin/django-seed/issues/100) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+2. ❗️ Opened issue [#772](https://github.com/nannou-org/nannou/issues/772) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+3. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+4. ❌ Closed PR [#163](https://github.com/veloren/Airshipper/pull/163) in [veloren/Airshipper](https://github.com/veloren/Airshipper)
+5. 💪 Opened PR [#1](https://github.com/zesterer/chumsky/pull/1) in [zesterer/chumsky](https://github.com/zesterer/chumsky)
 <!--END_SECTION:activity-->
 
 <p align="center">
