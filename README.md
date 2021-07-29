@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/SpicyPizza/create-envfile/issues/29) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-3. ❗️ Opened issue [#772](https://github.com/nannou-org/nannou/issues/772) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-4. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-5. ❌ Closed PR [#163](https://github.com/veloren/Airshipper/pull/163) in [veloren/Airshipper](https://github.com/veloren/Airshipper)
+1. 💪 Opened PR [#1080](https://github.com/twilight-rs/twilight/pull/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
+2. 🗣 Commented on [#29](https://github.com/SpicyPizza/create-envfile/issues/29) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+4. ❗️ Opened issue [#772](https://github.com/nannou-org/nannou/issues/772) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+5. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
 <!--END_SECTION:activity-->
 
 <p align="center">
