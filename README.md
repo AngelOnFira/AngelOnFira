@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1080](https://github.com/twilight-rs/twilight/issues/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
+1. 💪 Opened PR [#723](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/723) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 2. 🗣 Commented on [#1080](https://github.com/twilight-rs/twilight/issues/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
-3. 💪 Opened PR [#1080](https://github.com/twilight-rs/twilight/pull/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
-4. 🗣 Commented on [#29](https://github.com/SpicyPizza/create-envfile/issues/29) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#486](https://github.com/nannou-org/nannou/issues/486) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+3. 🗣 Commented on [#1080](https://github.com/twilight-rs/twilight/issues/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
+4. 💪 Opened PR [#1080](https://github.com/twilight-rs/twilight/pull/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
+5. 🗣 Commented on [#29](https://github.com/SpicyPizza/create-envfile/issues/29) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
