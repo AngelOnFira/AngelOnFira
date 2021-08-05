@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/3) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-2. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/pull/1) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-3. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/pull/1) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-4. 💪 Opened PR [#58](https://github.com/CarletonComputerScienceSociety/community-project/pull/58) in [CarletonComputerScienceSociety/community-project](https://github.com/CarletonComputerScienceSociety/community-project)
-5. 💪 Opened PR [#436](https://github.com/rust-gamedev/arewegameyet/pull/436) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+1. 🗣 Commented on [#4](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/4) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+2. 🗣 Commented on [#3](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/3) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/pull/1) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+4. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/pull/1) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+5. 💪 Opened PR [#58](https://github.com/CarletonComputerScienceSociety/community-project/pull/58) in [CarletonComputerScienceSociety/community-project](https://github.com/CarletonComputerScienceSociety/community-project)
 <!--END_SECTION:activity-->
 
 <p align="center">
