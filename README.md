@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#745](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/745) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Closed issue [#2](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/2) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
 2. 🗣 Commented on [#745](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/745) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#96](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/96) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 💪 Opened PR [#96](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/96) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. 🗣 Commented on [#4](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/4) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+3. 🗣 Commented on [#745](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/745) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#96](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/96) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 💪 Opened PR [#96](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/96) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
