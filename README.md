@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-2. 💪 Opened PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 🎉 Merged PR [#107](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/107) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 💪 Opened PR [#107](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/107) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. ❗️ Closed issue [#2](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/2) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+1. 💪 Opened PR [#109](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/109) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 🎉 Merged PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+3. 💪 Opened PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+4. 🎉 Merged PR [#107](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/107) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 💪 Opened PR [#107](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/107) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
