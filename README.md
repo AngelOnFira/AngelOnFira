@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/rust-gamedev/wg/issues/108) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-2. 🎉 Merged PR [#109](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/109) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 💪 Opened PR [#109](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/109) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 🎉 Merged PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. 💪 Opened PR [#108](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/108) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+1. 🗣 Commented on [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+2. ❗️ Opened issue [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+3. 🗣 Commented on [#108](https://github.com/rust-gamedev/wg/issues/108) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+4. 🎉 Merged PR [#109](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/109) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 💪 Opened PR [#109](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/109) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
