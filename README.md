@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#618](https://github.com/rust-lang/team/pull/618) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+1. 🗣 Commented on [#6](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/6) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+2. 💪 Opened PR [#618](https://github.com/rust-lang/team/pull/618) in [rust-lang/team](https://github.com/rust-lang/team)
 3. 🗣 Commented on [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-4. ❗️ Opened issue [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
-5. 🗣 Commented on [#108](https://github.com/rust-gamedev/wg/issues/108) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+4. 🗣 Commented on [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+5. ❗️ Opened issue [#109](https://github.com/rust-gamedev/wg/issues/109) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
 <!--END_SECTION:activity-->
 
 <p align="center">
