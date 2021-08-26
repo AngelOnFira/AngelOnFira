@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/9) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-2. 🗣 Commented on [#6](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/6) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-3. 🗣 Commented on [#157](https://github.com/CarletonComputerScienceSociety/website/issues/157) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 🗣 Commented on [#6](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/6) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-5. 💪 Opened PR [#618](https://github.com/rust-lang/team/pull/618) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+2. ❗️ Closed issue [#9](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/9) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+3. 🗣 Commented on [#6](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/6) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+4. 🗣 Commented on [#157](https://github.com/CarletonComputerScienceSociety/website/issues/157) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 🗣 Commented on [#6](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/6) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
