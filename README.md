@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11129](https://github.com/hashicorp/nomad/pull/11129) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
-2. 💪 Opened PR [#69](https://github.com/CarletonComputerScienceSociety/merged/pull/69) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
-3. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-5. ❗️ Closed issue [#9](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/9) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+1. 💪 Opened PR [#764](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/764) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#11129](https://github.com/hashicorp/nomad/pull/11129) in [hashicorp/nomad](https://github.com/hashicorp/nomad)
+3. 💪 Opened PR [#69](https://github.com/CarletonComputerScienceSociety/merged/pull/69) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
+4. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#13](https://github.com/Brobin/django-seed/issues/13) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
 <!--END_SECTION:activity-->
 
 <p align="center">
