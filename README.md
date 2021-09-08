@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/116) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-2. 🗣 Commented on [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#781](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/781) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#781](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/781) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 💪 Opened PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. 🎉 Merged PR [#19](https://github.com/CarletonComputerScienceSociety/courses-project/pull/19) in [CarletonComputerScienceSociety/courses-project](https://github.com/CarletonComputerScienceSociety/courses-project)
+4. 💪 Opened PR [#19](https://github.com/CarletonComputerScienceSociety/courses-project/pull/19) in [CarletonComputerScienceSociety/courses-project](https://github.com/CarletonComputerScienceSociety/courses-project)
+5. 🎉 Merged PR [#116](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/116) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
