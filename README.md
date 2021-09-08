@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 💪 Opened PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-5. 🎉 Merged PR [#19](https://github.com/CarletonComputerScienceSociety/courses-project/pull/19) in [CarletonComputerScienceSociety/courses-project](https://github.com/CarletonComputerScienceSociety/courses-project)
+1. 💪 Opened PR [#782](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/782) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 💪 Opened PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 <!--END_SECTION:activity-->
 
 <p align="center">
