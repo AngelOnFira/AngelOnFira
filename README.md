@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/CarletonComputerScienceSociety/merged/pull/77) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
-2. 💪 Opened PR [#782](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/782) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#170](https://github.com/CarletonComputerScienceSociety/website/pull/170) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 💪 Opened PR [#39](https://github.com/CarletonComputerScienceSociety/code-project/pull/39) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+2. 🎉 Merged PR [#77](https://github.com/CarletonComputerScienceSociety/merged/pull/77) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
+3. 💪 Opened PR [#782](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/782) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#751](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/751) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#779](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/779) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
