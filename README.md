@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/CarletonComputerScienceSociety/core/pull/51) in [CarletonComputerScienceSociety/core](https://github.com/CarletonComputerScienceSociety/core)
-2. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/code-project/pull/39) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
-3. 💪 Opened PR [#39](https://github.com/CarletonComputerScienceSociety/code-project/pull/39) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
-4. 🎉 Merged PR [#77](https://github.com/CarletonComputerScienceSociety/merged/pull/77) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
-5. 💪 Opened PR [#782](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/782) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/1) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. 🎉 Merged PR [#51](https://github.com/CarletonComputerScienceSociety/core/pull/51) in [CarletonComputerScienceSociety/core](https://github.com/CarletonComputerScienceSociety/core)
+3. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/code-project/pull/39) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+4. 💪 Opened PR [#39](https://github.com/CarletonComputerScienceSociety/code-project/pull/39) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+5. 🎉 Merged PR [#77](https://github.com/CarletonComputerScienceSociety/merged/pull/77) in [CarletonComputerScienceSociety/merged](https://github.com/CarletonComputerScienceSociety/merged)
 <!--END_SECTION:activity-->
 
 <p align="center">
