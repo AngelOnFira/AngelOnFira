@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 💪 Opened PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/1) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/1) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. 🎉 Merged PR [#51](https://github.com/CarletonComputerScienceSociety/core/pull/51) in [CarletonComputerScienceSociety/core](https://github.com/CarletonComputerScienceSociety/core)
+1. 🗣 Commented on [#785](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/785) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#2](https://github.com/gfx-rs/meetup/pull/2) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+3. 🎉 Merged PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. 💪 Opened PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/1) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
