@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#641](https://github.com/rust-lang/team/issues/641) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#785](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/785) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#2](https://github.com/gfx-rs/meetup/pull/2) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-4. 🎉 Merged PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. 💪 Opened PR [#2](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/2) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. ❗️ Closed issue [#104](https://github.com/rust-gamedev/wg/issues/104) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+2. 🗣 Commented on [#104](https://github.com/rust-gamedev/wg/issues/104) in [rust-gamedev/wg](https://github.com/rust-gamedev/wg)
+3. 🗣 Commented on [#641](https://github.com/rust-lang/team/issues/641) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#785](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/785) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#2](https://github.com/gfx-rs/meetup/pull/2) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
