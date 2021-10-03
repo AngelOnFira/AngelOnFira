@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#783](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/783) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#796](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/796) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#790](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/790) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#793](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/793) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#792](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/792) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#783](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/783) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#796](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/796) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#790](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/790) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#793](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/793) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
