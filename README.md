@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/120) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-2. 💪 Opened PR [#120](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/120) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 🗣 Commented on [#783](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/783) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#783](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/783) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#796](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/796) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#806](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/806) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#783](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/783) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#805](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/805) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#804](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/804) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#120](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/120) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
