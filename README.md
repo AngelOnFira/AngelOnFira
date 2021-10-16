@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/rust-ctcft/ctcft/issues/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-2. 💪 Opened PR [#6](https://github.com/rust-ctcft/ctcft/pull/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-3. 🗣 Commented on [#14](https://github.com/nikomatsakis/rustacean-principles/issues/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
-4. 💪 Opened PR [#14](https://github.com/nikomatsakis/rustacean-principles/pull/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
-5. 💪 Opened PR [#1544](https://github.com/serenity-rs/serenity/pull/1544) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+1. 🎉 Merged PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 💪 Opened PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+3. 🗣 Commented on [#6](https://github.com/rust-ctcft/ctcft/issues/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+4. 💪 Opened PR [#6](https://github.com/rust-ctcft/ctcft/pull/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+5. 🗣 Commented on [#14](https://github.com/nikomatsakis/rustacean-principles/issues/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
 <!--END_SECTION:activity-->
 
 <p align="center">
