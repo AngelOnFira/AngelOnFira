@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🎉 Merged PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 💪 Opened PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 🗣 Commented on [#6](https://github.com/rust-ctcft/ctcft/issues/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-5. 💪 Opened PR [#6](https://github.com/rust-ctcft/ctcft/pull/6) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+1. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 💪 Opened PR [#253](https://github.com/SeaQL/sea-orm/pull/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+3. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🎉 Merged PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 💪 Opened PR [#124](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/124) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
