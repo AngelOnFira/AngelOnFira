@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🎉 Merged PR [#8](https://github.com/rust-ctcft/ctcft/pull/8) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-3. 🗣 Commented on [#8](https://github.com/rust-ctcft/ctcft/issues/8) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-4. 💪 Opened PR [#8](https://github.com/rust-ctcft/ctcft/pull/8) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-5. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+3. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🎉 Merged PR [#8](https://github.com/rust-ctcft/ctcft/pull/8) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+5. 🗣 Commented on [#8](https://github.com/rust-ctcft/ctcft/issues/8) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
