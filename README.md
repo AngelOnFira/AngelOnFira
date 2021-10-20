@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#263](https://github.com/SeaQL/sea-orm/pull/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+1. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 💪 Opened PR [#263](https://github.com/SeaQL/sea-orm/pull/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 3. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-5. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🗣 Commented on [#253](https://github.com/SeaQL/sea-orm/issues/253) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+5. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 <!--END_SECTION:activity-->
 
 <p align="center">
