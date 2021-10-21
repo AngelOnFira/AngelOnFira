@@ -37,7 +37,7 @@
 2. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 3. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 4. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-5. 💪 Opened PR [#263](https://github.com/SeaQL/sea-orm/pull/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+5. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 <!--END_SECTION:activity-->
 
 <p align="center">
