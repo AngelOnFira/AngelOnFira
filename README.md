@@ -34,7 +34,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1080](https://github.com/twilight-rs/twilight/issues/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
-2. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 🗣 Commented on [#1080](https://github.com/twilight-rs/twilight/issues/1080) in [twilight-rs/twilight](https://github.com/twilight-rs/twilight)
 3. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 4. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 5. 🗣 Commented on [#263](https://github.com/SeaQL/sea-orm/issues/263) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
