@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🗣 Commented on [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#9](https://github.com/rust-code-reading-club/rustc/issues/9) in [rust-code-reading-club/rustc](https://github.com/rust-code-reading-club/rustc)
-4. ❗️ Closed issue [#27](https://github.com/SpicyPizza/create-envfile/issues/27) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#27](https://github.com/SpicyPizza/create-envfile/issues/27) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. ❗️ Opened issue [#284](https://github.com/SeaQL/sea-orm/issues/284) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. ❗️ Closed issue [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 🗣 Commented on [#9](https://github.com/rust-code-reading-club/rustc/issues/9) in [rust-code-reading-club/rustc](https://github.com/rust-code-reading-club/rustc)
+5. ❗️ Closed issue [#27](https://github.com/SpicyPizza/create-envfile/issues/27) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
