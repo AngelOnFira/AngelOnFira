@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#818](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/818) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Opened issue [#284](https://github.com/SeaQL/sea-orm/issues/284) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. ❗️ Closed issue [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#12](https://github.com/SpicyPizza/create-envfile/issues/12) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#9](https://github.com/rust-code-reading-club/rustc/issues/9) in [rust-code-reading-club/rustc](https://github.com/rust-code-reading-club/rustc)
+1. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+2. 🎉 Merged PR [#14](https://github.com/lamejam/lamejam.github.io/pull/14) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+3. 🎉 Merged PR [#15](https://github.com/lamejam/lamejam.github.io/pull/15) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+4. 🎉 Merged PR [#16](https://github.com/lamejam/lamejam.github.io/pull/16) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+5. 💪 Opened PR [#16](https://github.com/lamejam/lamejam.github.io/pull/16) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
