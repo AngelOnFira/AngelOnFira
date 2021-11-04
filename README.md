@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
-2. 🎉 Merged PR [#14](https://github.com/lamejam/lamejam.github.io/pull/14) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
-3. 🎉 Merged PR [#15](https://github.com/lamejam/lamejam.github.io/pull/15) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
-4. 🎉 Merged PR [#16](https://github.com/lamejam/lamejam.github.io/pull/16) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
-5. 💪 Opened PR [#16](https://github.com/lamejam/lamejam.github.io/pull/16) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+1. 🗣 Commented on [#290](https://github.com/SeaQL/sea-orm/issues/290) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 🗣 Commented on [#818](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/818) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+4. 🎉 Merged PR [#14](https://github.com/lamejam/lamejam.github.io/pull/14) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+5. 🎉 Merged PR [#15](https://github.com/lamejam/lamejam.github.io/pull/15) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
