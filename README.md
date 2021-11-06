@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/nikomatsakis/rustacean-principles/pull/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
-2. 🗣 Commented on [#290](https://github.com/SeaQL/sea-orm/issues/290) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. 🗣 Commented on [#818](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/818) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
-5. 🎉 Merged PR [#14](https://github.com/lamejam/lamejam.github.io/pull/14) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+1. 🗣 Commented on [#743](https://github.com/ajour/ajour/issues/743) in [ajour/ajour](https://github.com/ajour/ajour)
+2. ❌ Closed PR [#14](https://github.com/nikomatsakis/rustacean-principles/pull/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
+3. 🗣 Commented on [#290](https://github.com/SeaQL/sea-orm/issues/290) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🗣 Commented on [#818](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/818) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
