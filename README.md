@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#743](https://github.com/ajour/ajour/issues/743) in [ajour/ajour](https://github.com/ajour/ajour)
-2. ❌ Closed PR [#14](https://github.com/nikomatsakis/rustacean-principles/pull/14) in [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles)
-3. 🗣 Commented on [#290](https://github.com/SeaQL/sea-orm/issues/290) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. 🗣 Commented on [#818](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/818) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#17](https://github.com/lamejam/lamejam.github.io/pull/17) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+1. 💪 Opened PR [#843](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/843) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#743](https://github.com/ajour/ajour/issues/743) in [ajour/ajour](https://github.com/ajour/ajour)
 <!--END_SECTION:activity-->
 
 <p align="center">
