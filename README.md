@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#843](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/843) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#127](https://github.com/yewprint/yewprint/pull/127) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+2. 💪 Opened PR [#843](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/843) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 3. 🗣 Commented on [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#743](https://github.com/ajour/ajour/issues/743) in [ajour/ajour](https://github.com/ajour/ajour)
+4. 🗣 Commented on [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#842](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/842) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
