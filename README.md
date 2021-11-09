@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/23) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-2. 🗣 Commented on [#846](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/846) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#1](https://github.com/AngelOnFira/yew-trunk-minimal-template/pull/1) in [AngelOnFira/yew-trunk-minimal-template](https://github.com/AngelOnFira/yew-trunk-minimal-template)
-4. 💪 Opened PR [#1](https://github.com/AngelOnFira/yew-trunk-minimal-template/pull/1) in [AngelOnFira/yew-trunk-minimal-template](https://github.com/AngelOnFira/yew-trunk-minimal-template)
-5. 💪 Opened PR [#2](https://github.com/yewstack/yew-trunk-minimal-template/pull/2) in [yewstack/yew-trunk-minimal-template](https://github.com/yewstack/yew-trunk-minimal-template)
+1. ❌ Closed PR [#18](https://github.com/SpicyPizza/create-envfile/pull/18) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#23](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/23) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
+3. 🗣 Commented on [#846](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/846) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#1](https://github.com/AngelOnFira/yew-trunk-minimal-template/pull/1) in [AngelOnFira/yew-trunk-minimal-template](https://github.com/AngelOnFira/yew-trunk-minimal-template)
+5. 💪 Opened PR [#1](https://github.com/AngelOnFira/yew-trunk-minimal-template/pull/1) in [AngelOnFira/yew-trunk-minimal-template](https://github.com/AngelOnFira/yew-trunk-minimal-template)
 <!--END_SECTION:activity-->
 
 <p align="center">
