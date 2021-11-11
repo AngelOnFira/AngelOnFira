@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#668](https://github.com/rust-lang/team/issues/668) in [rust-lang/team](https://github.com/rust-lang/team)
-2. ❗️ Opened issue [#667](https://github.com/rust-lang/team/issues/667) in [rust-lang/team](https://github.com/rust-lang/team)
-3. ❌ Closed PR [#18](https://github.com/SpicyPizza/create-envfile/pull/18) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#23](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca/issues/23) in [CarletonComputerScienceSociety/status.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/status.carletoncomputerscience.ca)
-5. 🗣 Commented on [#846](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/846) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Closed issue [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
+2. 🗣 Commented on [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
+3. ❗️ Closed issue [#738](https://github.com/amethyst/specs/issues/738) in [amethyst/specs](https://github.com/amethyst/specs)
+4. 🗣 Commented on [#738](https://github.com/amethyst/specs/issues/738) in [amethyst/specs](https://github.com/amethyst/specs)
+5. 🗣 Commented on [#668](https://github.com/rust-lang/team/issues/668) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
 
 <p align="center">
