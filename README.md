@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-2. ❗️ Closed issue [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
-3. 🗣 Commented on [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
-4. ❗️ Closed issue [#738](https://github.com/amethyst/specs/issues/738) in [amethyst/specs](https://github.com/amethyst/specs)
-5. 🗣 Commented on [#738](https://github.com/amethyst/specs/issues/738) in [amethyst/specs](https://github.com/amethyst/specs)
+1. 🎉 Merged PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+2. 💪 Opened PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+3. ❗️ Closed issue [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
+4. 🗣 Commented on [#739](https://github.com/amethyst/specs/issues/739) in [amethyst/specs](https://github.com/amethyst/specs)
+5. ❗️ Closed issue [#738](https://github.com/amethyst/specs/issues/738) in [amethyst/specs](https://github.com/amethyst/specs)
 <!--END_SECTION:activity-->
 
 <p align="center">
