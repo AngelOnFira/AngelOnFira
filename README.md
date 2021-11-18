@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/rust-ctcft/ctcft/pull/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-2. 🗣 Commented on [#10](https://github.com/rust-ctcft/ctcft/issues/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-3. 💪 Opened PR [#5](https://github.com/nikomatsakis/babysteps/pull/5) in [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps)
-4. 🎉 Merged PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
-5. 💪 Opened PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+1. 🗣 Commented on [#10](https://github.com/rust-ctcft/ctcft/issues/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+2. ❌ Closed PR [#10](https://github.com/rust-ctcft/ctcft/pull/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+3. 🗣 Commented on [#10](https://github.com/rust-ctcft/ctcft/issues/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+4. 💪 Opened PR [#5](https://github.com/nikomatsakis/babysteps/pull/5) in [nikomatsakis/babysteps](https://github.com/nikomatsakis/babysteps)
+5. 🎉 Merged PR [#9](https://github.com/rust-ctcft/ctcft/pull/9) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
