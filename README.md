@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/3) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/4) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/4) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. 🗣 Commented on [#10](https://github.com/rust-ctcft/ctcft/issues/10) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+1. 🎉 Merged PR [#11](https://github.com/rust-ctcft/ctcft/pull/11) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+2. 💪 Opened PR [#11](https://github.com/rust-ctcft/ctcft/pull/11) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+3. 🗣 Commented on [#239](https://github.com/SeaQL/sea-orm/issues/239) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/3) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/4) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
