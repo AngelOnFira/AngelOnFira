@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/108) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 💪 Opened PR [#106](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/106) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🎉 Merged PR [#103](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/103) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 💪 Opened PR [#100](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/100) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#11](https://github.com/rust-ctcft/ctcft/pull/11) in [rust-ctcft/ctcft](https://github.com/rust-ctcft/ctcft)
+1. ❗️ Opened issue [#852](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/852) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#108](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/108) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 💪 Opened PR [#106](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/106) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🎉 Merged PR [#103](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/103) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 💪 Opened PR [#100](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/100) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
