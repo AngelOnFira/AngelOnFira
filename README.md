@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#853](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/853) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#347](https://github.com/SeaQL/sea-orm/issues/347) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. 🎉 Merged PR [#146](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/146) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 🎉 Merged PR [#147](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/147) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#148](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/148) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🗣 Commented on [#861](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/861) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#860](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/860) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#859](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/859) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#858](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/858) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#857](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/857) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
