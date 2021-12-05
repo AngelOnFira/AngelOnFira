@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#854](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/854) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#155](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/155) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🎉 Merged PR [#154](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/154) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 🎉 Merged PR [#153](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/153) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#152](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/152) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🗣 Commented on [#852](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/852) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#870](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/870) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#863](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/863) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#862](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/862) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#854](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/854) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
