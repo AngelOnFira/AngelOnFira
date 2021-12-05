@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/156) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🗣 Commented on [#852](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/852) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#870](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/870) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#863](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/863) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#862](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/862) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#869](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/869) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#18](https://github.com/lamejam/lamejam.github.io/pull/18) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+3. 💪 Opened PR [#18](https://github.com/lamejam/lamejam.github.io/pull/18) in [lamejam/lamejam.github.io](https://github.com/lamejam/lamejam.github.io)
+4. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/156) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#852](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/852) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
