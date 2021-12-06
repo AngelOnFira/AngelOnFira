@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#157](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/157) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🎉 Merged PR [#158](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/158) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🎉 Merged PR [#159](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/159) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. ❗️ Closed issue [#872](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/872) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#872](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/872) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#163](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/163) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🎉 Merged PR [#162](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/162) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#161](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/161) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🎉 Merged PR [#160](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/160) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 💪 Opened PR [#160](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/160) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
