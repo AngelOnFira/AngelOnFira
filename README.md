@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#887](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/887) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#1](https://github.com/AngelOnFira/rust-gamedev.github.io/pull/1) in [AngelOnFira/rust-gamedev.github.io](https://github.com/AngelOnFira/rust-gamedev.github.io)
-3. 💪 Opened PR [#1](https://github.com/AngelOnFira/rust-gamedev.github.io/pull/1) in [AngelOnFira/rust-gamedev.github.io](https://github.com/AngelOnFira/rust-gamedev.github.io)
-4. 🎉 Merged PR [#876](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/876) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#876](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/876) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#182](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/182) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🎉 Merged PR [#180](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/180) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#181](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/181) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 💪 Opened PR [#181](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/181) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#887](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/887) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
