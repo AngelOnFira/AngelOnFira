@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#213](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/213) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🗣 Commented on [#212](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/212) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
-4. 💪 Opened PR [#131](https://github.com/yewprint/yewprint/pull/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
-5. 🎉 Merged PR [#211](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/211) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#215](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/215) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🎉 Merged PR [#214](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/214) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#213](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/213) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 💪 Opened PR [#213](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/213) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#212](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/212) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
