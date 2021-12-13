@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/219) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🎉 Merged PR [#218](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/218) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 💪 Opened PR [#218](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/218) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 💪 Opened PR [#1](https://github.com/bigforestnotrees/AdventOfCode/pull/1) in [bigforestnotrees/AdventOfCode](https://github.com/bigforestnotrees/AdventOfCode)
-5. 🎉 Merged PR [#217](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/217) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#220](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/220) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🗣 Commented on [#219](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/219) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#218](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/218) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 💪 Opened PR [#218](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/218) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 💪 Opened PR [#1](https://github.com/bigforestnotrees/AdventOfCode/pull/1) in [bigforestnotrees/AdventOfCode](https://github.com/bigforestnotrees/AdventOfCode)
 <!--END_SECTION:activity-->
 
 <p align="center">
