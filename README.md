@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AngelOnFira/rusty-christmas-tree/pull/2) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-2. 🎉 Merged PR [#1](https://github.com/AngelOnFira/rusty-christmas-tree/pull/1) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-3. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-4. ❗️ Closed issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-5. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+1. ❗️ Opened issue [#3](https://github.com/AngelOnFira/rusty-christmas-tree/issues/3) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+2. 🎉 Merged PR [#2](https://github.com/AngelOnFira/rusty-christmas-tree/pull/2) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+3. 🎉 Merged PR [#1](https://github.com/AngelOnFira/rusty-christmas-tree/pull/1) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+4. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+5. ❗️ Closed issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
 <!--END_SECTION:activity-->
 
 <p align="center">
