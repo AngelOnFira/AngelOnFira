@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-2. ❗️ Closed issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-3. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-4. ❗️ Opened issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
-5. 🎉 Merged PR [#228](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/228) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#1](https://github.com/AngelOnFira/rusty-christmas-tree/pull/1) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+2. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+3. ❗️ Closed issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+4. 🗣 Commented on [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
+5. ❗️ Opened issue [#827](https://github.com/nannou-org/nannou/issues/827) in [nannou-org/nannou](https://github.com/nannou-org/nannou)
 <!--END_SECTION:activity-->
 
 <p align="center">
