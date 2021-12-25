@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-2. 🗣 Commented on [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-3. ❗️ Opened issue [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-4. ❗️ Closed issue [#6](https://github.com/AngelOnFira/rusty-christmas-tree/issues/6) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-5. 🗣 Commented on [#6](https://github.com/AngelOnFira/rusty-christmas-tree/issues/6) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+1. 🎉 Merged PR [#8](https://github.com/AngelOnFira/rusty-christmas-tree/pull/8) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+2. ❗️ Closed issue [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+3. 🗣 Commented on [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+4. ❗️ Opened issue [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+5. ❗️ Closed issue [#6](https://github.com/AngelOnFira/rusty-christmas-tree/issues/6) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
 <!--END_SECTION:activity-->
 
 <p align="center">
