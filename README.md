@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AlanReviews/Discordpy-bot/pull/1) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-2. 🎉 Merged PR [#9](https://github.com/AngelOnFira/rusty-christmas-tree/pull/9) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-3. 💪 Opened PR [#9](https://github.com/AngelOnFira/rusty-christmas-tree/pull/9) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-4. 🎉 Merged PR [#8](https://github.com/AngelOnFira/rusty-christmas-tree/pull/8) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-5. ❗️ Closed issue [#7](https://github.com/AngelOnFira/rusty-christmas-tree/issues/7) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+1. 💪 Opened PR [#1](https://github.com/AngelOnFira/veloren/pull/1) in [AngelOnFira/veloren](https://github.com/AngelOnFira/veloren)
+2. 💪 Opened PR [#1](https://github.com/AlanReviews/Discordpy-bot/pull/1) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+3. 🎉 Merged PR [#9](https://github.com/AngelOnFira/rusty-christmas-tree/pull/9) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+4. 💪 Opened PR [#9](https://github.com/AngelOnFira/rusty-christmas-tree/pull/9) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+5. 🎉 Merged PR [#8](https://github.com/AngelOnFira/rusty-christmas-tree/pull/8) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
 <!--END_SECTION:activity-->
 
 <p align="center">
