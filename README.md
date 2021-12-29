@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AngelOnFira/veloren/pull/1) in [AngelOnFira/veloren](https://github.com/AngelOnFira/veloren)
-2. 💪 Opened PR [#3](https://github.com/AlanReviews/Discordpy-bot/pull/3) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-3. 💪 Opened PR [#2](https://github.com/AlanReviews/Discordpy-bot/pull/2) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-4. 💪 Opened PR [#1](https://github.com/AngelOnFira/veloren/pull/1) in [AngelOnFira/veloren](https://github.com/AngelOnFira/veloren)
-5. 💪 Opened PR [#1](https://github.com/AlanReviews/Discordpy-bot/pull/1) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+1. ❗️ Opened issue [#4805](https://github.com/git-lfs/git-lfs/issues/4805) in [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
+2. 🎉 Merged PR [#1](https://github.com/AngelOnFira/veloren/pull/1) in [AngelOnFira/veloren](https://github.com/AngelOnFira/veloren)
+3. 💪 Opened PR [#3](https://github.com/AlanReviews/Discordpy-bot/pull/3) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+4. 💪 Opened PR [#2](https://github.com/AlanReviews/Discordpy-bot/pull/2) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+5. 💪 Opened PR [#1](https://github.com/AngelOnFira/veloren/pull/1) in [AngelOnFira/veloren](https://github.com/AngelOnFira/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
