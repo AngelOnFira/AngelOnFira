@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/AngelOnFira/rusty-christmas-tree/pull/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-2. 🗣 Commented on [#11](https://github.com/AngelOnFira/rusty-christmas-tree/issues/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-3. 🗣 Commented on [#888](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/888) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. ❗️ Opened issue [#17](https://github.com/cneira/firecracker-task-driver/issues/17) in [cneira/firecracker-task-driver](https://github.com/cneira/firecracker-task-driver)
-5. ❗️ Closed issue [#4805](https://github.com/git-lfs/git-lfs/issues/4805) in [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
+1. 💪 Opened PR [#4](https://github.com/AlanReviews/Discordpy-bot/pull/4) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+2. 💪 Opened PR [#901](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/901) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#11](https://github.com/AngelOnFira/rusty-christmas-tree/pull/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+4. 🗣 Commented on [#11](https://github.com/AngelOnFira/rusty-christmas-tree/issues/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+5. 🗣 Commented on [#888](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/888) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
