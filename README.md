@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#902](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/902) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#4](https://github.com/AlanReviews/Discordpy-bot/pull/4) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-3. 💪 Opened PR [#901](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/901) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#11](https://github.com/AngelOnFira/rusty-christmas-tree/pull/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-5. 🗣 Commented on [#11](https://github.com/AngelOnFira/rusty-christmas-tree/issues/11) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+1. 🗣 Commented on [#888](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/888) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#904](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/904) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#902](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/902) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#4](https://github.com/AlanReviews/Discordpy-bot/pull/4) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+5. 💪 Opened PR [#901](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/901) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
