@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#12](https://github.com/rust-lang/ctcft/pull/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 🗣 Commented on [#12](https://github.com/rust-lang/ctcft/issues/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. 🗣 Commented on [#897](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/897) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#899](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/899) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#12](https://github.com/rust-lang/ctcft/pull/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 🗣 Commented on [#12](https://github.com/rust-lang/ctcft/issues/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 🗣 Commented on [#897](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/897) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
