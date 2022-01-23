@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/Brobin/django-seed/issues/110) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
-2. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#12](https://github.com/rust-lang/ctcft/pull/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🗣 Commented on [#12](https://github.com/rust-lang/ctcft/issues/12) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. ❌ Closed PR [#83](https://github.com/veloren/veloren/pull/83) in [veloren/veloren](https://github.com/veloren/veloren)
+2. 🗣 Commented on [#83](https://github.com/veloren/veloren/issues/83) in [veloren/veloren](https://github.com/veloren/veloren)
+3. 🗣 Commented on [#110](https://github.com/Brobin/django-seed/issues/110) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+4. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#909](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/909) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
