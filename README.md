@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Opened issue [#18](https://github.com/rust-lang/ctcft/issues/18) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Opened issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. ❗️ Opened issue [#16](https://github.com/rust-lang/ctcft/issues/16) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. ❗️ Opened issue [#15](https://github.com/rust-lang/ctcft/issues/15) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. ❗️ Opened issue [#20](https://github.com/rust-lang/ctcft/issues/20) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Opened issue [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. ❗️ Opened issue [#18](https://github.com/rust-lang/ctcft/issues/18) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Opened issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Opened issue [#16](https://github.com/rust-lang/ctcft/issues/16) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
