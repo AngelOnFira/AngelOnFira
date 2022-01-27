@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#84](https://github.com/veloren/veloren/pull/84) in [veloren/veloren](https://github.com/veloren/veloren)
-2. 🗣 Commented on [#84](https://github.com/veloren/veloren/issues/84) in [veloren/veloren](https://github.com/veloren/veloren)
-3. ❌ Closed PR [#83](https://github.com/veloren/veloren/pull/83) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#83](https://github.com/veloren/veloren/issues/83) in [veloren/veloren](https://github.com/veloren/veloren)
-5. 🗣 Commented on [#110](https://github.com/Brobin/django-seed/issues/110) in [Brobin/django-seed](https://github.com/Brobin/django-seed)
+1. ❗️ Opened issue [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Opened issue [#18](https://github.com/rust-lang/ctcft/issues/18) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. ❗️ Opened issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Opened issue [#16](https://github.com/rust-lang/ctcft/issues/16) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Opened issue [#15](https://github.com/rust-lang/ctcft/issues/15) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
