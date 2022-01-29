@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/rust-lang/ctcft/issues/20) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Opened issue [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Opened issue [#18](https://github.com/rust-lang/ctcft/issues/18) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. ❗️ Opened issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. ❗️ Opened issue [#16](https://github.com/rust-lang/ctcft/issues/16) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🎉 Merged PR [#3](https://github.com/AngelOnFira/ggj-2022/pull/3) in [AngelOnFira/ggj-2022](https://github.com/AngelOnFira/ggj-2022)
+2. 🎉 Merged PR [#2](https://github.com/AngelOnFira/ggj-2022/pull/2) in [AngelOnFira/ggj-2022](https://github.com/AngelOnFira/ggj-2022)
+3. ❗️ Opened issue [#20](https://github.com/rust-lang/ctcft/issues/20) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Opened issue [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Opened issue [#18](https://github.com/rust-lang/ctcft/issues/18) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
