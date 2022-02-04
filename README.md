@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#639](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/639) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#21](https://github.com/rust-lang/ctcft/pull/21) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 🗣 Commented on [#700](https://github.com/rust-lang/team/issues/700) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🎉 Merged PR [#3](https://github.com/AngelOnFira/ggj-2022/pull/3) in [AngelOnFira/ggj-2022](https://github.com/AngelOnFira/ggj-2022)
-5. 🎉 Merged PR [#2](https://github.com/AngelOnFira/ggj-2022/pull/2) in [AngelOnFira/ggj-2022](https://github.com/AngelOnFira/ggj-2022)
+1. 💪 Opened PR [#926](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/926) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#639](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/639) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#21](https://github.com/rust-lang/ctcft/pull/21) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 🗣 Commented on [#700](https://github.com/rust-lang/team/issues/700) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#3](https://github.com/AngelOnFira/ggj-2022/pull/3) in [AngelOnFira/ggj-2022](https://github.com/AngelOnFira/ggj-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
