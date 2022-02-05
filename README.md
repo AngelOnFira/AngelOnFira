@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 💪 Opened PR [#930](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/930) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#912](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/912) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#926](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/926) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#926](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/926) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#13](https://github.com/AngelOnFira/megagame-controller/pull/13) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+2. 🎉 Merged PR [#14](https://github.com/AngelOnFira/megagame-controller/pull/14) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+3. 🎉 Merged PR [#11](https://github.com/AngelOnFira/megagame-controller/pull/11) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/megagame-controller/pull/12) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+5. 🗣 Commented on [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
