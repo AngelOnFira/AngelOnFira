@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/AngelOnFira/megagame-controller/pull/13) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
-2. 🎉 Merged PR [#14](https://github.com/AngelOnFira/megagame-controller/pull/14) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
-3. 🎉 Merged PR [#11](https://github.com/AngelOnFira/megagame-controller/pull/11) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
-4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/megagame-controller/pull/12) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
-5. 🗣 Commented on [#19](https://github.com/rust-lang/ctcft/issues/19) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. ❗️ Opened issue [#506](https://github.com/SeaQL/sea-orm/issues/506) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 🎉 Merged PR [#13](https://github.com/AngelOnFira/megagame-controller/pull/13) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+3. 🎉 Merged PR [#14](https://github.com/AngelOnFira/megagame-controller/pull/14) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+4. 🎉 Merged PR [#11](https://github.com/AngelOnFira/megagame-controller/pull/11) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+5. 🎉 Merged PR [#12](https://github.com/AngelOnFira/megagame-controller/pull/12) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
 <!--END_SECTION:activity-->
 
 <p align="center">
