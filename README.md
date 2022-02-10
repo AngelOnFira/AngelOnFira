@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/rust-lang/ctcft/issues/23) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Closed issue [#3](https://github.com/rust-lang/ctcft/issues/3) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Opened issue [#506](https://github.com/SeaQL/sea-orm/issues/506) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. 🎉 Merged PR [#13](https://github.com/AngelOnFira/megagame-controller/pull/13) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
-5. 🎉 Merged PR [#14](https://github.com/AngelOnFira/megagame-controller/pull/14) in [AngelOnFira/megagame-controller](https://github.com/AngelOnFira/megagame-controller)
+1. 💪 Opened PR [#946](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/946) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#944](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/944) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#944](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/944) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#944](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/944) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#944](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/944) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
