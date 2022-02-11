@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/rust-lang/blog.rust-lang.org/issues/924) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+1. 🎉 Merged PR [#21](https://github.com/rust-lang/ctcft/pull/21) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 2. 🗣 Commented on [#21](https://github.com/rust-lang/ctcft/issues/21) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#924](https://github.com/rust-lang/blog.rust-lang.org/pull/924) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 🗣 Commented on [#21](https://github.com/rust-lang/ctcft/issues/21) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 💪 Opened PR [#946](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/946) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#924](https://github.com/rust-lang/blog.rust-lang.org/issues/924) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+4. 🗣 Commented on [#924](https://github.com/rust-lang/blog.rust-lang.org/issues/924) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+5. 🗣 Commented on [#924](https://github.com/rust-lang/blog.rust-lang.org/issues/924) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 <!--END_SECTION:activity-->
 
 <p align="center">
