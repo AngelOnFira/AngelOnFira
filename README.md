@@ -34,8 +34,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#43](https://github.com/SpicyPizza/create-envfile/issues/43) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. ❗️ Opened issue [#43](https://github.com/SpicyPizza/create-envfile/issues/43) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#43](https://github.com/SpicyPizza/create-envfile/issues/43) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Opened issue [#43](https://github.com/SpicyPizza/create-envfile/issues/43) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 4. 🗣 Commented on [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 5. 🗣 Commented on [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
