@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🎉 Merged PR [#44](https://github.com/SpicyPizza/create-envfile/pull/44) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. ❗️ Closed issue [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 💪 Opened PR [#44](https://github.com/SpicyPizza/create-envfile/pull/44) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#42](https://github.com/SpicyPizza/create-envfile/issues/42) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 💪 Opened PR [#70](https://github.com/mixxorz/django-service-objects/pull/70) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+2. 🎉 Merged PR [#69](https://github.com/mixxorz/django-service-objects/pull/69) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+3. ❗️ Closed issue [#68](https://github.com/mixxorz/django-service-objects/issues/68) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+4. 🗣 Commented on [#69](https://github.com/mixxorz/django-service-objects/issues/69) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+5. 🗣 Commented on [#69](https://github.com/mixxorz/django-service-objects/issues/69) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
 <!--END_SECTION:activity-->
 
 <p align="center">
