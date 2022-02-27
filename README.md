@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-2. 💪 Opened PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-3. 🎉 Merged PR [#71](https://github.com/mixxorz/django-service-objects/pull/71) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-4. 💪 Opened PR [#71](https://github.com/mixxorz/django-service-objects/pull/71) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-5. 🎉 Merged PR [#70](https://github.com/mixxorz/django-service-objects/pull/70) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+1. 💪 Opened PR [#1](https://github.com/Bricktech2000/Rust-Creative-Coding/pull/1) in [Bricktech2000/Rust-Creative-Coding](https://github.com/Bricktech2000/Rust-Creative-Coding)
+2. 🎉 Merged PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+3. 💪 Opened PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+4. 🎉 Merged PR [#71](https://github.com/mixxorz/django-service-objects/pull/71) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+5. 💪 Opened PR [#71](https://github.com/mixxorz/django-service-objects/pull/71) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
 <!--END_SECTION:activity-->
 
 <p align="center">
