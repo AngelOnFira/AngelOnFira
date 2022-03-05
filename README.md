@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Opened issue [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#1](https://github.com/Bricktech2000/Rust-Creative-Coding/pull/1) in [Bricktech2000/Rust-Creative-Coding](https://github.com/Bricktech2000/Rust-Creative-Coding)
-4. 🎉 Merged PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
-5. 💪 Opened PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+2. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. ❗️ Opened issue [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#1](https://github.com/Bricktech2000/Rust-Creative-Coding/pull/1) in [Bricktech2000/Rust-Creative-Coding](https://github.com/Bricktech2000/Rust-Creative-Coding)
+5. 🎉 Merged PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
 <!--END_SECTION:activity-->
 
 <p align="center">
