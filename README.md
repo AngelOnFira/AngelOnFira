@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
-2. 🗣 Commented on [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
-3. ❌ Closed PR [#86](https://github.com/veloren/veloren/pull/86) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#86](https://github.com/veloren/veloren/issues/86) in [veloren/veloren](https://github.com/veloren/veloren)
-5. ❌ Closed PR [#87](https://github.com/veloren/veloren/pull/87) in [veloren/veloren](https://github.com/veloren/veloren)
+1. ❌ Closed PR [#92](https://github.com/veloren/veloren/pull/92) in [veloren/veloren](https://github.com/veloren/veloren)
+2. 🗣 Commented on [#92](https://github.com/veloren/veloren/issues/92) in [veloren/veloren](https://github.com/veloren/veloren)
+3. ❌ Closed PR [#93](https://github.com/veloren/veloren/pull/93) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#93](https://github.com/veloren/veloren/issues/93) in [veloren/veloren](https://github.com/veloren/veloren)
+5. ❗️ Closed issue [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
