@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗️ Opened issue [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#1](https://github.com/Bricktech2000/Rust-Creative-Coding/pull/1) in [Bricktech2000/Rust-Creative-Coding](https://github.com/Bricktech2000/Rust-Creative-Coding)
-5. 🎉 Merged PR [#72](https://github.com/mixxorz/django-service-objects/pull/72) in [mixxorz/django-service-objects](https://github.com/mixxorz/django-service-objects)
+1. ❗️ Closed issue [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
+2. 🗣 Commented on [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
+3. ❌ Closed PR [#86](https://github.com/veloren/veloren/pull/86) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#86](https://github.com/veloren/veloren/issues/86) in [veloren/veloren](https://github.com/veloren/veloren)
+5. ❌ Closed PR [#87](https://github.com/veloren/veloren/pull/87) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
