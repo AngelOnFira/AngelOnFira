@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#92](https://github.com/veloren/veloren/pull/92) in [veloren/veloren](https://github.com/veloren/veloren)
-2. 🗣 Commented on [#92](https://github.com/veloren/veloren/issues/92) in [veloren/veloren](https://github.com/veloren/veloren)
-3. ❌ Closed PR [#93](https://github.com/veloren/veloren/pull/93) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#93](https://github.com/veloren/veloren/issues/93) in [veloren/veloren](https://github.com/veloren/veloren)
-5. ❗️ Closed issue [#85](https://github.com/veloren/veloren/issues/85) in [veloren/veloren](https://github.com/veloren/veloren)
+1. 🎉 Merged PR [#950](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/950) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. ❌ Closed PR [#92](https://github.com/veloren/veloren/pull/92) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#92](https://github.com/veloren/veloren/issues/92) in [veloren/veloren](https://github.com/veloren/veloren)
+5. ❌ Closed PR [#93](https://github.com/veloren/veloren/pull/93) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
