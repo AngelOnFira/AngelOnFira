@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AngelOnFira/git-tutorial-1501/pull/5) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-2. 🎉 Merged PR [#3](https://github.com/AngelOnFira/git-tutorial-1501/pull/3) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-3. 🎉 Merged PR [#4](https://github.com/AngelOnFira/git-tutorial-1501/pull/4) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-4. 💪 Opened PR [#4](https://github.com/AngelOnFira/git-tutorial-1501/pull/4) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-5. 🎉 Merged PR [#2](https://github.com/AngelOnFira/git-tutorial-1501/pull/2) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+1. 🎉 Merged PR [#960](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/960) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#958](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/958) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#956](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/956) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#955](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/955) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#951](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/951) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
