@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta/issues/6) in [1501-Intro-To-Game-Design/1501-final-project-2022-team-ta](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta)
-2. ❗️ Opened issue [#5](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta/issues/5) in [1501-Intro-To-Game-Design/1501-final-project-2022-team-ta](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta)
-3. 🗣 Commented on [#959](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/959) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#959](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/959) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#10](https://github.com/AngelOnFira/git-tutorial-1501/pull/10) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+2. 🎉 Merged PR [#9](https://github.com/AngelOnFira/git-tutorial-1501/pull/9) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+3. 💪 Opened PR [#9](https://github.com/AngelOnFira/git-tutorial-1501/pull/9) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+4. ❗️ Opened issue [#6](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta/issues/6) in [1501-Intro-To-Game-Design/1501-final-project-2022-team-ta](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta)
+5. ❗️ Opened issue [#5](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta/issues/5) in [1501-Intro-To-Game-Design/1501-final-project-2022-team-ta](https://github.com/1501-Intro-To-Game-Design/1501-final-project-2022-team-ta)
 <!--END_SECTION:activity-->
 
 <p align="center">
