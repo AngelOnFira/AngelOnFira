@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/AngelOnFira/git-tutorial-1501/pull/14) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-2. 🎉 Merged PR [#13](https://github.com/AngelOnFira/git-tutorial-1501/pull/13) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-3. 🎉 Merged PR [#12](https://github.com/AngelOnFira/git-tutorial-1501/pull/12) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-4. 🎉 Merged PR [#11](https://github.com/AngelOnFira/git-tutorial-1501/pull/11) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
-5. 💪 Opened PR [#11](https://github.com/AngelOnFira/git-tutorial-1501/pull/11) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+1. 💪 Opened PR [#968](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/968) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#14](https://github.com/AngelOnFira/git-tutorial-1501/pull/14) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+3. 🎉 Merged PR [#13](https://github.com/AngelOnFira/git-tutorial-1501/pull/13) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/git-tutorial-1501/pull/12) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
+5. 🎉 Merged PR [#11](https://github.com/AngelOnFira/git-tutorial-1501/pull/11) in [AngelOnFira/git-tutorial-1501](https://github.com/AngelOnFira/git-tutorial-1501)
 <!--END_SECTION:activity-->
 
 <p align="center">
