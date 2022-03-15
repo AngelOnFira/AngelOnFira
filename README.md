@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#978](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/978) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#93](https://github.com/veloren/veloren/issues/93) in [veloren/veloren](https://github.com/veloren/veloren)
-3. 🗣 Commented on [#94](https://github.com/veloren/veloren/issues/94) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
-5. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+1. 💪 Opened PR [#950](https://github.com/rust-lang/blog.rust-lang.org/pull/950) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+2. 🎉 Merged PR [#27](https://github.com/rust-lang/ctcft/pull/27) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+4. 🎉 Merged PR [#978](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/978) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#93](https://github.com/veloren/veloren/issues/93) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
