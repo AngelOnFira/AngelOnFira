@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
-2. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
-3. 💪 Opened PR [#978](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/978) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. ❗️ Closed issue [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#949](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/949) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#93](https://github.com/veloren/veloren/issues/93) in [veloren/veloren](https://github.com/veloren/veloren)
+2. 🗣 Commented on [#94](https://github.com/veloren/veloren/issues/94) in [veloren/veloren](https://github.com/veloren/veloren)
+3. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+4. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+5. 💪 Opened PR [#978](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/978) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
