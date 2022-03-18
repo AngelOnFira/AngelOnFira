@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/rust-lang/ctcft/issues/23) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Closed issue [#13](https://github.com/rust-lang/ctcft/issues/13) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#950](https://github.com/rust-lang/blog.rust-lang.org/pull/950) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 🎉 Merged PR [#27](https://github.com/rust-lang/ctcft/pull/27) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🗣 Commented on [#131](https://github.com/yewprint/yewprint/issues/131) in [yewprint/yewprint](https://github.com/yewprint/yewprint)
+1. 💪 Opened PR [#3](https://github.com/HasinZaman/SingleThreadServer/pull/3) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
+2. 💪 Opened PR [#2](https://github.com/HasinZaman/SingleThreadServer/pull/2) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
+3. ❗️ Closed issue [#23](https://github.com/rust-lang/ctcft/issues/23) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Closed issue [#13](https://github.com/rust-lang/ctcft/issues/13) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 💪 Opened PR [#950](https://github.com/rust-lang/blog.rust-lang.org/pull/950) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 <!--END_SECTION:activity-->
 
 <p align="center">
