@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/SCESoc/makers-website/pull/2) in [SCESoc/makers-website](https://github.com/SCESoc/makers-website)
-2. 💪 Opened PR [#3](https://github.com/HasinZaman/SingleThreadServer/pull/3) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
-3. 💪 Opened PR [#2](https://github.com/HasinZaman/SingleThreadServer/pull/2) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
-4. ❗️ Closed issue [#23](https://github.com/rust-lang/ctcft/issues/23) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. ❗️ Closed issue [#13](https://github.com/rust-lang/ctcft/issues/13) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 💪 Opened PR [#1](https://github.com/TanTanDev/game_stat/pull/1) in [TanTanDev/game_stat](https://github.com/TanTanDev/game_stat)
+2. 💪 Opened PR [#1](https://github.com/AngelOnFira/game_stat/pull/1) in [AngelOnFira/game_stat](https://github.com/AngelOnFira/game_stat)
+3. 💪 Opened PR [#2](https://github.com/SCESoc/makers-website/pull/2) in [SCESoc/makers-website](https://github.com/SCESoc/makers-website)
+4. 💪 Opened PR [#3](https://github.com/HasinZaman/SingleThreadServer/pull/3) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
+5. 💪 Opened PR [#2](https://github.com/HasinZaman/SingleThreadServer/pull/2) in [HasinZaman/SingleThreadServer](https://github.com/HasinZaman/SingleThreadServer)
 <!--END_SECTION:activity-->
 
 <p align="center">
