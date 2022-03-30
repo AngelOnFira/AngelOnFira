@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/rust-lang/ctcft/issues/33) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 💪 Opened PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 🗣 Commented on [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. ❗️ Closed issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🗣 Commented on [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. ❗️ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/1) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. ❗️ Opened issue [#33](https://github.com/rust-lang/ctcft/issues/33) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 💪 Opened PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 🗣 Commented on [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
