@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 🗣 Commented on [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#2](https://github.com/TristanMarsolais/TerraHackathon2022/pull/2) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
-4. 💪 Opened PR [#1](https://github.com/TristanMarsolais/TerraHackathon2022/pull/1) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
-5. 💪 Opened PR [#1](https://github.com/TanTanDev/game_stat/pull/1) in [TanTanDev/game_stat](https://github.com/TanTanDev/game_stat)
+1. ❗️ Opened issue [#33](https://github.com/rust-lang/ctcft/issues/33) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 💪 Opened PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 🗣 Commented on [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Closed issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 🗣 Commented on [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
