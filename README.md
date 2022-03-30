@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/TristanMarsolais/TerraHackathon2022/pull/2) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
-2. 💪 Opened PR [#1](https://github.com/TristanMarsolais/TerraHackathon2022/pull/1) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
-3. 💪 Opened PR [#1](https://github.com/TanTanDev/game_stat/pull/1) in [TanTanDev/game_stat](https://github.com/TanTanDev/game_stat)
-4. 💪 Opened PR [#1](https://github.com/AngelOnFira/game_stat/pull/1) in [AngelOnFira/game_stat](https://github.com/AngelOnFira/game_stat)
-5. 💪 Opened PR [#2](https://github.com/SCESoc/makers-website/pull/2) in [SCESoc/makers-website](https://github.com/SCESoc/makers-website)
+1. ❗️ Closed issue [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 🗣 Commented on [#17](https://github.com/rust-lang/ctcft/issues/17) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 💪 Opened PR [#2](https://github.com/TristanMarsolais/TerraHackathon2022/pull/2) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
+4. 💪 Opened PR [#1](https://github.com/TristanMarsolais/TerraHackathon2022/pull/1) in [TristanMarsolais/TerraHackathon2022](https://github.com/TristanMarsolais/TerraHackathon2022)
+5. 💪 Opened PR [#1](https://github.com/TanTanDev/game_stat/pull/1) in [TanTanDev/game_stat](https://github.com/TanTanDev/game_stat)
 <!--END_SECTION:activity-->
 
 <p align="center">
