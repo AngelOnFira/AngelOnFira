@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#979](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/979) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Opened issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#2](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/2) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. ❗️ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/1) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 💪 Opened PR [#987](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/987) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#986](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/986) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#979](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/979) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. ❗️ Opened issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
