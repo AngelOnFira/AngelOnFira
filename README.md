@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#959](https://github.com/rust-lang/blog.rust-lang.org/pull/959) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 🎉 Merged PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#957](https://github.com/rust-lang/blog.rust-lang.org/pull/957) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 💪 Opened PR [#1007](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1007) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1004](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1004) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
+2. ❗️ Closed issue [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
+3. 💪 Opened PR [#959](https://github.com/rust-lang/blog.rust-lang.org/pull/959) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+4. 🎉 Merged PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 💪 Opened PR [#957](https://github.com/rust-lang/blog.rust-lang.org/pull/957) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 <!--END_SECTION:activity-->
 
 <p align="center">
