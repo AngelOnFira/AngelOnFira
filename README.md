@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
-2. ❗️ Closed issue [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
-3. 💪 Opened PR [#959](https://github.com/rust-lang/blog.rust-lang.org/pull/959) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 🎉 Merged PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 💪 Opened PR [#957](https://github.com/rust-lang/blog.rust-lang.org/pull/957) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+1. ❗️ Opened issue [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
+2. 🗣 Commented on [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
+3. ❗️ Closed issue [#95](https://github.com/veloren/veloren/issues/95) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 💪 Opened PR [#959](https://github.com/rust-lang/blog.rust-lang.org/pull/959) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+5. 🎉 Merged PR [#32](https://github.com/rust-lang/ctcft/pull/32) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
