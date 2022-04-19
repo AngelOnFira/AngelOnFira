@@ -33,10 +33,10 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/mwpenny/gbplay/pull/11) in [mwpenny/gbplay](https://github.com/mwpenny/gbplay)
-2. ❗️ Closed issue [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
-3. 🗣 Commented on [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
-4. 🗣 Commented on [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
+1. ❗️ Closed issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Closed issue [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 💪 Opened PR [#11](https://github.com/mwpenny/gbplay/pull/11) in [mwpenny/gbplay](https://github.com/mwpenny/gbplay)
+4. ❗️ Closed issue [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
 5. 🗣 Commented on [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
 <!--END_SECTION:activity-->
 
