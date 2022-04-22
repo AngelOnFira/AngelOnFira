@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/bigforestnotrees/RustWordSearchGenerator/pull/1) in [bigforestnotrees/RustWordSearchGenerator](https://github.com/bigforestnotrees/RustWordSearchGenerator)
-2. ❗️ Closed issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Closed issue [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. 💪 Opened PR [#11](https://github.com/mwpenny/gbplay/pull/11) in [mwpenny/gbplay](https://github.com/mwpenny/gbplay)
-5. ❗️ Closed issue [#13](https://github.com/esp-rs/embedded-svc/issues/13) in [esp-rs/embedded-svc](https://github.com/esp-rs/embedded-svc)
+1. 🎉 Merged PR [#36](https://github.com/rust-lang/ctcft/pull/36) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 💪 Opened PR [#1](https://github.com/bigforestnotrees/RustWordSearchGenerator/pull/1) in [bigforestnotrees/RustWordSearchGenerator](https://github.com/bigforestnotrees/RustWordSearchGenerator)
+3. ❗️ Closed issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Closed issue [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 💪 Opened PR [#11](https://github.com/mwpenny/gbplay/pull/11) in [mwpenny/gbplay](https://github.com/mwpenny/gbplay)
 <!--END_SECTION:activity-->
 
 <p align="center">
