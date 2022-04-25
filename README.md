@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/rust-lang/ctcft/pull/36) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 💪 Opened PR [#1](https://github.com/bigforestnotrees/RustWordSearchGenerator/pull/1) in [bigforestnotrees/RustWordSearchGenerator](https://github.com/bigforestnotrees/RustWordSearchGenerator)
-3. ❗️ Closed issue [#34](https://github.com/rust-lang/ctcft/issues/34) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. ❗️ Closed issue [#29](https://github.com/rust-lang/ctcft/issues/29) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 💪 Opened PR [#11](https://github.com/mwpenny/gbplay/pull/11) in [mwpenny/gbplay](https://github.com/mwpenny/gbplay)
+1. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Opened issue [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. ❗️ Opened issue [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 🎉 Merged PR [#36](https://github.com/rust-lang/ctcft/pull/36) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. 💪 Opened PR [#1](https://github.com/bigforestnotrees/RustWordSearchGenerator/pull/1) in [bigforestnotrees/RustWordSearchGenerator](https://github.com/bigforestnotrees/RustWordSearchGenerator)
 <!--END_SECTION:activity-->
 
 <p align="center">
