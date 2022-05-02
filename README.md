@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Opened issue [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. ❗️ Opened issue [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🎉 Merged PR [#36](https://github.com/rust-lang/ctcft/pull/36) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. ❗️ Opened issue [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Opened issue [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Opened issue [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
