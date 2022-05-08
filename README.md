@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1011](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1011) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#1020](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1020) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#1017](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1017) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#1018](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1018) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1019](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1019) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Opened issue [#67](https://github.com/esp-rs/esp-idf-hal/issues/67) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
+2. 🎉 Merged PR [#1011](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1011) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#1020](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1020) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#1017](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1017) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#1018](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1018) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
