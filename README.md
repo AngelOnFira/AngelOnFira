@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#67](https://github.com/esp-rs/esp-idf-hal/issues/67) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
-3. ❗️ Opened issue [#67](https://github.com/esp-rs/esp-idf-hal/issues/67) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
-4. 🎉 Merged PR [#1011](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1011) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1020](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1020) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#39](https://github.com/rust-lang/ctcft/pull/39) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#67](https://github.com/esp-rs/esp-idf-hal/issues/67) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
+4. ❗️ Opened issue [#67](https://github.com/esp-rs/esp-idf-hal/issues/67) in [esp-rs/esp-idf-hal](https://github.com/esp-rs/esp-idf-hal)
+5. 🎉 Merged PR [#1011](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1011) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
