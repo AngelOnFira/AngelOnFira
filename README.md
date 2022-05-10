@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#969](https://github.com/rust-lang/blog.rust-lang.org/issues/969) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 🗣 Commented on [#46](https://github.com/SpicyPizza/create-envfile/issues/46) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 💪 Opened PR [#969](https://github.com/rust-lang/blog.rust-lang.org/pull/969) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 🎉 Merged PR [#39](https://github.com/rust-lang/ctcft/pull/39) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 🗣 Commented on [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#969](https://github.com/rust-lang/blog.rust-lang.org/pull/969) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 <!--END_SECTION:activity-->
 
 <p align="center">
