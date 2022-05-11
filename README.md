@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 🗣 Commented on [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. 🗣 Commented on [#1010](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1010) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#969](https://github.com/rust-lang/blog.rust-lang.org/pull/969) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+1. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-3-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225)
+2. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611/issues/1) in [Summer-of-Rust/sor-lab-2-VictorLi5611](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611)
+3. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer/issues/1) in [Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer)
+4. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-2-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225)
+5. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
