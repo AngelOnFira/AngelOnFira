@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-3-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225)
-2. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611/issues/1) in [Summer-of-Rust/sor-lab-2-VictorLi5611](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611)
-3. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer/issues/1) in [Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer)
-4. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-2-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225)
-5. 🗣 Commented on [#28](https://github.com/rust-lang/ctcft/issues/28) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🎉 Merged PR [#1015](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1015) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-3-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225)
+3. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611/issues/1) in [Summer-of-Rust/sor-lab-2-VictorLi5611](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611)
+4. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer/issues/1) in [Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer)
+5. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-2-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225)
 <!--END_SECTION:activity-->
 
 <p align="center">
