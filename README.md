@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1015](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1015) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-3-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-3-crazyeights225)
-3. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611/issues/1) in [Summer-of-Rust/sor-lab-2-VictorLi5611](https://github.com/Summer-of-Rust/sor-lab-2-VictorLi5611)
-4. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer/issues/1) in [Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer](https://github.com/Summer-of-Rust/sor-lab-2-Friendly-Neighborhood-Programmer)
-5. ❌ Reopened PR [#1](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225/pull/1) in [Summer-of-Rust/sor-lab-2-crazyeights225](https://github.com/Summer-of-Rust/sor-lab-2-crazyeights225)
+1. 🎉 Merged PR [#1025](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1025) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1024](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1024) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#1022](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1022) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#1023](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1023) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#1021](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1021) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
