@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#66](https://github.com/naia-lib/naia/issues/66) in [naia-lib/naia](https://github.com/naia-lib/naia)
-2. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/2) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-3. 💪 Opened PR [#1](https://github.com/strawstack/RustCodeReview/pull/1) in [strawstack/RustCodeReview](https://github.com/strawstack/RustCodeReview)
-4. 🎉 Merged PR [#1031](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1031) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1031](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1031) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Closed issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+2. 🗣 Commented on [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+3. ❗️ Opened issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+4. ❗️ Opened issue [#66](https://github.com/naia-lib/naia/issues/66) in [naia-lib/naia](https://github.com/naia-lib/naia)
+5. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/2) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
 <!--END_SECTION:activity-->
 
 <p align="center">
