@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-2. ❗️ Closed issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-3. 🗣 Commented on [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-4. ❗️ Opened issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-5. ❗️ Opened issue [#66](https://github.com/naia-lib/naia/issues/66) in [naia-lib/naia](https://github.com/naia-lib/naia)
+1. 🎉 Merged PR [#40](https://github.com/rust-lang/ctcft/pull/40) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Closed issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+4. 🗣 Commented on [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+5. ❗️ Opened issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
