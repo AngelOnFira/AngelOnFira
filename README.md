@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/rust-lang/ctcft/pull/40) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. ❗️ Closed issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-4. 🗣 Commented on [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
-5. ❗️ Opened issue [#175](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io/issues/175) in [CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io](https://github.com/CarletonComputerScienceSociety/carletoncomputersciencesociety.github.io)
+1. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/ferris-bot/issues/5) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+2. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/ferris-bot/issues/4) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+3. ❗️ Opened issue [#3](https://github.com/Summer-of-Rust/ferris-bot/issues/3) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+4. ❗️ Opened issue [#2](https://github.com/Summer-of-Rust/ferris-bot/issues/2) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+5. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/ferris-bot/issues/1) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
