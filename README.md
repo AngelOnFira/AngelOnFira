@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#1054](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1054) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/ferris-bot/issues/5) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-4. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/ferris-bot/issues/4) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-5. ❗️ Opened issue [#3](https://github.com/Summer-of-Rust/ferris-bot/issues/3) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+1. 💪 Opened PR [#141](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/141) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#1054](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1054) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/ferris-bot/issues/5) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+5. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/ferris-bot/issues/4) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
