@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/AngelOnFira/adventure-jam-2022/issues/3) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-2. ❗️ Opened issue [#2](https://github.com/AngelOnFira/adventure-jam-2022/issues/2) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-3. ❗️ Opened issue [#1](https://github.com/AngelOnFira/adventure-jam-2022/issues/1) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-4. 🗣 Commented on [#2347](https://github.com/microsoft/vscode-remote-release/issues/2347) in [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release)
-5. 💪 Opened PR [#1057](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1057) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/2) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+2. ❗️ Closed issue [#2](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/2) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+3. ❗️ Opened issue [#3](https://github.com/AngelOnFira/adventure-jam-2022/issues/3) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+4. ❗️ Opened issue [#2](https://github.com/AngelOnFira/adventure-jam-2022/issues/2) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+5. ❗️ Opened issue [#1](https://github.com/AngelOnFira/adventure-jam-2022/issues/1) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
