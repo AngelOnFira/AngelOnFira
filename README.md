@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/CarletonComputerScienceSociety/website/pull/225) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. 🎉 Merged PR [#223](https://github.com/CarletonComputerScienceSociety/website/pull/223) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. 🎉 Merged PR [#224](https://github.com/CarletonComputerScienceSociety/website/pull/224) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 🎉 Merged PR [#221](https://github.com/CarletonComputerScienceSociety/website/pull/221) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-5. 🎉 Merged PR [#218](https://github.com/CarletonComputerScienceSociety/website/pull/218) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🎉 Merged PR [#226](https://github.com/CarletonComputerScienceSociety/website/pull/226) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 💪 Opened PR [#2](https://github.com/TheDrone7/carnival-backend/pull/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
+3. 🎉 Merged PR [#225](https://github.com/CarletonComputerScienceSociety/website/pull/225) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. 🎉 Merged PR [#223](https://github.com/CarletonComputerScienceSociety/website/pull/223) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 🎉 Merged PR [#224](https://github.com/CarletonComputerScienceSociety/website/pull/224) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 <!--END_SECTION:activity-->
 
 <p align="center">
