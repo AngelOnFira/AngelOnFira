@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rusty-christmas-tree/pull/12) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-2. 🗣 Commented on [#2](https://github.com/TheDrone7/carnival-backend/issues/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
-3. 🎉 Merged PR [#226](https://github.com/CarletonComputerScienceSociety/website/pull/226) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 💪 Opened PR [#2](https://github.com/TheDrone7/carnival-backend/pull/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
-5. 🎉 Merged PR [#225](https://github.com/CarletonComputerScienceSociety/website/pull/225) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🗣 Commented on [#6](https://github.com/Summer-of-Rust/ferris-bot/issues/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+2. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rusty-christmas-tree/pull/12) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+3. 🗣 Commented on [#2](https://github.com/TheDrone7/carnival-backend/issues/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
+4. 🎉 Merged PR [#226](https://github.com/CarletonComputerScienceSociety/website/pull/226) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 💪 Opened PR [#2](https://github.com/TheDrone7/carnival-backend/pull/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
 <!--END_SECTION:activity-->
 
 <p align="center">
