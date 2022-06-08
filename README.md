@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/7) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-2. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. ❗️ Closed issue [#4](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/4) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/6) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. 🎉 Merged PR [#5](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/5) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. ❗️ Opened issue [#9](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/9) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. ❗️ Opened issue [#8](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/8) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/7) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+4. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. ❗️ Closed issue [#4](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/4) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
