@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1060](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1060) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#1060](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1060) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#4](https://github.com/ozkriff/rust-gamedev.github.io/pull/4) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
-4. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/ferris-bot/pull/7) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+1. ❗️ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/7) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Closed issue [#4](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/4) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+4. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/6) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. 🎉 Merged PR [#5](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/5) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
