@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/ferris-bot/pull/7) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-3. 🎉 Merged PR [#6](https://github.com/Summer-of-Rust/ferris-bot/pull/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-4. 🗣 Commented on [#6](https://github.com/Summer-of-Rust/ferris-bot/issues/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-5. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rusty-christmas-tree/pull/12) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+1. 🗣 Commented on [#1060](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1060) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#1060](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1060) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#4](https://github.com/ozkriff/rust-gamedev.github.io/pull/4) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
+4. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/ferris-bot/pull/7) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
