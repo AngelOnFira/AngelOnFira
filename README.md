@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/ferris-bot/pull/7) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-2. 🎉 Merged PR [#6](https://github.com/Summer-of-Rust/ferris-bot/pull/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-3. 🗣 Commented on [#6](https://github.com/Summer-of-Rust/ferris-bot/issues/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
-4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rusty-christmas-tree/pull/12) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-5. 🗣 Commented on [#2](https://github.com/TheDrone7/carnival-backend/issues/2) in [TheDrone7/carnival-backend](https://github.com/TheDrone7/carnival-backend)
+1. 🗣 Commented on [#1033](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1033) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/ferris-bot/pull/7) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+3. 🎉 Merged PR [#6](https://github.com/Summer-of-Rust/ferris-bot/pull/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+4. 🗣 Commented on [#6](https://github.com/Summer-of-Rust/ferris-bot/issues/6) in [Summer-of-Rust/ferris-bot](https://github.com/Summer-of-Rust/ferris-bot)
+5. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rusty-christmas-tree/pull/12) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
 <!--END_SECTION:activity-->
 
 <p align="center">
