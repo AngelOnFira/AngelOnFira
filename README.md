@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1061](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1061) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Opened issue [#9](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/9) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. ❗️ Opened issue [#8](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/8) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. ❗️ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/7) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. ❗️ Closed issue [#3](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/3) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. ❗️ Opened issue [#13](https://github.com/AngelOnFira/adventure-jam-2022/issues/13) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+2. 🎉 Merged PR [#11](https://github.com/AngelOnFira/adventure-jam-2022/pull/11) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+3. ❗️ Closed issue [#4](https://github.com/AngelOnFira/adventure-jam-2022/issues/4) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/adventure-jam-2022/pull/12) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+5. 💪 Opened PR [#12](https://github.com/AngelOnFira/adventure-jam-2022/pull/12) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
