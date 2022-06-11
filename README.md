@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/AngelOnFira/adventure-jam-2022/issues/13) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-2. 🎉 Merged PR [#11](https://github.com/AngelOnFira/adventure-jam-2022/pull/11) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-3. ❗️ Closed issue [#4](https://github.com/AngelOnFira/adventure-jam-2022/issues/4) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-4. 🎉 Merged PR [#12](https://github.com/AngelOnFira/adventure-jam-2022/pull/12) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-5. 💪 Opened PR [#12](https://github.com/AngelOnFira/adventure-jam-2022/pull/12) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+1. 🎉 Merged PR [#228](https://github.com/CarletonComputerScienceSociety/website/pull/228) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 💪 Opened PR [#228](https://github.com/CarletonComputerScienceSociety/website/pull/228) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. ❗️ Opened issue [#13](https://github.com/AngelOnFira/adventure-jam-2022/issues/13) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+4. 🎉 Merged PR [#11](https://github.com/AngelOnFira/adventure-jam-2022/pull/11) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+5. ❗️ Closed issue [#4](https://github.com/AngelOnFira/adventure-jam-2022/issues/4) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
