@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-2. 🎉 Merged PR [#30](https://github.com/AngelOnFira/adventure-jam-2022/pull/30) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-3. 💪 Opened PR [#30](https://github.com/AngelOnFira/adventure-jam-2022/pull/30) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-4. ❗️ Opened issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-5. 🎉 Merged PR [#25](https://github.com/AngelOnFira/adventure-jam-2022/pull/25) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+1. 💪 Opened PR [#33](https://github.com/AngelOnFira/adventure-jam-2022/pull/33) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+2. ❗️ Closed issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+3. 🎉 Merged PR [#30](https://github.com/AngelOnFira/adventure-jam-2022/pull/30) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+4. 💪 Opened PR [#30](https://github.com/AngelOnFira/adventure-jam-2022/pull/30) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+5. ❗️ Opened issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
