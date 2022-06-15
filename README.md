@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca/issues/8) in [CarletonComputerScienceSociety/students.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca)
-2. 🗣 Commented on [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
-3. ❗️ Opened issue [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
-4. 💪 Opened PR [#33](https://github.com/AngelOnFira/adventure-jam-2022/pull/33) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-5. ❗️ Closed issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+1. ❗️ Opened issue [#11](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/11) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. 💪 Opened PR [#10](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/10) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. 🗣 Commented on [#8](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca/issues/8) in [CarletonComputerScienceSociety/students.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca)
+4. 🗣 Commented on [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
+5. ❗️ Opened issue [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
 <!--END_SECTION:activity-->
 
 <p align="center">
