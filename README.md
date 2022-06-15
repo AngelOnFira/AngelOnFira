@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
-2. ❗️ Opened issue [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
-3. 💪 Opened PR [#33](https://github.com/AngelOnFira/adventure-jam-2022/pull/33) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-4. ❗️ Closed issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
-5. 🎉 Merged PR [#30](https://github.com/AngelOnFira/adventure-jam-2022/pull/30) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+1. 🗣 Commented on [#8](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca/issues/8) in [CarletonComputerScienceSociety/students.carletoncomputerscience.ca](https://github.com/CarletonComputerScienceSociety/students.carletoncomputerscience.ca)
+2. 🗣 Commented on [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
+3. ❗️ Opened issue [#3](https://github.com/nikomatsakis/how-to-rust/issues/3) in [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust)
+4. 💪 Opened PR [#33](https://github.com/AngelOnFira/adventure-jam-2022/pull/33) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
+5. ❗️ Closed issue [#26](https://github.com/AngelOnFira/adventure-jam-2022/issues/26) in [AngelOnFira/adventure-jam-2022](https://github.com/AngelOnFira/adventure-jam-2022)
 <!--END_SECTION:activity-->
 
 <p align="center">
