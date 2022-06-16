@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-2. ❗️ Closed issue [#5](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/5) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. ❗️ Opened issue [#5](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/5) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 💪 Opened PR [#23](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/23) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. ❗️ Opened issue [#22](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/22) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 💪 Opened PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+3. ❗️ Closed issue [#5](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/5) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. ❗️ Opened issue [#5](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/5) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. 💪 Opened PR [#23](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/23) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
