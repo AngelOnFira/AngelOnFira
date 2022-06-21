@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. ❗️ Opened issue [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 💪 Opened PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. ❗️ Closed issue [#5](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/5) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. 🎉 Merged PR [#41](https://github.com/rust-lang/ctcft/pull/41) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. 💪 Opened PR [#41](https://github.com/rust-lang/ctcft/pull/41) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 💪 Opened PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. ❗️ Opened issue [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
