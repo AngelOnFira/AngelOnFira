@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/rust-lang/ctcft/issues/42) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. ❗️ Closed issue [#30](https://github.com/rust-lang/ctcft/issues/30) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Closed issue [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-4. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. ❗️ Closed issue [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+2. 💪 Opened PR [#1](https://github.com/AngelOnFira/specs/pull/1) in [AngelOnFira/specs](https://github.com/AngelOnFira/specs)
+3. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+4. ❗️ Opened issue [#42](https://github.com/rust-lang/ctcft/issues/42) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Closed issue [#30](https://github.com/rust-lang/ctcft/issues/30) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
