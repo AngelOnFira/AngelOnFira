@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/rust-lang/ctcft/pull/41) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-2. 💪 Opened PR [#41](https://github.com/rust-lang/ctcft/pull/41) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 💪 Opened PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. ❗️ Opened issue [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🎉 Merged PR [#156](https://github.com/CarletonComputerScienceSociety/discretemath.ca/pull/156) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+1. ❗️ Opened issue [#42](https://github.com/rust-lang/ctcft/issues/42) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+2. ❗️ Closed issue [#30](https://github.com/rust-lang/ctcft/issues/30) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. ❗️ Closed issue [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. 🗣 Commented on [#38](https://github.com/rust-lang/ctcft/issues/38) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+5. ❗️ Closed issue [#37](https://github.com/rust-lang/ctcft/issues/37) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
