@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+1. 🎉 Merged PR [#10](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/10) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 2. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
-3. 💪 Opened PR [#1](https://github.com/AngelOnFira/specs/pull/1) in [AngelOnFira/specs](https://github.com/AngelOnFira/specs)
-4. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
-5. ❗️ Opened issue [#42](https://github.com/rust-lang/ctcft/issues/42) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+4. 💪 Opened PR [#1](https://github.com/AngelOnFira/specs/pull/1) in [AngelOnFira/specs](https://github.com/AngelOnFira/specs)
+5. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
 <!--END_SECTION:activity-->
 
 <p align="center">
