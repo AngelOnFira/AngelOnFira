@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/24) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-2. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. ❗️ Opened issue [#231](https://github.com/CarletonComputerScienceSociety/website/issues/231) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 🎉 Merged PR [#10](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/10) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+1. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+3. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+4. ❗️ Opened issue [#28](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/28) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. ❗️ Opened issue [#26](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/26) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
