@@ -33,10 +33,10 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. ❗️ Opened issue [#231](https://github.com/CarletonComputerScienceSociety/website/issues/231) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. 🎉 Merged PR [#10](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/10) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
+1. 💪 Opened PR [#24](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/24) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/website/pull/230) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. ❗️ Opened issue [#231](https://github.com/CarletonComputerScienceSociety/website/issues/231) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. 🎉 Merged PR [#10](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/10) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 5. 🗣 Commented on [#749](https://github.com/amethyst/specs/issues/749) in [amethyst/specs](https://github.com/amethyst/specs)
 <!--END_SECTION:activity-->
 
