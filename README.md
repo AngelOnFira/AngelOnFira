@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-2. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. ❗️ Opened issue [#28](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/28) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. ❗️ Opened issue [#26](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/26) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+2. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. ❗️ Opened issue [#28](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/28) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
