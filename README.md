@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. ❗️ Opened issue [#28](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/28) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. 🎉 Merged PR [#1](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/1) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+2. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+3. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+4. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
