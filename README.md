@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/1) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-2. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-3. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/12) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. 🗣 Commented on [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🎉 Merged PR [#1](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/1) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+3. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+4. 💪 Opened PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. ❗️ Opened issue [#6](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/6) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
