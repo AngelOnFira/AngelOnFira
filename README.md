@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#2](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/2) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
 2. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🎉 Merged PR [#1](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/1) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-5. 🗣 Commented on [#996](https://github.com/rust-lang/blog.rust-lang.org/issues/996) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+3. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🎉 Merged PR [#1](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/1) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
 <!--END_SECTION:activity-->
 
 <p align="center">
