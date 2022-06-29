@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/10) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 🗣 Commented on [#2](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/2) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-3. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. ❗️ Opened issue [#10](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/10) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+3. 🗣 Commented on [#2](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/2) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
 4. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🗣 Commented on [#1069](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1069) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
