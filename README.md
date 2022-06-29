@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 🎉 Merged PR [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. 🗣 Commented on [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 💪 Opened PR [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. ❗️ Opened issue [#10](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/10) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. ❗️ Opened issue [#13](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/13) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. ❗️ Opened issue [#36](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/36) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Opened issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. 🎉 Merged PR [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. 🗣 Commented on [#11](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/11) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
