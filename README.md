@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 🗣 Commented on [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. ❗️ Opened issue [#13](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/13) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. ❗️ Opened issue [#36](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/36) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. ❗️ Opened issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. 🗣 Commented on [#9](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/9) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+2. 🗣 Commented on [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+3. 🗣 Commented on [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. ❗️ Opened issue [#13](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/13) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. ❗️ Opened issue [#36](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/36) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
