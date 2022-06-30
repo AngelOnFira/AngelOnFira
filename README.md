@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/161) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-2. 🗣 Commented on [#9](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/9) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. 🗣 Commented on [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 🗣 Commented on [#98260](https://github.com/rust-lang/rust/issues/98260) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. ❗️ Opened issue [#13](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/13) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. 🗣 Commented on [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. ❗️ Closed issue [#46](https://github.com/SpicyPizza/create-envfile/issues/46) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#46](https://github.com/SpicyPizza/create-envfile/issues/46) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 🗣 Commented on [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🗣 Commented on [#161](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/161) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
