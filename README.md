@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#497](https://github.com/rust-gamedev/arewegameyet/pull/497) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. 🗣 Commented on [#496](https://github.com/rust-gamedev/arewegameyet/issues/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-3. 💪 Opened PR [#496](https://github.com/rust-gamedev/arewegameyet/pull/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-4. 🗣 Commented on [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. ❗️ Closed issue [#46](https://github.com/SpicyPizza/create-envfile/issues/46) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🎉 Merged PR [#232](https://github.com/CarletonComputerScienceSociety/website/pull/232) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 💪 Opened PR [#497](https://github.com/rust-gamedev/arewegameyet/pull/497) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+3. 🗣 Commented on [#496](https://github.com/rust-gamedev/arewegameyet/issues/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+4. 💪 Opened PR [#496](https://github.com/rust-gamedev/arewegameyet/pull/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+5. 🗣 Commented on [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
