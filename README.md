@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#496](https://github.com/rust-gamedev/arewegameyet/pull/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. ❗️ Closed issue [#452](https://github.com/rust-gamedev/arewegameyet/issues/452) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-3. 🎉 Merged PR [#232](https://github.com/CarletonComputerScienceSociety/website/pull/232) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 💪 Opened PR [#497](https://github.com/rust-gamedev/arewegameyet/pull/497) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-5. 🗣 Commented on [#496](https://github.com/rust-gamedev/arewegameyet/issues/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+1. 🎉 Merged PR [#2](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/2) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+2. 🎉 Merged PR [#496](https://github.com/rust-gamedev/arewegameyet/pull/496) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+3. ❗️ Closed issue [#452](https://github.com/rust-gamedev/arewegameyet/issues/452) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+4. 🎉 Merged PR [#232](https://github.com/CarletonComputerScienceSociety/website/pull/232) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 💪 Opened PR [#497](https://github.com/rust-gamedev/arewegameyet/pull/497) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
