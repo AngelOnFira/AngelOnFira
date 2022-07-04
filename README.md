@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/30) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-2. ❗️ Closed issue [#21](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/21) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. ❗️ Closed issue [#13](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/13) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-4. 🎉 Merged PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. 🎉 Merged PR [#2](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/2) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+1. 💪 Opened PR [#1083](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1083) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#30](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/30) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+3. ❗️ Closed issue [#21](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/21) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+4. ❗️ Closed issue [#13](https://github.com/CarletonComputerScienceSociety/auto-grader/issues/13) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. 🎉 Merged PR [#29](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/29) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
 <!--END_SECTION:activity-->
 
 <p align="center">
