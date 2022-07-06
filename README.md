@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-2. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/cs-course-tree/pull/1) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-3. 💪 Opened PR [#391](https://github.com/bevyengine/bevy-website/pull/391) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-4. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-5. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/1) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
+1. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
+2. ❗️ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
+3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/cs-course-tree/pull/1) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
+4. 💪 Opened PR [#391](https://github.com/bevyengine/bevy-website/pull/391) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
+5. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
 <!--END_SECTION:activity-->
 
 <p align="center">
