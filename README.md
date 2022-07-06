@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-2. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/1) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
-3. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/my-project/issues/1) in [Summer-of-Rust/my-project](https://github.com/Summer-of-Rust/my-project)
-4. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/gameboy-project/issues/1) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
-5. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/data-movement-visualization/issues/1) in [Summer-of-Rust/data-movement-visualization](https://github.com/Summer-of-Rust/data-movement-visualization)
+1. 💪 Opened PR [#391](https://github.com/bevyengine/bevy-website/pull/391) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
+2. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+3. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/1) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
+4. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/my-project/issues/1) in [Summer-of-Rust/my-project](https://github.com/Summer-of-Rust/my-project)
+5. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/gameboy-project/issues/1) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
 <!--END_SECTION:activity-->
 
 <p align="center">
