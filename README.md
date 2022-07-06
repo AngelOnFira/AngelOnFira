@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/1) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-2. 🗣 Commented on [#753](https://github.com/amethyst/specs/issues/753) in [amethyst/specs](https://github.com/amethyst/specs)
-3. 💪 Opened PR [#1084](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1084) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#1083](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1083) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#30](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/30) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+1. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+2. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/1) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
+3. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/my-project/issues/1) in [Summer-of-Rust/my-project](https://github.com/Summer-of-Rust/my-project)
+4. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/gameboy-project/issues/1) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
+5. ❗️ Opened issue [#1](https://github.com/Summer-of-Rust/data-movement-visualization/issues/1) in [Summer-of-Rust/data-movement-visualization](https://github.com/Summer-of-Rust/data-movement-visualization)
 <!--END_SECTION:activity-->
 
 <p align="center">
