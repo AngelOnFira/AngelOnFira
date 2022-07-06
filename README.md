@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 🎉 Merged PR [#15](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/15) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. 🗣 Commented on [#1093](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1093) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#1093](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1093) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1092](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1092) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/7) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/8) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+3. 🎉 Merged PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. 💪 Opened PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
