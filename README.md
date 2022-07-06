@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/6) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-3. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/5) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-4. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/4) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-5. 🎉 Merged PR [#3](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/3) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+1. 🗣 Commented on [#1093](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1093) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#1093](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1093) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#1092](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1092) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/6) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
 <!--END_SECTION:activity-->
 
 <p align="center">
