@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/6) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-2. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/5) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-3. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/4) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-4. 🎉 Merged PR [#3](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/3) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-5. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
+1. 🎉 Merged PR [#14](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/14) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/6) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+3. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/5) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+4. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/4) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+5. 🎉 Merged PR [#3](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/3) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
 <!--END_SECTION:activity-->
 
 <p align="center">
