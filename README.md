@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-2. ❗️ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/cs-course-tree/pull/1) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
-4. 💪 Opened PR [#391](https://github.com/bevyengine/bevy-website/pull/391) in [bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
-5. 💪 Opened PR [#2](https://github.com/Summer-of-Rust/IRustC/pull/2) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+1. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/6) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+2. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/5) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+3. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/4) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+4. 🎉 Merged PR [#3](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/3) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+5. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/cs-course-tree/issues/2) in [CarletonComputerScienceSociety/cs-course-tree](https://github.com/CarletonComputerScienceSociety/cs-course-tree)
 <!--END_SECTION:activity-->
 
 <p align="center">
