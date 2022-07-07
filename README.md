@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/7) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-2. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/8) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-3. 🎉 Merged PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-4. 💪 Opened PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
-5. ❗️ Closed issue [#12](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/12) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. ❗️ Opened issue [#17](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/17) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+2. 🎉 Merged PR [#7](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/7) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+3. 🎉 Merged PR [#8](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/8) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+4. 🎉 Merged PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+5. 💪 Opened PR [#16](https://github.com/CarletonComputerScienceSociety/friend-zoner/pull/16) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
 <!--END_SECTION:activity-->
 
 <p align="center">
