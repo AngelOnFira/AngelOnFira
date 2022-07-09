@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/AngelOnFira/poisoned-sheep/issues/4) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
-2. ❗️ Opened issue [#3](https://github.com/AngelOnFira/poisoned-sheep/issues/3) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
-3. ❗️ Opened issue [#2](https://github.com/AngelOnFira/poisoned-sheep/issues/2) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
-4. ❗️ Opened issue [#1](https://github.com/AngelOnFira/poisoned-sheep/issues/1) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
-5. ❗️ Opened issue [#17](https://github.com/CarletonComputerScienceSociety/friend-zoner/issues/17) in [CarletonComputerScienceSociety/friend-zoner](https://github.com/CarletonComputerScienceSociety/friend-zoner)
+1. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/7) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+2. ❗️ Opened issue [#4](https://github.com/AngelOnFira/poisoned-sheep/issues/4) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+3. ❗️ Opened issue [#3](https://github.com/AngelOnFira/poisoned-sheep/issues/3) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+4. ❗️ Opened issue [#2](https://github.com/AngelOnFira/poisoned-sheep/issues/2) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+5. ❗️ Opened issue [#1](https://github.com/AngelOnFira/poisoned-sheep/issues/1) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
 <!--END_SECTION:activity-->
 
 <p align="center">
