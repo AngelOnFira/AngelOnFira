@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Summer-of-Rust/gameboy-project/issues/10) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
-2. ❗️ Opened issue [#9](https://github.com/Summer-of-Rust/gameboy-project/issues/9) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
-3. 🎉 Merged PR [#9](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/9) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-4. ❗️ Closed issue [#5](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/issues/5) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-5. 🎉 Merged PR [#8](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/8) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+1. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/IRustC/issues/6) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+2. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/IRustC/issues/5) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+3. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/IRustC/issues/4) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+4. ❗️ Opened issue [#3](https://github.com/Summer-of-Rust/IRustC/issues/3) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+5. ❗️ Opened issue [#10](https://github.com/Summer-of-Rust/gameboy-project/issues/10) in [Summer-of-Rust/gameboy-project](https://github.com/Summer-of-Rust/gameboy-project)
 <!--END_SECTION:activity-->
 
 <p align="center">
