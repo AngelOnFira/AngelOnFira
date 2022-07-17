@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#879](https://github.com/SeaQL/sea-orm/pull/879) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🎉 Merged PR [#10](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/10) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
-3. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/IRustC/issues/6) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-4. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/IRustC/issues/5) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-5. ❗️ Opened issue [#4](https://github.com/Summer-of-Rust/IRustC/issues/4) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+1. ❗️ Opened issue [#5](https://github.com/AngelOnFira/poisoned-sheep/issues/5) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+2. 💪 Opened PR [#879](https://github.com/SeaQL/sea-orm/pull/879) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+3. 🎉 Merged PR [#10](https://github.com/Summer-of-Rust/sor-lab-7-prisoners/pull/10) in [Summer-of-Rust/sor-lab-7-prisoners](https://github.com/Summer-of-Rust/sor-lab-7-prisoners)
+4. ❗️ Opened issue [#6](https://github.com/Summer-of-Rust/IRustC/issues/6) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+5. ❗️ Opened issue [#5](https://github.com/Summer-of-Rust/IRustC/issues/5) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
 <!--END_SECTION:activity-->
 
 <p align="center">
