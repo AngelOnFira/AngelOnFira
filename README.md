@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-2. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/39) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-3. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-4. ❗️ Opened issue [#5](https://github.com/AngelOnFira/poisoned-sheep/issues/5) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
-5. 💪 Opened PR [#879](https://github.com/SeaQL/sea-orm/pull/879) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+1. 🗣 Commented on [#33](https://github.com/langjam/jam0003/issues/33) in [langjam/jam0003](https://github.com/langjam/jam0003)
+2. 💪 Opened PR [#33](https://github.com/langjam/jam0003/pull/33) in [langjam/jam0003](https://github.com/langjam/jam0003)
+3. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+4. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/39) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
+5. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
 <!--END_SECTION:activity-->
 
 <p align="center">
