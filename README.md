@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/langjam/jam0003/issues/33) in [langjam/jam0003](https://github.com/langjam/jam0003)
-2. 💪 Opened PR [#33](https://github.com/langjam/jam0003/pull/33) in [langjam/jam0003](https://github.com/langjam/jam0003)
-3. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-4. 🎉 Merged PR [#39](https://github.com/CarletonComputerScienceSociety/auto-grader/pull/39) in [CarletonComputerScienceSociety/auto-grader](https://github.com/CarletonComputerScienceSociety/auto-grader)
-5. 💪 Opened PR [#7](https://github.com/Summer-of-Rust/IRustC/pull/7) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+1. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
+2. ❌ Closed PR [#97](https://github.com/veloren/veloren/pull/97) in [veloren/veloren](https://github.com/veloren/veloren)
+3. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
+4. 🗣 Commented on [#66](https://github.com/langjam/jam0003/issues/66) in [langjam/jam0003](https://github.com/langjam/jam0003)
+5. 🗣 Commented on [#33](https://github.com/langjam/jam0003/issues/33) in [langjam/jam0003](https://github.com/langjam/jam0003)
 <!--END_SECTION:activity-->
 
 <p align="center">
