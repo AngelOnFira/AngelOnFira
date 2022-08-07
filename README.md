@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1014](https://github.com/rust-lang/blog.rust-lang.org/pull/1014) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
-3. ❌ Closed PR [#97](https://github.com/veloren/veloren/pull/97) in [veloren/veloren](https://github.com/veloren/veloren)
-4. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
-5. 🗣 Commented on [#66](https://github.com/langjam/jam0003/issues/66) in [langjam/jam0003](https://github.com/langjam/jam0003)
+1. 💪 Opened PR [#1126](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1126) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1014](https://github.com/rust-lang/blog.rust-lang.org/pull/1014) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+3. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
+4. ❌ Closed PR [#97](https://github.com/veloren/veloren/pull/97) in [veloren/veloren](https://github.com/veloren/veloren)
+5. 🗣 Commented on [#97](https://github.com/veloren/veloren/issues/97) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
