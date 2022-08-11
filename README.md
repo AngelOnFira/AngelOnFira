@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1118](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1118) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Closed issue [#5](https://github.com/Summer-of-Rust/IRustC/issues/5) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-3. 🎉 Merged PR [#10](https://github.com/Summer-of-Rust/IRustC/pull/10) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-4. ❗️ Closed issue [#1](https://github.com/Summer-of-Rust/IRustC/issues/1) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
-5. 💪 Opened PR [#10](https://github.com/Summer-of-Rust/IRustC/pull/10) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
+1. 🗣 Commented on [#1131](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1131) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#1131](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1131) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#5](https://github.com/ozkriff/rust-gamedev.github.io/pull/5) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
+4. 🗣 Commented on [#1118](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1118) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. ❗️ Closed issue [#5](https://github.com/Summer-of-Rust/IRustC/issues/5) in [Summer-of-Rust/IRustC](https://github.com/Summer-of-Rust/IRustC)
 <!--END_SECTION:activity-->
 
 <p align="center">
