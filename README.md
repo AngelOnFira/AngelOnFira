@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1132](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1132) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#1132](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1132) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#1131](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1131) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Opened issue [#9](https://github.com/AngelOnFira/poisoned-sheep/issues/9) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+2. 🎉 Merged PR [#1132](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1132) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#1132](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1132) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 4. 🗣 Commented on [#1131](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1131) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#5](https://github.com/ozkriff/rust-gamedev.github.io/pull/5) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
+5. 🗣 Commented on [#1131](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1131) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
