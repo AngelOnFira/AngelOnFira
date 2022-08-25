@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/CarletonComputerScienceSociety/website/issues/235) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. ❗️ Opened issue [#9](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/9) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
-3. ❗️ Opened issue [#8](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/8) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
-4. 🗣 Commented on [#49](https://github.com/SpicyPizza/create-envfile/issues/49) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❗️ Opened issue [#9](https://github.com/AngelOnFira/poisoned-sheep/issues/9) in [AngelOnFira/poisoned-sheep](https://github.com/AngelOnFira/poisoned-sheep)
+1. ❗️ Opened issue [#240](https://github.com/CarletonComputerScienceSociety/website/issues/240) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 🗣 Commented on [#235](https://github.com/CarletonComputerScienceSociety/website/issues/235) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. ❗️ Opened issue [#9](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/9) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
+4. ❗️ Opened issue [#8](https://github.com/Summer-of-Rust/s22-rusty-osquery/issues/8) in [Summer-of-Rust/s22-rusty-osquery](https://github.com/Summer-of-Rust/s22-rusty-osquery)
+5. 🗣 Commented on [#49](https://github.com/SpicyPizza/create-envfile/issues/49) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
