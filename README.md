@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1152](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1152) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❌ Closed PR [#99](https://github.com/veloren/veloren/pull/99) in [veloren/veloren](https://github.com/veloren/veloren)
-3. 🗣 Commented on [#99](https://github.com/veloren/veloren/issues/99) in [veloren/veloren](https://github.com/veloren/veloren)
-4. ❗️ Opened issue [#1134](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1134) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1133](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1133) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#1148](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1148) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1151](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1151) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#1149](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1149) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#1152](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1152) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. ❌ Closed PR [#99](https://github.com/veloren/veloren/pull/99) in [veloren/veloren](https://github.com/veloren/veloren)
 <!--END_SECTION:activity-->
 
 <p align="center">
