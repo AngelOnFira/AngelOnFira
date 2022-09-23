@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. 🗣 Commented on [#261](https://github.com/CarletonComputerScienceSociety/website/issues/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🗣 Commented on [#260](https://github.com/CarletonComputerScienceSociety/website/issues/260) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 🎉 Merged PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 3. 🗣 Commented on [#261](https://github.com/CarletonComputerScienceSociety/website/issues/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 💪 Opened PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-5. ❗️ Opened issue [#260](https://github.com/CarletonComputerScienceSociety/website/issues/260) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. 🗣 Commented on [#261](https://github.com/CarletonComputerScienceSociety/website/issues/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 💪 Opened PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 <!--END_SECTION:activity-->
 
 <p align="center">
