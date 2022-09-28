@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/CarletonComputerScienceSociety/website/issues/260) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. 🎉 Merged PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. 🗣 Commented on [#261](https://github.com/CarletonComputerScienceSociety/website/issues/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 🗣 Commented on [#261](https://github.com/CarletonComputerScienceSociety/website/issues/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-5. 💪 Opened PR [#261](https://github.com/CarletonComputerScienceSociety/website/pull/261) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 💪 Opened PR [#7](https://github.com/education/github-starter-course/pull/7) in [education/github-starter-course](https://github.com/education/github-starter-course)
+2. 🎉 Merged PR [#8](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/8) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
+3. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/7) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
+4. 🎉 Merged PR [#6](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/6) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
+5. 🎉 Merged PR [#5](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/5) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
 <!--END_SECTION:activity-->
 
 <p align="center">
