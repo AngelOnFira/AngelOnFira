@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/education/github-starter-course/pull/7) in [education/github-starter-course](https://github.com/education/github-starter-course)
-2. 🎉 Merged PR [#8](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/8) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
-3. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/7) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
-4. 🎉 Merged PR [#6](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/6) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
-5. 🎉 Merged PR [#5](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/5) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
+1. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08/issues/1) in [Summer-of-Rust/sor-lab-intro-joshuajohn08](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08)
+2. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-intro-Ayekus/issues/1) in [Summer-of-Rust/sor-lab-intro-Ayekus](https://github.com/Summer-of-Rust/sor-lab-intro-Ayekus)
+3. 💪 Opened PR [#7](https://github.com/education/github-starter-course/pull/7) in [education/github-starter-course](https://github.com/education/github-starter-course)
+4. 🎉 Merged PR [#8](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/8) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
+5. 🎉 Merged PR [#7](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira/pull/7) in [Summer-of-Rust/github-tutorial-AngelOnFira](https://github.com/Summer-of-Rust/github-tutorial-AngelOnFira)
 <!--END_SECTION:activity-->
 
 <p align="center">
