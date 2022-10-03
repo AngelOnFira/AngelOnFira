@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Seasons-of-Rust/ferris-bot/pull/11) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
-2. 🎉 Merged PR [#8](https://github.com/Seasons-of-Rust/ferris-bot/pull/8) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
-3. 🗣 Commented on [#8](https://github.com/Seasons-of-Rust/ferris-bot/issues/8) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
-4. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08/issues/1) in [Summer-of-Rust/sor-lab-intro-joshuajohn08](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08)
-5. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-intro-Ayekus/issues/1) in [Summer-of-Rust/sor-lab-intro-Ayekus](https://github.com/Summer-of-Rust/sor-lab-intro-Ayekus)
+1. ❗️ Opened issue [#263](https://github.com/CarletonComputerScienceSociety/website/issues/263) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 🎉 Merged PR [#11](https://github.com/Seasons-of-Rust/ferris-bot/pull/11) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
+3. 🎉 Merged PR [#8](https://github.com/Seasons-of-Rust/ferris-bot/pull/8) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
+4. 🗣 Commented on [#8](https://github.com/Seasons-of-Rust/ferris-bot/issues/8) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
+5. 🗣 Commented on [#1](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08/issues/1) in [Summer-of-Rust/sor-lab-intro-joshuajohn08](https://github.com/Summer-of-Rust/sor-lab-intro-joshuajohn08)
 <!--END_SECTION:activity-->
 
 <p align="center">
