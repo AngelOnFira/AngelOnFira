@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🗣 Commented on [#14](https://github.com/Seasons-of-Rust/ferris-bot/issues/14) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
 2. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. ❗️ Opened issue [#1](https://github.com/AngelOnFira/rusty-halloween/issues/1) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-4. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. ❗️ Opened issue [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+3. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+4. ❗️ Opened issue [#1](https://github.com/AngelOnFira/rusty-halloween/issues/1) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
+5. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
 <!--END_SECTION:activity-->
 
 <p align="center">
