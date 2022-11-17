@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/AngelOnFira/rusty-halloween/issues/2) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-2. ❗️ Opened issue [#44](https://github.com/rust-lang/ctcft/issues/44) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-3. 🗣 Commented on [#14](https://github.com/Seasons-of-Rust/ferris-bot/issues/14) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
-4. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
-5. 🗣 Commented on [#43](https://github.com/rust-lang/ctcft/issues/43) in [rust-lang/ctcft](https://github.com/rust-lang/ctcft)
+1. 🎉 Merged PR [#4](https://github.com/AngelOnFira/glowing-spoon/pull/4) in [AngelOnFira/glowing-spoon](https://github.com/AngelOnFira/glowing-spoon)
+2. 🎉 Merged PR [#2](https://github.com/AngelOnFira/glowing-spoon/pull/2) in [AngelOnFira/glowing-spoon](https://github.com/AngelOnFira/glowing-spoon)
+3. 🎉 Merged PR [#3](https://github.com/AngelOnFira/glowing-spoon/pull/3) in [AngelOnFira/glowing-spoon](https://github.com/AngelOnFira/glowing-spoon)
+4. 🎉 Merged PR [#1](https://github.com/AngelOnFira/glowing-spoon/pull/1) in [AngelOnFira/glowing-spoon](https://github.com/AngelOnFira/glowing-spoon)
+5. 💪 Opened PR [#2](https://github.com/AngelOnFira/glowing-spoon/pull/2) in [AngelOnFira/glowing-spoon](https://github.com/AngelOnFira/glowing-spoon)
 <!--END_SECTION:activity-->
 
 <p align="center">
