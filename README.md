@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/233) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. ❗️ Opened issue [#237](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/237) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🎉 Merged PR [#236](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/236) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 💪 Opened PR [#236](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/236) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 💪 Opened PR [#235](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/235) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#234](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/234) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🎉 Merged PR [#233](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/233) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. ❗️ Opened issue [#237](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/237) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🎉 Merged PR [#236](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/236) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 💪 Opened PR [#236](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/236) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
