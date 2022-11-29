@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🗣 Commented on [#232](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/232) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 🗣 Commented on [#231](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/231) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 💪 Opened PR [#235](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/235) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 💪 Opened PR [#233](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/233) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#232](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/232) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
