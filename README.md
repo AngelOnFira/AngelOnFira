@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 2. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. ❗️ Opened issue [#229](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/229) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#13](https://github.com/AngelOnFira/rusty-christmas-tree/pull/13) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+3. 🗣 Commented on [#232](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/232) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🗣 Commented on [#231](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/231) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#230](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/230) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
