@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#255](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/255) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. ❌ Closed PR [#238](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/238) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 💪 Opened PR [#238](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/238) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 🎉 Merged PR [#234](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/234) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#233](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/233) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🎉 Merged PR [#5](https://github.com/AngelOnFira/git-workshop/pull/5) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+2. 🎉 Merged PR [#255](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/255) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#257](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/257) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🎉 Merged PR [#7](https://github.com/AngelOnFira/git-workshop/pull/7) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🎉 Merged PR [#10](https://github.com/AngelOnFira/git-workshop/pull/10) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
