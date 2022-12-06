@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/formula-one/issues/3) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
-2. ❗️ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/formula-one/issues/2) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
-3. ❗️ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/formula-one/issues/1) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
-4. 🎉 Merged PR [#271](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/271) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 💪 Opened PR [#272](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/272) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/formula-one/issues/1) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
+2. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/formula-one/issues/3) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
+3. ❗️ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/formula-one/issues/2) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
+4. ❗️ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/formula-one/issues/1) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
+5. 🎉 Merged PR [#271](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/271) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
