@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#272](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/272) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🎉 Merged PR [#273](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/273) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. ❗️ Opened issue [#1](https://github.com/rust-gamedev/meetup/issues/1) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/formula-one/issues/1) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
-5. ❗️ Opened issue [#3](https://github.com/CarletonComputerScienceSociety/formula-one/issues/3) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
+1. 💪 Opened PR [#274](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/274) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🎉 Merged PR [#272](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/272) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🎉 Merged PR [#273](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/273) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. ❗️ Opened issue [#1](https://github.com/rust-gamedev/meetup/issues/1) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/formula-one/issues/1) in [CarletonComputerScienceSociety/formula-one](https://github.com/CarletonComputerScienceSociety/formula-one)
 <!--END_SECTION:activity-->
 
 <p align="center">
