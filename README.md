@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1067](https://github.com/SeaQL/sea-orm/issues/1067) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🗣 Commented on [#1067](https://github.com/SeaQL/sea-orm/issues/1067) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. 🎉 Merged PR [#1217](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1217) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. ❗️ Closed issue [#1](https://github.com/rust-gamedev/meetup/issues/1) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 🗣 Commented on [#1](https://github.com/rust-gamedev/meetup/issues/1) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🗣 Commented on [#213](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/213) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+2. 🗣 Commented on [#210](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/210) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+3. 🗣 Commented on [#168](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/168) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+4. 🗣 Commented on [#167](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/167) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 🗣 Commented on [#168](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/168) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
