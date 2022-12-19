@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AngelOnFira/django-seed/pull/2) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
-2. 🗣 Commented on [#217](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/217) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-3. 🗣 Commented on [#211](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/211) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-4. 🗣 Commented on [#212](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/212) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. 🗣 Commented on [#213](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/213) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+1. ❗️ Opened issue [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+2. 🎉 Merged PR [#2](https://github.com/AngelOnFira/django-seed/pull/2) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
+3. 🗣 Commented on [#217](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/217) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+4. 🗣 Commented on [#211](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/211) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+5. 🗣 Commented on [#212](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/212) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
