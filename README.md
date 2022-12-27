@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/AngelOnFira/serenity/pull/1) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
-2. 🗣 Commented on [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-3. 🗣 Commented on [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-4. ❗️ Opened issue [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-5. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+1. 🎉 Merged PR [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+2. 🗣 Commented on [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. ❌ Closed PR [#1](https://github.com/AngelOnFira/serenity/pull/1) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
+4. 🗣 Commented on [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+5. 🗣 Commented on [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
 <!--END_SECTION:activity-->
 
 <p align="center">
