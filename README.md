@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-2. ❗️ Opened issue [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-3. 🎉 Merged PR [#2](https://github.com/AngelOnFira/django-seed/pull/2) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
-4. 🗣 Commented on [#217](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/217) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
-5. 🗣 Commented on [#211](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/211) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
+1. ❗️ Opened issue [#2324](https://github.com/serenity-rs/serenity/issues/2324) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+2. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+3. ❗️ Opened issue [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+4. 🎉 Merged PR [#2](https://github.com/AngelOnFira/django-seed/pull/2) in [AngelOnFira/django-seed](https://github.com/AngelOnFira/django-seed)
+5. 🗣 Commented on [#217](https://github.com/CarletonComputerScienceSociety/discretemath.ca/issues/217) in [CarletonComputerScienceSociety/discretemath.ca](https://github.com/CarletonComputerScienceSociety/discretemath.ca)
 <!--END_SECTION:activity-->
 
 <p align="center">
