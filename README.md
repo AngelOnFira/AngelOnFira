@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Developer-X-0001/Cleaner-8788/issues/1) in [Developer-X-0001/Cleaner-8788](https://github.com/Developer-X-0001/Cleaner-8788)
-2. 🎉 Merged PR [#276](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/276) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-3. 🎉 Merged PR [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 🗣 Commented on [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. ❌ Closed PR [#1](https://github.com/AngelOnFira/serenity/pull/1) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
+1. ❗️ Opened issue [#2325](https://github.com/serenity-rs/serenity/issues/2325) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+2. ❗️ Opened issue [#1](https://github.com/Developer-X-0001/Cleaner-8788/issues/1) in [Developer-X-0001/Cleaner-8788](https://github.com/Developer-X-0001/Cleaner-8788)
+3. 🎉 Merged PR [#276](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/276) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+4. 🎉 Merged PR [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 🗣 Commented on [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/issues/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
