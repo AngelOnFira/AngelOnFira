@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/gin66/tui-logger/pull/29) in [gin66/tui-logger](https://github.com/gin66/tui-logger)
-2. ❗️ Opened issue [#2325](https://github.com/serenity-rs/serenity/issues/2325) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-3. ❗️ Opened issue [#1](https://github.com/Developer-X-0001/Cleaner-8788/issues/1) in [Developer-X-0001/Cleaner-8788](https://github.com/Developer-X-0001/Cleaner-8788)
-4. 🎉 Merged PR [#276](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/276) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🎉 Merged PR [#275](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/275) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+1. ❗️ Opened issue [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. 💪 Opened PR [#29](https://github.com/gin66/tui-logger/pull/29) in [gin66/tui-logger](https://github.com/gin66/tui-logger)
+3. ❗️ Opened issue [#2325](https://github.com/serenity-rs/serenity/issues/2325) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+4. ❗️ Opened issue [#1](https://github.com/Developer-X-0001/Cleaner-8788/issues/1) in [Developer-X-0001/Cleaner-8788](https://github.com/Developer-X-0001/Cleaner-8788)
+5. 🎉 Merged PR [#276](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/276) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
