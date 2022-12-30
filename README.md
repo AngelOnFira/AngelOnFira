@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 💪 Opened PR [#1346](https://github.com/SeaQL/sea-orm/pull/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. ❗️ Opened issue [#1344](https://github.com/SeaQL/sea-orm/issues/1344) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. ❗️ Opened issue [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-5. 💪 Opened PR [#29](https://github.com/gin66/tui-logger/pull/29) in [gin66/tui-logger](https://github.com/gin66/tui-logger)
+1. ❗️ Opened issue [#78](https://github.com/SeaQL/seaql.github.io/issues/78) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
+2. 💪 Opened PR [#77](https://github.com/SeaQL/seaql.github.io/pull/77) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
+3. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+5. 💪 Opened PR [#1346](https://github.com/SeaQL/sea-orm/pull/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 <!--END_SECTION:activity-->
 
 <p align="center">
