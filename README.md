@@ -33,10 +33,10 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7133](https://github.com/cloudflare/cloudflare-docs/issues/7133) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2. ❗️ Opened issue [#78](https://github.com/SeaQL/seaql.github.io/issues/78) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
-3. 💪 Opened PR [#77](https://github.com/SeaQL/seaql.github.io/pull/77) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
-4. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+1. 🗣 Commented on [#252](https://github.com/cloudflare/workers-rs/issues/252) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+2. ❗️ Opened issue [#7133](https://github.com/cloudflare/cloudflare-docs/issues/7133) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+3. ❗️ Opened issue [#78](https://github.com/SeaQL/seaql.github.io/issues/78) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
+4. 💪 Opened PR [#77](https://github.com/SeaQL/seaql.github.io/pull/77) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
 5. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 <!--END_SECTION:activity-->
 
