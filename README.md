@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4963](https://github.com/cypress-io/cypress-documentation/issues/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-2. 💪 Opened PR [#4963](https://github.com/cypress-io/cypress-documentation/pull/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-3. ❗️ Opened issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#252](https://github.com/cloudflare/workers-rs/issues/252) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-5. ❗️ Opened issue [#7133](https://github.com/cloudflare/cloudflare-docs/issues/7133) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+1. 💪 Opened PR [#7](https://github.com/AlanReviews/Discordpy-bot/pull/7) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+2. 💪 Opened PR [#6](https://github.com/AlanReviews/Discordpy-bot/pull/6) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+3. 🗣 Commented on [#4963](https://github.com/cypress-io/cypress-documentation/issues/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+4. 💪 Opened PR [#4963](https://github.com/cypress-io/cypress-documentation/pull/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+5. ❗️ Opened issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
