@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. 🗣 Commented on [#252](https://github.com/cloudflare/workers-rs/issues/252) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-3. ❗️ Opened issue [#7133](https://github.com/cloudflare/cloudflare-docs/issues/7133) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-4. ❗️ Opened issue [#78](https://github.com/SeaQL/seaql.github.io/issues/78) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
-5. 💪 Opened PR [#77](https://github.com/SeaQL/seaql.github.io/pull/77) in [SeaQL/seaql.github.io](https://github.com/SeaQL/seaql.github.io)
+1. 🗣 Commented on [#4963](https://github.com/cypress-io/cypress-documentation/issues/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+2. 💪 Opened PR [#4963](https://github.com/cypress-io/cypress-documentation/pull/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+3. ❗️ Opened issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🗣 Commented on [#252](https://github.com/cloudflare/workers-rs/issues/252) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+5. ❗️ Opened issue [#7133](https://github.com/cloudflare/cloudflare-docs/issues/7133) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 <!--END_SECTION:activity-->
 
 <p align="center">
