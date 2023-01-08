@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/AlanReviews/Discordpy-bot/pull/7) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-2. 💪 Opened PR [#6](https://github.com/AlanReviews/Discordpy-bot/pull/6) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-3. 🗣 Commented on [#4963](https://github.com/cypress-io/cypress-documentation/issues/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-4. 💪 Opened PR [#4963](https://github.com/cypress-io/cypress-documentation/pull/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-5. ❗️ Opened issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 💪 Opened PR [#1251](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1251) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#1250](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1250) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#7](https://github.com/AlanReviews/Discordpy-bot/pull/7) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+4. 💪 Opened PR [#6](https://github.com/AlanReviews/Discordpy-bot/pull/6) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+5. 🗣 Commented on [#4963](https://github.com/cypress-io/cypress-documentation/issues/4963) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
 <!--END_SECTION:activity-->
 
 <p align="center">
