@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. ❗️ Closed issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#1251](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1251) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#1253](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1253) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#267](https://github.com/cloudflare/workers-rs/pull/267) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+2. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+3. ❗️ Closed issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#1251](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1251) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
