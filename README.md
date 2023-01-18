@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🗣 Commented on [#267](https://github.com/cloudflare/workers-rs/issues/267) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-3. 💪 Opened PR [#267](https://github.com/cloudflare/workers-rs/pull/267) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-4. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. ❗️ Closed issue [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 💪 Opened PR [#2335](https://github.com/serenity-rs/serenity/pull/2335) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+2. 🗣 Commented on [#1346](https://github.com/SeaQL/sea-orm/issues/1346) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+3. 🗣 Commented on [#267](https://github.com/cloudflare/workers-rs/issues/267) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+4. 💪 Opened PR [#267](https://github.com/cloudflare/workers-rs/pull/267) in [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
+5. 🗣 Commented on [#2](https://github.com/rust-gamedev/meetup/issues/2) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
