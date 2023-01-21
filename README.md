@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 💪 Opened PR [#2336](https://github.com/serenity-rs/serenity/pull/2336) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-3. 💪 Opened PR [#2](https://github.com/AngelOnFira/serenity/pull/2) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
-4. 🗣 Commented on [#2335](https://github.com/serenity-rs/serenity/issues/2335) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-5. 💪 Opened PR [#2335](https://github.com/serenity-rs/serenity/pull/2335) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+1. 💪 Opened PR [#2337](https://github.com/serenity-rs/serenity/pull/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+2. 🗣 Commented on [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+3. 💪 Opened PR [#2336](https://github.com/serenity-rs/serenity/pull/2336) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+4. 💪 Opened PR [#2](https://github.com/AngelOnFira/serenity/pull/2) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
+5. 🗣 Commented on [#2335](https://github.com/serenity-rs/serenity/issues/2335) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
 <!--END_SECTION:activity-->
 
 <p align="center">
