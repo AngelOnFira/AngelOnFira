@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-2. 💪 Opened PR [#2337](https://github.com/serenity-rs/serenity/pull/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-3. 🗣 Commented on [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. 💪 Opened PR [#2336](https://github.com/serenity-rs/serenity/pull/2336) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-5. 💪 Opened PR [#2](https://github.com/AngelOnFira/serenity/pull/2) in [AngelOnFira/serenity](https://github.com/AngelOnFira/serenity)
+2. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+3. 💪 Opened PR [#2337](https://github.com/serenity-rs/serenity/pull/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+4. 🗣 Commented on [#1342](https://github.com/SeaQL/sea-orm/issues/1342) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+5. 💪 Opened PR [#2336](https://github.com/serenity-rs/serenity/pull/2336) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
 <!--END_SECTION:activity-->
 
 <p align="center">
