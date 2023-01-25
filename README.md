@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1233](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1233) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#1262](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1262) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+1. 💪 Opened PR [#1263](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1263) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🗣 Commented on [#1233](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1233) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#1262](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1262) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 4. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-5. 💪 Opened PR [#2337](https://github.com/serenity-rs/serenity/pull/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+5. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
