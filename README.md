@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/rust-windowing/softbuffer/pull/70) in [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer)
-2. 🎉 Merged PR [#1263](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1263) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#1263](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1263) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#1263](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1263) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1233](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1233) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#276](https://github.com/CarletonComputerScienceSociety/website/issues/276) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. ❌ Closed PR [#276](https://github.com/CarletonComputerScienceSociety/website/pull/276) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. 🎉 Merged PR [#287](https://github.com/CarletonComputerScienceSociety/website/pull/287) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. 💪 Opened PR [#287](https://github.com/CarletonComputerScienceSociety/website/pull/287) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. ❌ Closed PR [#286](https://github.com/CarletonComputerScienceSociety/website/pull/286) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 <!--END_SECTION:activity-->
 
 <p align="center">
