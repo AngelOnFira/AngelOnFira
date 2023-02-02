@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#523](https://github.com/rust-gamedev/arewegameyet/pull/523) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-3. ❗️ Closed issue [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
-4. 🗣 Commented on [#276](https://github.com/CarletonComputerScienceSociety/website/issues/276) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-5. ❌ Closed PR [#276](https://github.com/CarletonComputerScienceSociety/website/pull/276) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+2. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+3. 🎉 Merged PR [#523](https://github.com/rust-gamedev/arewegameyet/pull/523) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+4. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+5. ❗️ Closed issue [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
