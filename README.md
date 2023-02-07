@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1267](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1267) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#1074](https://github.com/rust-lang/blog.rust-lang.org/pull/1074) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
-4. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
-5. 🎉 Merged PR [#523](https://github.com/rust-gamedev/arewegameyet/pull/523) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+1. ❗️ Opened issue [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. ❗️ Opened issue [#1267](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1267) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#1074](https://github.com/rust-lang/blog.rust-lang.org/pull/1074) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+4. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+5. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
