@@ -33,11 +33,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1074](https://github.com/rust-lang/blog.rust-lang.org/pull/1074) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
-3. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
-4. 🎉 Merged PR [#523](https://github.com/rust-gamedev/arewegameyet/pull/523) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-5. 🗣 Commented on [#3](https://github.com/gfx-rs/meetup/issues/3) in [gfx-rs/meetup](https://github.com/gfx-rs/meetup)
+1. ❗️ Opened issue [#1267](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1267) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1074](https://github.com/rust-lang/blog.rust-lang.org/pull/1074) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+3. 🎉 Merged PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+4. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/study-bot/pull/1) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+5. 🎉 Merged PR [#523](https://github.com/rust-gamedev/arewegameyet/pull/523) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
