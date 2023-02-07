@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/AngelOnFira/git-workshop/pull/31) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-2. ❌ Closed PR [#30](https://github.com/AngelOnFira/git-workshop/pull/30) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-3. ❌ Closed PR [#29](https://github.com/AngelOnFira/git-workshop/pull/29) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-4. ❌ Closed PR [#28](https://github.com/AngelOnFira/git-workshop/pull/28) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. ❌ Closed PR [#26](https://github.com/AngelOnFira/git-workshop/pull/26) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. 🎉 Merged PR [#292](https://github.com/CarletonComputerScienceSociety/website/pull/292) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 🎉 Merged PR [#293](https://github.com/CarletonComputerScienceSociety/website/pull/293) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+3. 💪 Opened PR [#293](https://github.com/CarletonComputerScienceSociety/website/pull/293) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+4. ❌ Closed PR [#31](https://github.com/AngelOnFira/git-workshop/pull/31) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. ❌ Closed PR [#30](https://github.com/AngelOnFira/git-workshop/pull/30) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
