@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#292](https://github.com/CarletonComputerScienceSociety/website/pull/292) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-2. 🎉 Merged PR [#293](https://github.com/CarletonComputerScienceSociety/website/pull/293) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. 💪 Opened PR [#293](https://github.com/CarletonComputerScienceSociety/website/pull/293) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. ❌ Closed PR [#31](https://github.com/AngelOnFira/git-workshop/pull/31) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. ❌ Closed PR [#30](https://github.com/AngelOnFira/git-workshop/pull/30) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. 💪 Opened PR [#60](https://github.com/AngelOnFira/git-workshop/pull/60) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+2. 🎉 Merged PR [#53](https://github.com/AngelOnFira/git-workshop/pull/53) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+3. ❌ Reopened PR [#53](https://github.com/AngelOnFira/git-workshop/pull/53) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+4. ❌ Closed PR [#53](https://github.com/AngelOnFira/git-workshop/pull/53) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🗣 Commented on [#53](https://github.com/AngelOnFira/git-workshop/issues/53) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
