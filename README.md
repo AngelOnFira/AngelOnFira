@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/CarletonComputerScienceSociety/study-bot/issues/9) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
-2. 🎉 Merged PR [#61](https://github.com/AngelOnFira/git-workshop/pull/61) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-3. 🎉 Merged PR [#33](https://github.com/AngelOnFira/git-workshop/pull/33) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-4. 🎉 Merged PR [#42](https://github.com/AngelOnFira/git-workshop/pull/42) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. 🗣 Commented on [#42](https://github.com/AngelOnFira/git-workshop/issues/42) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. ❗️ Closed issue [#58](https://github.com/AngelOnFira/git-workshop/issues/58) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+2. 🎉 Merged PR [#62](https://github.com/AngelOnFira/git-workshop/pull/62) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+3. 🗣 Commented on [#9](https://github.com/CarletonComputerScienceSociety/study-bot/issues/9) in [CarletonComputerScienceSociety/study-bot](https://github.com/CarletonComputerScienceSociety/study-bot)
+4. 🎉 Merged PR [#61](https://github.com/AngelOnFira/git-workshop/pull/61) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🎉 Merged PR [#33](https://github.com/AngelOnFira/git-workshop/pull/33) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
