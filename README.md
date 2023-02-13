@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 💪 Opened PR [#1278](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1278) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. ❗️ Closed issue [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 3. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. ❗️ Closed issue [#58](https://github.com/AngelOnFira/git-workshop/issues/58) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. 🎉 Merged PR [#62](https://github.com/AngelOnFira/git-workshop/pull/62) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+4. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. ❗️ Closed issue [#58](https://github.com/AngelOnFira/git-workshop/issues/58) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
