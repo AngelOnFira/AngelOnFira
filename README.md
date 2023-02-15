@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/AngelOnFira/micro-jam-engine/issues/9) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
-2. 🗣 Commented on [#8](https://github.com/AngelOnFira/micro-jam-engine/issues/8) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
-3. 🎉 Merged PR [#8](https://github.com/AngelOnFira/micro-jam-engine/pull/8) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
-4. 🎉 Merged PR [#7](https://github.com/AngelOnFira/micro-jam-engine/pull/7) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
-5. 💪 Opened PR [#7](https://github.com/AngelOnFira/micro-jam-engine/pull/7) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+1. 🎉 Merged PR [#10](https://github.com/AngelOnFira/micro-jam-engine/pull/10) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+2. 💪 Opened PR [#10](https://github.com/AngelOnFira/micro-jam-engine/pull/10) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+3. ❗️ Opened issue [#9](https://github.com/AngelOnFira/micro-jam-engine/issues/9) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+4. 🗣 Commented on [#8](https://github.com/AngelOnFira/micro-jam-engine/issues/8) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+5. 🎉 Merged PR [#8](https://github.com/AngelOnFira/micro-jam-engine/pull/8) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
 <!--END_SECTION:activity-->
 
 <p align="center">
