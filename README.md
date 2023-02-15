@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1278](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1278) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. ❗️ Closed issue [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. ❗️ Closed issue [#58](https://github.com/AngelOnFira/git-workshop/issues/58) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. 🎉 Merged PR [#7](https://github.com/AngelOnFira/micro-jam-engine/pull/7) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+2. 💪 Opened PR [#7](https://github.com/AngelOnFira/micro-jam-engine/pull/7) in [AngelOnFira/micro-jam-engine](https://github.com/AngelOnFira/micro-jam-engine)
+3. 💪 Opened PR [#1278](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1278) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. ❗️ Closed issue [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#3](https://github.com/rust-gamedev/meetup/issues/3) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
