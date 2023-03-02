@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#526](https://github.com/rust-gamedev/arewegameyet/issues/526) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. 🗣 Commented on [#527](https://github.com/rust-gamedev/arewegameyet/issues/527) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-3. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-4. ❗️ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-5. ❗️ Opened issue [#160](https://github.com/AmbientRun/Ambient/issues/160) in [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient)
+1. 🎉 Merged PR [#1288](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1288) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1290](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1290) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#1292](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1292) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#1291](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1291) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🗣 Commented on [#526](https://github.com/rust-gamedev/arewegameyet/issues/526) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
