@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-2. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-3. 🗣 Commented on [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. ❗️ Opened issue [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 🎉 Merged PR [#1288](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1288) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#1287](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1287) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#1311](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1311) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. ❗️ Closed issue [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+4. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+5. 🗣 Commented on [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
