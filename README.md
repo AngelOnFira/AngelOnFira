@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1287](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1287) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#1311](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1311) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗️ Closed issue [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-4. 🗣 Commented on [#1](https://github.com/CarletonComputerScienceSociety/class-times/issues/1) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-5. 🗣 Commented on [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🗣 Commented on [#1313](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1313) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#7](https://github.com/ozkriff/rust-gamedev.github.io/pull/7) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
+3. 🗣 Commented on [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 💪 Opened PR [#6](https://github.com/ozkriff/rust-gamedev.github.io/pull/6) in [ozkriff/rust-gamedev.github.io](https://github.com/ozkriff/rust-gamedev.github.io)
+5. 🗣 Commented on [#1287](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1287) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
