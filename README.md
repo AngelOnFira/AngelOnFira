@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-2. 🎉 Merged PR [#304](https://github.com/CarletonComputerScienceSociety/website/pull/304) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-3. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+1. 🎉 Merged PR [#305](https://github.com/CarletonComputerScienceSociety/website/pull/305) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+2. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+3. 🎉 Merged PR [#304](https://github.com/CarletonComputerScienceSociety/website/pull/304) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
 4. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-5. ❗️ Closed issue [#4](https://github.com/rust-gamedev/meetup/issues/4) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
 <!--END_SECTION:activity-->
 
 <p align="center">
