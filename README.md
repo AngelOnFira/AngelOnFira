@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. 🗣 Commented on [#1316](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1316) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗️ Opened issue [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. ❗️ Opened issue [#1317](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1317) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#305](https://github.com/CarletonComputerScienceSociety/website/pull/305) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+2. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+3. 🗣 Commented on [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🗣 Commented on [#1316](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1316) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. ❗️ Opened issue [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
