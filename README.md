@@ -36,9 +36,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
 2. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-3. 🗣 Commented on [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#1316](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1316) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. ❗️ Opened issue [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+3. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+4. 🗣 Commented on [#5](https://github.com/rust-gamedev/meetup/issues/5) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#1316](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1316) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
