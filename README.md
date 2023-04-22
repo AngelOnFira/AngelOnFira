@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/phip1611/ws2818-rgb-led-spi-driver/pull/11) in [phip1611/ws2818-rgb-led-spi-driver](https://github.com/phip1611/ws2818-rgb-led-spi-driver)
-2. 🗣 Commented on [#73](https://github.com/esp-rs/esp-template/issues/73) in [esp-rs/esp-template](https://github.com/esp-rs/esp-template)
-3. 🎉 Merged PR [#306](https://github.com/CarletonComputerScienceSociety/website/pull/306) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
-4. 🎉 Merged PR [#1336](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1336) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1336](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1336) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#1363](https://github.com/emilk/egui/issues/1363) in [emilk/egui](https://github.com/emilk/egui)
+2. 💪 Opened PR [#11](https://github.com/phip1611/ws2818-rgb-led-spi-driver/pull/11) in [phip1611/ws2818-rgb-led-spi-driver](https://github.com/phip1611/ws2818-rgb-led-spi-driver)
+3. 🗣 Commented on [#73](https://github.com/esp-rs/esp-template/issues/73) in [esp-rs/esp-template](https://github.com/esp-rs/esp-template)
+4. 🎉 Merged PR [#306](https://github.com/CarletonComputerScienceSociety/website/pull/306) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+5. 🎉 Merged PR [#1336](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1336) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
