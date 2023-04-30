@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/rerun-io/ewebsock/pull/11) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
-2. 🗣 Commented on [#1363](https://github.com/emilk/egui/issues/1363) in [emilk/egui](https://github.com/emilk/egui)
-3. 💪 Opened PR [#11](https://github.com/phip1611/ws2818-rgb-led-spi-driver/pull/11) in [phip1611/ws2818-rgb-led-spi-driver](https://github.com/phip1611/ws2818-rgb-led-spi-driver)
-4. 🗣 Commented on [#73](https://github.com/esp-rs/esp-template/issues/73) in [esp-rs/esp-template](https://github.com/esp-rs/esp-template)
-5. 🎉 Merged PR [#306](https://github.com/CarletonComputerScienceSociety/website/pull/306) in [CarletonComputerScienceSociety/website](https://github.com/CarletonComputerScienceSociety/website)
+1. 🎉 Merged PR [#1349](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1349) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1348](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1348) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 💪 Opened PR [#1351](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1351) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#1350](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1350) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#11](https://github.com/rerun-io/ewebsock/pull/11) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
 <!--END_SECTION:activity-->
 
 <p align="center">
