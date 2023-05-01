@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/MarcusOtter/CubeFlyer/pull/3) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
-2. 🗣 Commented on [#2](https://github.com/MarcusOtter/CubeFlyer/issues/2) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
-3. 💪 Opened PR [#1354](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1354) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#1351](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1351) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1350](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1350) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. ❗️ Opened issue [#7](https://github.com/rust-gamedev/meetup/issues/7) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 💪 Opened PR [#3](https://github.com/MarcusOtter/CubeFlyer/pull/3) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
+3. 🗣 Commented on [#2](https://github.com/MarcusOtter/CubeFlyer/issues/2) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
+4. 💪 Opened PR [#1354](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1354) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#1351](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1351) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
