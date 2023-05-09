@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
-2. ❗️ Opened issue [#7](https://github.com/rust-gamedev/meetup/issues/7) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. 💪 Opened PR [#3](https://github.com/MarcusOtter/CubeFlyer/pull/3) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
-4. 🗣 Commented on [#2](https://github.com/MarcusOtter/CubeFlyer/issues/2) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
-5. 💪 Opened PR [#1354](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1354) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 🗣 Commented on [#2337](https://github.com/serenity-rs/serenity/issues/2337) in [serenity-rs/serenity](https://github.com/serenity-rs/serenity)
+3. ❗️ Opened issue [#7](https://github.com/rust-gamedev/meetup/issues/7) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 💪 Opened PR [#3](https://github.com/MarcusOtter/CubeFlyer/pull/3) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
+5. 🗣 Commented on [#2](https://github.com/MarcusOtter/CubeFlyer/issues/2) in [MarcusOtter/CubeFlyer](https://github.com/MarcusOtter/CubeFlyer)
 <!--END_SECTION:activity-->
 
 <p align="center">
