@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. 🗣 Commented on [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. ❗️ Opened issue [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🎉 Merged PR [#55](https://github.com/SpicyPizza/create-envfile/pull/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#55](https://github.com/SpicyPizza/create-envfile/issues/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. ❗️ Closed issue [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 4. 🗣 Commented on [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 🗣 Commented on [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. ❗️ Opened issue [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
