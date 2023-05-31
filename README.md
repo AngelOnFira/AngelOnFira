@@ -38,7 +38,7 @@
 2. 💪 Opened PR [#17478](https://github.com/hashicorp/consul/pull/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
 3. 🎉 Merged PR [#55](https://github.com/SpicyPizza/create-envfile/pull/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 4. 🗣 Commented on [#55](https://github.com/SpicyPizza/create-envfile/issues/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❗️ Closed issue [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🔒 Closed issue [#6](https://github.com/rust-gamedev/meetup/issues/6) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
