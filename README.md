@@ -36,9 +36,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 2. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. 💪 Opened PR [#17478](https://github.com/hashicorp/consul/pull/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
-4. 🎉 Merged PR [#55](https://github.com/SpicyPizza/create-envfile/pull/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🗣 Commented on [#55](https://github.com/SpicyPizza/create-envfile/issues/55) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 💪 Opened PR [#17478](https://github.com/hashicorp/consul/pull/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
 <!--END_SECTION:activity-->
 
 <p align="center">
