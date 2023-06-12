@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. ❌ Closed PR [#107](https://github.com/veloren/veloren/pull/107) in [veloren/veloren](https://github.com/veloren/veloren)
+2. 🗣 Commented on [#107](https://github.com/veloren/veloren/issues/107) in [veloren/veloren](https://github.com/veloren/veloren)
 3. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 4. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 💪 Opened PR [#17478](https://github.com/hashicorp/consul/pull/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
+5. 🗣 Commented on [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
