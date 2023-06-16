@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AngelOnFira/create-envfile/pull/1) in [AngelOnFira/create-envfile](https://github.com/AngelOnFira/create-envfile)
-2. 🗣 Commented on [#853](https://github.com/axnsan12/drf-yasg/issues/853) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
-3. 💪 Opened PR [#853](https://github.com/axnsan12/drf-yasg/pull/853) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
-4. 💪 Opened PR [#1948](https://github.com/dj-stripe/dj-stripe/pull/1948) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
-5. ❌ Closed PR [#107](https://github.com/veloren/veloren/pull/107) in [veloren/veloren](https://github.com/veloren/veloren)
+1. 💪 Opened PR [#56](https://github.com/SpicyPizza/create-envfile/pull/56) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 💪 Opened PR [#1](https://github.com/AngelOnFira/create-envfile/pull/1) in [AngelOnFira/create-envfile](https://github.com/AngelOnFira/create-envfile)
+3. 🗣 Commented on [#853](https://github.com/axnsan12/drf-yasg/issues/853) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
+4. 💪 Opened PR [#853](https://github.com/axnsan12/drf-yasg/pull/853) in [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg)
+5. 💪 Opened PR [#1948](https://github.com/dj-stripe/dj-stripe/pull/1948) in [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe)
 <!--END_SECTION:activity-->
 
 <p align="center">
