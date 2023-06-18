@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/SpicyPizza/create-envfile/pull/62) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 💪 Opened PR [#62](https://github.com/SpicyPizza/create-envfile/pull/62) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🚀 Published release [v2.0.2](https://github.com/v2.0.2) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🎉 Merged PR [#61](https://github.com/SpicyPizza/create-envfile/pull/61) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. 🔒 Closed issue [#47](https://github.com/SpicyPizza/create-envfile/issues/47) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🎉 Merged PR [#63](https://github.com/SpicyPizza/create-envfile/pull/63) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 💪 Opened PR [#63](https://github.com/SpicyPizza/create-envfile/pull/63) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🎉 Merged PR [#62](https://github.com/SpicyPizza/create-envfile/pull/62) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. 💪 Opened PR [#62](https://github.com/SpicyPizza/create-envfile/pull/62) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🚀 Published release [v2.0.2](https://github.com/v2.0.2) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
