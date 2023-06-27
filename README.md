@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
-2. 🗣 Commented on [#17478](https://github.com/hashicorp/consul/issues/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
-3. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
-4. ❗ Opened issue [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
-5. 💪 Opened PR [#553](https://github.com/actix/actix/pull/553) in [actix/actix](https://github.com/actix/actix)
+1. 🎉 Merged PR [#68](https://github.com/SpicyPizza/create-envfile/pull/68) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
+3. 🗣 Commented on [#17478](https://github.com/hashicorp/consul/issues/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
+4. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
+5. ❗ Opened issue [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
 <!--END_SECTION:activity-->
 
 <p align="center">
