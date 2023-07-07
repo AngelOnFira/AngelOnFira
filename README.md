@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3133](https://github.com/emilk/egui/pull/3133) in [emilk/egui](https://github.com/emilk/egui)
-2. 🎉 Merged PR [#68](https://github.com/SpicyPizza/create-envfile/pull/68) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
-4. 🗣 Commented on [#17478](https://github.com/hashicorp/consul/issues/17478) in [hashicorp/consul](https://github.com/hashicorp/consul)
-5. 🗣 Commented on [#15](https://github.com/rerun-io/ewebsock/issues/15) in [rerun-io/ewebsock](https://github.com/rerun-io/ewebsock)
+1. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+3. ❗ Opened issue [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. ❗ Opened issue [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#3133](https://github.com/emilk/egui/pull/3133) in [emilk/egui](https://github.com/emilk/egui)
 <!--END_SECTION:activity-->
 
 <p align="center">
