@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🔒 Closed issue [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 2. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. ❗ Opened issue [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. ❗ Opened issue [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#3133](https://github.com/emilk/egui/pull/3133) in [emilk/egui](https://github.com/emilk/egui)
+3. ❗ Opened issue [#10](https://github.com/rust-gamedev/meetup/issues/10) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
