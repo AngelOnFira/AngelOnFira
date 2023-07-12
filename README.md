@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-2. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-3. 🔒 Closed issue [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#9](https://github.com/rust-gamedev/meetup/issues/9) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. ❗ Opened issue [#10](https://github.com/rust-gamedev/meetup/issues/10) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 💪 Opened PR [#5](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/5) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+2. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+3. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+4. 🎉 Merged PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+5. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
 <!--END_SECTION:activity-->
 
 <p align="center">
