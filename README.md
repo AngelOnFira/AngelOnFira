@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/5) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-2. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-3. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-4. 🎉 Merged PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-5. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/3) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+1. 🗣 Commented on [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401#issuecomment-1634498757) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#5](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/5) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+3. 💪 Opened PR [#5](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/5) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+4. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
+5. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/4) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
 <!--END_SECTION:activity-->
 
 <p align="center">
