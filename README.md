@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1770](https://github.com/SeaQL/sea-orm/pull/1770) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-2. 🎉 Merged PR [#83](https://github.com/SpicyPizza/create-envfile/pull/83) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🎉 Merged PR [#6](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/6) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-4. 💪 Opened PR [#6](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/6) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-5. 🗣 Commented on [#1024](https://github.com/pytest-dev/pytest-django/pull/1024#issuecomment-1638748574) in [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django)
+1. 🎉 Merged PR [#86](https://github.com/SpicyPizza/create-envfile/pull/86) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🗣 Commented on [#86](https://github.com/SpicyPizza/create-envfile/pull/86#issuecomment-1646261735) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 💪 Opened PR [#1770](https://github.com/SeaQL/sea-orm/pull/1770) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 🎉 Merged PR [#83](https://github.com/SpicyPizza/create-envfile/pull/83) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 🎉 Merged PR [#6](https://github.com/CarletonComputerScienceSociety/cloud-native/pull/6) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
 <!--END_SECTION:activity-->
 
 <p align="center">
