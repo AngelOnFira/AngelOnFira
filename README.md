@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1403](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1403) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 💪 Opened PR [#1413](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1413) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#87](https://github.com/SpicyPizza/create-envfile/pull/87) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 💪 Opened PR [#1412](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1412) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401#issuecomment-1646920644) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#1414](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1414) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 🎉 Merged PR [#1405](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1405) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#1403](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1403) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 💪 Opened PR [#1413](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1413) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#87](https://github.com/SpicyPizza/create-envfile/pull/87) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
