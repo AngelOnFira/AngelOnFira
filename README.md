@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1411](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1411) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🎉 Merged PR [#1412](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1412) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🎉 Merged PR [#1413](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1413) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#1414](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1414) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1405](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1405) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401#issuecomment-1658966284) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#1415](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1415) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🎉 Merged PR [#1411](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1411) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🎉 Merged PR [#1412](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1412) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#1413](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1413) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
