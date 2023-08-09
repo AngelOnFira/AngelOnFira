@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1417](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1417) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🔒 Closed issue [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401#issuecomment-1660301254) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🎉 Merged PR [#1415](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1415) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🎉 Merged PR [#1416](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1416) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#10](https://github.com/rust-gamedev/meetup/issues/10#issuecomment-1671527618) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. ❗ Opened issue [#1417](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1417) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🔒 Closed issue [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401#issuecomment-1660301254) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 🎉 Merged PR [#1415](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1415) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
