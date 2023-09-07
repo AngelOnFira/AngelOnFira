@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/7) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
-2. 💪 Opened PR [#1436](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1436) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#10](https://github.com/rust-gamedev/meetup/issues/10#issuecomment-1671527618) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. ❗ Opened issue [#1417](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1417) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🔒 Closed issue [#1401](https://github.com/rust-gamedev/rust-gamedev.github.io/issues/1401) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🔒 Closed issue [#10](https://github.com/rust-gamedev/meetup/issues/10) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 🗣 Commented on [#10](https://github.com/rust-gamedev/meetup/issues/10#issuecomment-1710644504) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+3. ❗ Opened issue [#11](https://github.com/rust-gamedev/meetup/issues/11) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. 🔒 Closed issue [#8](https://github.com/rust-gamedev/meetup/issues/8) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. ❗ Opened issue [#7](https://github.com/CarletonComputerScienceSociety/cloud-native/issues/7) in [CarletonComputerScienceSociety/cloud-native](https://github.com/CarletonComputerScienceSociety/cloud-native)
 <!--END_SECTION:activity-->
 
 <p align="center">
