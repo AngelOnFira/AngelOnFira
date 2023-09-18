@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AngelOnFira/test-app-webhooks/issues/1) in [AngelOnFira/test-app-webhooks](https://github.com/AngelOnFira/test-app-webhooks)
-2. 🎉 Merged PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
-3. 💪 Opened PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
-4. 🔒 Closed issue [#10](https://github.com/rust-gamedev/meetup/issues/10) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 🗣 Commented on [#10](https://github.com/rust-gamedev/meetup/issues/10#issuecomment-1710644504) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🔒 Closed issue [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+2. ❗ Opened issue [#1](https://github.com/AngelOnFira/test-app-webhooks/issues/1) in [AngelOnFira/test-app-webhooks](https://github.com/AngelOnFira/test-app-webhooks)
+3. 🎉 Merged PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+4. 💪 Opened PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+5. 🔒 Closed issue [#10](https://github.com/rust-gamedev/meetup/issues/10) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
