@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter/pull/1) in [CarletonComputerScienceSociety/hack-the-tunnels-starter](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter)
-2. 🔒 Closed issue [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
-3. ❗ Opened issue [#1](https://github.com/AngelOnFira/test-app-webhooks/issues/1) in [AngelOnFira/test-app-webhooks](https://github.com/AngelOnFira/test-app-webhooks)
-4. 🎉 Merged PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
-5. 💪 Opened PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
+1. 🗣 Commented on [#11](https://github.com/rust-gamedev/meetup/issues/11#issuecomment-1730537428) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 💪 Opened PR [#1](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter/pull/1) in [CarletonComputerScienceSociety/hack-the-tunnels-starter](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter)
+3. 🔒 Closed issue [#2](https://github.com/CarletonComputerScienceSociety/class-times/issues/2) in [CarletonComputerScienceSociety/class-times](https://github.com/CarletonComputerScienceSociety/class-times)
+4. ❗ Opened issue [#1](https://github.com/AngelOnFira/test-app-webhooks/issues/1) in [AngelOnFira/test-app-webhooks](https://github.com/AngelOnFira/test-app-webhooks)
+5. 🎉 Merged PR [#43](https://github.com/CarletonComputerScienceSociety/code-project/pull/43) in [CarletonComputerScienceSociety/code-project](https://github.com/CarletonComputerScienceSociety/code-project)
 <!--END_SECTION:activity-->
 
 <p align="center">
