@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter/pull/2) in [CarletonComputerScienceSociety/hack-the-tunnels-starter](https://github.com/CarletonComputerScienceSociety/hack-the-tunnels-starter)
-2. 🗣 Commented on [#1453](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1453#issuecomment-1732373801) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 🗣 Commented on [#1453](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1453#issuecomment-1732373614) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 💪 Opened PR [#1453](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1453) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 🗣 Commented on [#12](https://github.com/rust-gamedev/meetup/issues/12#issuecomment-1732351325) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+1. 🗣 Commented on [#5](https://github.com/HackTheTunnelsTest/test-1-aerafd/issues/5#issuecomment-1732397106) in [HackTheTunnelsTest/test-1-aerafd](https://github.com/HackTheTunnelsTest/test-1-aerafd)
+2. 🗣 Commented on [#5](https://github.com/HackTheTunnelsTest/test-1-aerafd/issues/5#issuecomment-1732396439) in [HackTheTunnelsTest/test-1-aerafd](https://github.com/HackTheTunnelsTest/test-1-aerafd)
+3. 🗣 Commented on [#5](https://github.com/HackTheTunnelsTest/test-1-aerafd/issues/5#issuecomment-1732396347) in [HackTheTunnelsTest/test-1-aerafd](https://github.com/HackTheTunnelsTest/test-1-aerafd)
+4. 🗣 Commented on [#5](https://github.com/HackTheTunnelsTest/test-1-aerafd/issues/5#issuecomment-1732396104) in [HackTheTunnelsTest/test-1-aerafd](https://github.com/HackTheTunnelsTest/test-1-aerafd)
+5. 🗣 Commented on [#5](https://github.com/HackTheTunnelsTest/test-1-aerafd/issues/5#issuecomment-1732394897) in [HackTheTunnelsTest/test-1-aerafd](https://github.com/HackTheTunnelsTest/test-1-aerafd)
 <!--END_SECTION:activity-->
 
 <p align="center">
