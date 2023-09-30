@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741824410) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
-2. 🗣 Commented on [#18](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-glasses-gals/issues/18#issuecomment-1741823065) in [Hack-The-Tunnels-8/hack-the-tunnels-glasses-gals](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-glasses-gals)
-3. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741822513) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
-4. 🗣 Commented on [#17](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-for-the-vibes/issues/17#issuecomment-1741822076) in [Hack-The-Tunnels-8/hack-the-tunnels-for-the-vibes](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-for-the-vibes)
-5. 🗣 Commented on [#4](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-dell/issues/4#issuecomment-1741820755) in [Hack-The-Tunnels-8/hack-the-tunnels-dell](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-dell)
+1. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741848386) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+2. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741848363) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+3. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741848300) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+4. 🗣 Commented on [#25](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-noob001/issues/25#issuecomment-1741847703) in [Hack-The-Tunnels-8/hack-the-tunnels-noob001](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-noob001)
+5. 🗣 Commented on [#25](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-noob001/issues/25#issuecomment-1741846652) in [Hack-The-Tunnels-8/hack-the-tunnels-noob001](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-noob001)
 <!--END_SECTION:activity-->
 
 <p align="center">
