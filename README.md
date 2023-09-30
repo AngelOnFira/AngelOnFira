@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test/issues/2#issuecomment-1741790310) in [Hack-The-Tunnels-2/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test)
-2. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test/issues/2#issuecomment-1741790261) in [Hack-The-Tunnels-2/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test)
-3. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test/issues/2#issuecomment-1741789778) in [Hack-The-Tunnels-2/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test)
-4. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test/issues/2#issuecomment-1741789652) in [Hack-The-Tunnels-2/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test)
-5. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test/issues/2#issuecomment-1741789637) in [Hack-The-Tunnels-2/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-2/hack-the-tunnels-forest-test)
+1. ❗ Opened issue [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t/issues/2) in [Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t)
+2. ❗ Opened issue [#1](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t/issues/1) in [Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-team-tonka-t)
+3. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741813058) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+4. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741813034) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+5. ❗ Opened issue [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-veks/issues/2) in [Hack-The-Tunnels-8/hack-the-tunnels-veks](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-veks)
 <!--END_SECTION:activity-->
 
 <p align="center">
