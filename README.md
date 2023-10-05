@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1455](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1455) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741862317) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
-3. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741862307) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
-4. 🗣 Commented on [#20](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-ashraf/issues/20#issuecomment-1741862170) in [Hack-The-Tunnels-8/hack-the-tunnels-ashraf](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-ashraf)
-5. 🔒 Closed issue [#33](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-patchworks/issues/33) in [Hack-The-Tunnels-8/hack-the-tunnels-patchworks](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-patchworks)
+1. 🗣 Commented on [#15](https://github.com/aidancrowther/ASCIIPlay/issues/15#issuecomment-1749204262) in [aidancrowther/ASCIIPlay](https://github.com/aidancrowther/ASCIIPlay)
+2. 🗣 Commented on [#1287](https://github.com/cross-rs/cross/issues/1287#issuecomment-1749161903) in [cross-rs/cross](https://github.com/cross-rs/cross)
+3. 💪 Opened PR [#1455](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1455) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741862317) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
+5. 🗣 Commented on [#2](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test/issues/2#issuecomment-1741862307) in [Hack-The-Tunnels-8/hack-the-tunnels-forest-test](https://github.com/Hack-The-Tunnels-8/hack-the-tunnels-forest-test)
 <!--END_SECTION:activity-->
 
 <p align="center">
