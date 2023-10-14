@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/rust-gamedev/meetup/issues/12#issuecomment-1756036217) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-2. ❗ Opened issue [#15](https://github.com/Seasons-of-Rust/ferris-bot/issues/15) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
-3. 🗣 Commented on [#17](https://github.com/aidancrowther/ASCIIPlay/pull/17#issuecomment-1750842641) in [aidancrowther/ASCIIPlay](https://github.com/aidancrowther/ASCIIPlay)
-4. 🗣 Commented on [#15](https://github.com/aidancrowther/ASCIIPlay/issues/15#issuecomment-1749204262) in [aidancrowther/ASCIIPlay](https://github.com/aidancrowther/ASCIIPlay)
-5. 🗣 Commented on [#1287](https://github.com/cross-rs/cross/issues/1287#issuecomment-1749161903) in [cross-rs/cross](https://github.com/cross-rs/cross)
+1. 🗣 Commented on [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456#issuecomment-1763057453) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+2. 💪 Opened PR [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+3. 🗣 Commented on [#12](https://github.com/rust-gamedev/meetup/issues/12#issuecomment-1756036217) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+4. ❗ Opened issue [#15](https://github.com/Seasons-of-Rust/ferris-bot/issues/15) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
+5. 🗣 Commented on [#17](https://github.com/aidancrowther/ASCIIPlay/pull/17#issuecomment-1750842641) in [aidancrowther/ASCIIPlay](https://github.com/aidancrowther/ASCIIPlay)
 <!--END_SECTION:activity-->
 
 <p align="center">
