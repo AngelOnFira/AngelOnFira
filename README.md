@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456#issuecomment-1763057453) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. 💪 Opened PR [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-4. 🗣 Commented on [#12](https://github.com/rust-gamedev/meetup/issues/12#issuecomment-1756036217) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. ❗ Opened issue [#15](https://github.com/Seasons-of-Rust/ferris-bot/issues/15) in [Seasons-of-Rust/ferris-bot](https://github.com/Seasons-of-Rust/ferris-bot)
+1. ❗ Opened issue [#13](https://github.com/rust-gamedev/meetup/issues/13) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 🔒 Closed issue [#12](https://github.com/rust-gamedev/meetup/issues/12) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+3. 🎉 Merged PR [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+4. 🗣 Commented on [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456#issuecomment-1763057453) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+5. 💪 Opened PR [#1456](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1456) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
 <!--END_SECTION:activity-->
 
 <p align="center">
