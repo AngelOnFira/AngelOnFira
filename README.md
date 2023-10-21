@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/22#issuecomment-1773895690) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-2. ❗ Opened issue [#22](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/22) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-3. ❗ Opened issue [#20](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/20) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-4. ❗ Opened issue [#19](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/19) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-5. 💪 Opened PR [#7](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/7) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+1. 🎉 Merged PR [#17](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/17) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+2. 🗣 Commented on [#22](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/22#issuecomment-1773895690) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+3. ❗ Opened issue [#22](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/22) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+4. ❗ Opened issue [#20](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/20) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+5. ❗ Opened issue [#19](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/19) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
