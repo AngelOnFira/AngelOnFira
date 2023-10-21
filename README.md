@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-2. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/3) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-3. ❗ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/2) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-4. ❗ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/1) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-5. 🎉 Merged PR [#70](https://github.com/AngelOnFira/git-workshop/pull/70) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+2. 🗣 Commented on [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4#issuecomment-1773819236) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+3. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+4. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/3) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+5. ❗ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/2) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
