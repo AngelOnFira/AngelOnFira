@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-2. 🗣 Commented on [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4#issuecomment-1773819236) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-3. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-4. 💪 Opened PR [#3](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/3) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
-5. ❗ Opened issue [#2](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/2) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+1. 💪 Opened PR [#7](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/7) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+2. 🎉 Merged PR [#3](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/3) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+3. 🎉 Merged PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+4. 🗣 Commented on [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4#issuecomment-1773819236) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+5. 💪 Opened PR [#4](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/4) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
 <!--END_SECTION:activity-->
 
 <p align="center">
