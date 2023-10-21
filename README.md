@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/AngelOnFira/git-workshop/pull/70) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-2. 💪 Opened PR [#70](https://github.com/AngelOnFira/git-workshop/pull/70) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-3. 🎉 Merged PR [#66](https://github.com/AngelOnFira/git-workshop/pull/66) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-4. 🎉 Merged PR [#65](https://github.com/AngelOnFira/git-workshop/pull/65) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. 🎉 Merged PR [#140](https://github.com/SpicyPizza/create-envfile/pull/140) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. ❗ Opened issue [#1](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/issues/1) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+2. 🎉 Merged PR [#70](https://github.com/AngelOnFira/git-workshop/pull/70) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+3. 💪 Opened PR [#70](https://github.com/AngelOnFira/git-workshop/pull/70) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+4. 🎉 Merged PR [#66](https://github.com/AngelOnFira/git-workshop/pull/66) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🎉 Merged PR [#65](https://github.com/AngelOnFira/git-workshop/pull/65) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
