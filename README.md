@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/AngelOnFira/rusty-halloween/pull/8) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-2. 💪 Opened PR [#8](https://github.com/AngelOnFira/rusty-halloween/pull/8) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-3. ❗ Opened issue [#7](https://github.com/AngelOnFira/rusty-halloween/issues/7) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-4. ❗ Opened issue [#6](https://github.com/AngelOnFira/rusty-halloween/issues/6) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
-5. 🎉 Merged PR [#17](https://github.com/CarletonComputerScienceSociety/ai-discord-bot/pull/17) in [CarletonComputerScienceSociety/ai-discord-bot](https://github.com/CarletonComputerScienceSociety/ai-discord-bot)
+1. 💪 Opened PR [#1](https://github.com/aidancrowther/MilkVDuoCompile/pull/1) in [aidancrowther/MilkVDuoCompile](https://github.com/aidancrowther/MilkVDuoCompile)
+2. 🎉 Merged PR [#8](https://github.com/AngelOnFira/rusty-halloween/pull/8) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
+3. 💪 Opened PR [#8](https://github.com/AngelOnFira/rusty-halloween/pull/8) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
+4. ❗ Opened issue [#7](https://github.com/AngelOnFira/rusty-halloween/issues/7) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
+5. ❗ Opened issue [#6](https://github.com/AngelOnFira/rusty-halloween/issues/6) in [AngelOnFira/rusty-halloween](https://github.com/AngelOnFira/rusty-halloween)
 <!--END_SECTION:activity-->
 
 <p align="center">
