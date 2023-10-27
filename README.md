@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/3) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
-2. 💪 Opened PR [#3](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/3) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
-3. 💪 Opened PR [#1](https://github.com/robtech21/MilkV-Duo-Resources/pull/1) in [robtech21/MilkV-Duo-Resources](https://github.com/robtech21/MilkV-Duo-Resources)
-4. 🎉 Merged PR [#2](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/2) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
-5. 💪 Opened PR [#2](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/2) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
+1. 💪 Opened PR [#4](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/4) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
+2. 🎉 Merged PR [#3](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/3) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
+3. 💪 Opened PR [#3](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/3) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
+4. 💪 Opened PR [#1](https://github.com/robtech21/MilkV-Duo-Resources/pull/1) in [robtech21/MilkV-Duo-Resources](https://github.com/robtech21/MilkV-Duo-Resources)
+5. 🎉 Merged PR [#2](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile/pull/2) in [aidancrowther/Milk-V-Duo-Docker-Compile](https://github.com/aidancrowther/Milk-V-Duo-Docker-Compile)
 <!--END_SECTION:activity-->
 
 <p align="center">
