@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#201](https://github.com/rivet-gg/rivet/issues/201) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. ❗ Opened issue [#200](https://github.com/rivet-gg/rivet/issues/200) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. 🗣 Commented on [#152](https://github.com/rivet-gg/rivet/issues/152#issuecomment-1823009934) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. ❗ Opened issue [#183](https://github.com/rivet-gg/rivet/issues/183) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 🗣 Commented on [#1457](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1457#issuecomment-1815622070) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🎉 Merged PR [#73](https://github.com/AngelOnFira/git-workshop/pull/73) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+2. 🎉 Merged PR [#74](https://github.com/AngelOnFira/git-workshop/pull/74) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+3. 🎉 Merged PR [#72](https://github.com/AngelOnFira/git-workshop/pull/72) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+4. 🎉 Merged PR [#71](https://github.com/AngelOnFira/git-workshop/pull/71) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🎉 Merged PR [#69](https://github.com/AngelOnFira/git-workshop/pull/69) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
