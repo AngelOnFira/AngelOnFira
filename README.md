@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/rivet-gg/rivet/pull/210) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 🗣 Commented on [#208](https://github.com/rivet-gg/rivet/issues/208#issuecomment-1830697029) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. ❗ Opened issue [#208](https://github.com/rivet-gg/rivet/issues/208) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. ❗ Opened issue [#17](https://github.com/AngelOnFira/rusty-christmas-tree/issues/17) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-5. 🗣 Commented on [#201](https://github.com/rivet-gg/rivet/issues/201#issuecomment-1826078851) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 💪 Opened PR [#212](https://github.com/rivet-gg/rivet/pull/212) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. ❗ Opened issue [#211](https://github.com/rivet-gg/rivet/issues/211) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 💪 Opened PR [#210](https://github.com/rivet-gg/rivet/pull/210) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+4. 🗣 Commented on [#208](https://github.com/rivet-gg/rivet/issues/208#issuecomment-1830697029) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. ❗ Opened issue [#208](https://github.com/rivet-gg/rivet/issues/208) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
