@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/AngelOnFira/rusty-christmas-tree/issues/17) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
-2. 🗣 Commented on [#201](https://github.com/rivet-gg/rivet/issues/201#issuecomment-1826078851) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. 🎉 Merged PR [#73](https://github.com/AngelOnFira/git-workshop/pull/73) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-4. 🎉 Merged PR [#74](https://github.com/AngelOnFira/git-workshop/pull/74) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. 🎉 Merged PR [#72](https://github.com/AngelOnFira/git-workshop/pull/72) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. 🗣 Commented on [#208](https://github.com/rivet-gg/rivet/issues/208#issuecomment-1830697029) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. ❗ Opened issue [#208](https://github.com/rivet-gg/rivet/issues/208) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. ❗ Opened issue [#17](https://github.com/AngelOnFira/rusty-christmas-tree/issues/17) in [AngelOnFira/rusty-christmas-tree](https://github.com/AngelOnFira/rusty-christmas-tree)
+4. 🗣 Commented on [#201](https://github.com/rivet-gg/rivet/issues/201#issuecomment-1826078851) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. 🎉 Merged PR [#73](https://github.com/AngelOnFira/git-workshop/pull/73) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
