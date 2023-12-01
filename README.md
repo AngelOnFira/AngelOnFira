@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/277) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-2. 🗣 Commented on [#1218](https://github.com/fern-api/fern/issues/1218#issuecomment-1832403604) in [fern-api/fern](https://github.com/fern-api/fern)
-3. 🎉 Merged PR [#274](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/274) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-4. 💪 Opened PR [#212](https://github.com/rivet-gg/rivet/pull/212) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. ❗ Opened issue [#211](https://github.com/rivet-gg/rivet/issues/211) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 💪 Opened PR [#216](https://github.com/rivet-gg/rivet/pull/216) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#277](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/277) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+3. 🗣 Commented on [#1218](https://github.com/fern-api/fern/issues/1218#issuecomment-1832403604) in [fern-api/fern](https://github.com/fern-api/fern)
+4. 🎉 Merged PR [#274](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/274) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
+5. 💪 Opened PR [#212](https://github.com/rivet-gg/rivet/pull/212) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
