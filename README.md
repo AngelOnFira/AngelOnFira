@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/rivet-gg/rivet/pull/210#issuecomment-1837562550) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. ❌ Closed PR [#210](https://github.com/rivet-gg/rivet/pull/210) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. 💪 Opened PR [#216](https://github.com/rivet-gg/rivet/pull/216) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 💪 Opened PR [#277](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/277) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
-5. 🗣 Commented on [#1218](https://github.com/fern-api/fern/issues/1218#issuecomment-1832403604) in [fern-api/fern](https://github.com/fern-api/fern)
+1. ❗ Opened issue [#14](https://github.com/rust-gamedev/meetup/issues/14) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+2. 🗣 Commented on [#210](https://github.com/rivet-gg/rivet/pull/210#issuecomment-1837562550) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. ❌ Closed PR [#210](https://github.com/rivet-gg/rivet/pull/210) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+4. 💪 Opened PR [#216](https://github.com/rivet-gg/rivet/pull/216) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. 💪 Opened PR [#277](https://github.com/CarletonComputerScienceSociety/advent-of-code/pull/277) in [CarletonComputerScienceSociety/advent-of-code](https://github.com/CarletonComputerScienceSociety/advent-of-code)
 <!--END_SECTION:activity-->
 
 <p align="center">
