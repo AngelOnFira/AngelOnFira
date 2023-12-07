@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#219](https://github.com/rivet-gg/rivet/pull/219) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 💪 Opened PR [#9534](https://github.com/NixOS/nix/pull/9534) in [NixOS/nix](https://github.com/NixOS/nix)
-3. ❗ Opened issue [#14](https://github.com/rust-gamedev/meetup/issues/14) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🗣 Commented on [#210](https://github.com/rivet-gg/rivet/pull/210#issuecomment-1837562550) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. ❌ Closed PR [#210](https://github.com/rivet-gg/rivet/pull/210) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🗣 Commented on [#219](https://github.com/rivet-gg/rivet/pull/219#issuecomment-1845972666) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#219](https://github.com/rivet-gg/rivet/pull/219) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 💪 Opened PR [#9534](https://github.com/NixOS/nix/pull/9534) in [NixOS/nix](https://github.com/NixOS/nix)
+4. ❗ Opened issue [#14](https://github.com/rust-gamedev/meetup/issues/14) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. 🗣 Commented on [#210](https://github.com/rivet-gg/rivet/pull/210#issuecomment-1837562550) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
