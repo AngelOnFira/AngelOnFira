@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/rivet-gg/cli/pull/99#issuecomment-1854503989) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-2. 💪 Opened PR [#99](https://github.com/rivet-gg/cli/pull/99) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-3. 🗣 Commented on [#219](https://github.com/rivet-gg/rivet/pull/219#issuecomment-1851212678) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 🗣 Commented on [#87](https://github.com/rivet-gg/cli/pull/87#issuecomment-1851207813) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-5. 🗣 Commented on [#1463](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1463#issuecomment-1848601270) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#1](https://github.com/jog1t/plugin-godot/pull/1) in [jog1t/plugin-godot](https://github.com/jog1t/plugin-godot)
+2. 🗣 Commented on [#99](https://github.com/rivet-gg/cli/pull/99#issuecomment-1854503989) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+3. 💪 Opened PR [#99](https://github.com/rivet-gg/cli/pull/99) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+4. 🗣 Commented on [#219](https://github.com/rivet-gg/rivet/pull/219#issuecomment-1851212678) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. 🗣 Commented on [#87](https://github.com/rivet-gg/cli/pull/87#issuecomment-1851207813) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
 <!--END_SECTION:activity-->
 
 <p align="center">
