@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/rivet-gg/plugin-godot/pull/25#issuecomment-1869746017) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-2. 🗣 Commented on [#25](https://github.com/rivet-gg/plugin-godot/pull/25#issuecomment-1869745382) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-3. 💪 Opened PR [#25](https://github.com/rivet-gg/plugin-godot/pull/25) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 🗣 Commented on [#173](https://github.com/rivet-gg/cli/pull/173#issuecomment-1869077197) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-5. 🗣 Commented on [#173](https://github.com/rivet-gg/cli/pull/173#issuecomment-1869076966) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+1. 🗣 Commented on [#44](https://github.com/rivet-gg/site/pull/44#issuecomment-1872444966) in [rivet-gg/site](https://github.com/rivet-gg/site)
+2. 💪 Opened PR [#44](https://github.com/rivet-gg/site/pull/44) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. 🗣 Commented on [#25](https://github.com/rivet-gg/plugin-godot/pull/25#issuecomment-1869746017) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+4. 🗣 Commented on [#25](https://github.com/rivet-gg/plugin-godot/pull/25#issuecomment-1869745382) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+5. 💪 Opened PR [#25](https://github.com/rivet-gg/plugin-godot/pull/25) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
