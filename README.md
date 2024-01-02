@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/rivet-gg/site/pull/70#issuecomment-1874397415) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 🗣 Commented on [#70](https://github.com/rivet-gg/site/pull/70#issuecomment-1874397416) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. 🗣 Commented on [#69](https://github.com/rivet-gg/site/pull/69#issuecomment-1874397390) in [rivet-gg/site](https://github.com/rivet-gg/site)
-4. 🗣 Commented on [#69](https://github.com/rivet-gg/site/pull/69#issuecomment-1874397387) in [rivet-gg/site](https://github.com/rivet-gg/site)
-5. 🗣 Commented on [#68](https://github.com/rivet-gg/site/pull/68#issuecomment-1874397357) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. 🗣 Commented on [#25](https://github.com/rivet-gg/plugin-godot/pull/25#issuecomment-1874473075) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+2. 🗣 Commented on [#70](https://github.com/rivet-gg/site/pull/70#issuecomment-1874397415) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. 🗣 Commented on [#70](https://github.com/rivet-gg/site/pull/70#issuecomment-1874397416) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. 🗣 Commented on [#69](https://github.com/rivet-gg/site/pull/69#issuecomment-1874397390) in [rivet-gg/site](https://github.com/rivet-gg/site)
+5. 🗣 Commented on [#69](https://github.com/rivet-gg/site/pull/69#issuecomment-1874397387) in [rivet-gg/site](https://github.com/rivet-gg/site)
 <!--END_SECTION:activity-->
 
 <p align="center">
