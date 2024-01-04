@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9534](https://github.com/NixOS/nix/pull/9534#issuecomment-1874780475) in [NixOS/nix](https://github.com/NixOS/nix)
-2. 🗣 Commented on [#40](https://github.com/rivet-gg/plugin-godot/pull/40#issuecomment-1874772722) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-3. 🗣 Commented on [#40](https://github.com/rivet-gg/plugin-godot/pull/40#issuecomment-1874772714) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 💪 Opened PR [#40](https://github.com/rivet-gg/plugin-godot/pull/40) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-5. 🗣 Commented on [#36](https://github.com/rivet-gg/plugin-godot/pull/36#issuecomment-1874766576) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+1. 🗣 Commented on [#317](https://github.com/rivet-gg/rivet/pull/317#issuecomment-1877407464) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#317](https://github.com/rivet-gg/rivet/pull/317) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 🗣 Commented on [#9534](https://github.com/NixOS/nix/pull/9534#issuecomment-1874780475) in [NixOS/nix](https://github.com/NixOS/nix)
+4. 🗣 Commented on [#40](https://github.com/rivet-gg/plugin-godot/pull/40#issuecomment-1874772722) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+5. 🗣 Commented on [#40](https://github.com/rivet-gg/plugin-godot/pull/40#issuecomment-1874772714) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
