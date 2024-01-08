@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rivet-gg/godot-docker/pull/1#issuecomment-1881712532) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
-2. 💪 Opened PR [#1](https://github.com/rivet-gg/godot-docker/pull/1) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
-3. 🗣 Commented on [#5](https://github.com/rivet-gg/examples/pull/5#issuecomment-1881422583) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-4. 💪 Opened PR [#5](https://github.com/rivet-gg/examples/pull/5) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-5. 🗣 Commented on [#317](https://github.com/rivet-gg/rivet/pull/317#issuecomment-1877407464) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🎉 Merged PR [#1](https://github.com/rivet-gg/godot-docker/pull/1) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
+2. 🗣 Commented on [#1](https://github.com/rivet-gg/godot-docker/pull/1#issuecomment-1881791954) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
+3. ❗ Opened issue [#2](https://github.com/rivet-gg/godot-docker/issues/2) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
+4. 🗣 Commented on [#1](https://github.com/rivet-gg/godot-docker/pull/1#issuecomment-1881712532) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
+5. 💪 Opened PR [#1](https://github.com/rivet-gg/godot-docker/pull/1) in [rivet-gg/godot-docker](https://github.com/rivet-gg/godot-docker)
 <!--END_SECTION:activity-->
 
 <p align="center">
