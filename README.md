@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/rivet-gg/examples/pull/17#issuecomment-1917955599) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-2. 💪 Opened PR [#17](https://github.com/rivet-gg/examples/pull/17) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-3. 🔒 Closed issue [#406](https://github.com/rivet-gg/rivet/issues/406) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. ❗ Opened issue [#406](https://github.com/rivet-gg/rivet/issues/406) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 🗣 Commented on [#45](https://github.com/rivet-gg/plugin-godot/pull/45#issuecomment-1915631521) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+1. 🗣 Commented on [#87023](https://github.com/godotengine/godot/issues/87023#issuecomment-1918086167) in [godotengine/godot](https://github.com/godotengine/godot)
+2. 🗣 Commented on [#17](https://github.com/rivet-gg/examples/pull/17#issuecomment-1917955599) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+3. 💪 Opened PR [#17](https://github.com/rivet-gg/examples/pull/17) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+4. 🔒 Closed issue [#406](https://github.com/rivet-gg/rivet/issues/406) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. ❗ Opened issue [#406](https://github.com/rivet-gg/rivet/issues/406) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
