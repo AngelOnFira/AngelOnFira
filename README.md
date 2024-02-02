@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/rivet-gg/examples/pull/19) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-2. 🎉 Merged PR [#18](https://github.com/rivet-gg/examples/pull/18) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-3. 🗣 Commented on [#19](https://github.com/rivet-gg/examples/pull/19#issuecomment-1922574875) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-4. 🗣 Commented on [#18](https://github.com/rivet-gg/examples/pull/18#issuecomment-1922574876) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-5. 🗣 Commented on [#19](https://github.com/rivet-gg/examples/pull/19#issuecomment-1922556019) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+1. ❌ Closed PR [#219](https://github.com/rivet-gg/rivet/pull/219) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 🗣 Commented on [#18](https://github.com/rivet-gg/examples/pull/18#issuecomment-1924255847) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+3. 🎉 Merged PR [#19](https://github.com/rivet-gg/examples/pull/19) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+4. 🎉 Merged PR [#18](https://github.com/rivet-gg/examples/pull/18) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
+5. 🗣 Commented on [#19](https://github.com/rivet-gg/examples/pull/19#issuecomment-1922574875) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
 <!--END_SECTION:activity-->
 
 <p align="center">
