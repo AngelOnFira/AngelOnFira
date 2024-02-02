@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/rivet-gg/site/pull/97#issuecomment-1921656347) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 💪 Opened PR [#97](https://github.com/rivet-gg/site/pull/97) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. 🎉 Merged PR [#1](https://github.com/rivet-gg/examples/pull/1) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
-4. 🗣 Commented on [#424](https://github.com/rivet-gg/rivet/pull/424#issuecomment-1919323249) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 💪 Opened PR [#424](https://github.com/rivet-gg/rivet/pull/424) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. ❗ Opened issue [#430](https://github.com/rivet-gg/rivet/issues/430) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. ❗ Opened issue [#89](https://github.com/rivet-gg/hub/issues/89) in [rivet-gg/hub](https://github.com/rivet-gg/hub)
+3. 🗣 Commented on [#97](https://github.com/rivet-gg/site/pull/97#issuecomment-1921656347) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. 💪 Opened PR [#97](https://github.com/rivet-gg/site/pull/97) in [rivet-gg/site](https://github.com/rivet-gg/site)
+5. 🎉 Merged PR [#1](https://github.com/rivet-gg/examples/pull/1) in [rivet-gg/examples](https://github.com/rivet-gg/examples)
 <!--END_SECTION:activity-->
 
 <p align="center">
