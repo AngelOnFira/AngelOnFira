@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#119](https://github.com/rivet-gg/site/issues/119) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. ❗ Opened issue [#17](https://github.com/rust-gamedev/meetup/issues/17) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-3. ❗ Opened issue [#16](https://github.com/rust-gamedev/meetup/issues/16) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🔒 Closed issue [#15](https://github.com/rust-gamedev/meetup/issues/15) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. ❗ Opened issue [#118](https://github.com/rivet-gg/site/issues/118) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. 🗣 Commented on [#120](https://github.com/rivet-gg/site/pull/120#issuecomment-1934837535) in [rivet-gg/site](https://github.com/rivet-gg/site)
+2. 💪 Opened PR [#120](https://github.com/rivet-gg/site/pull/120) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. ❗ Opened issue [#119](https://github.com/rivet-gg/site/issues/119) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. ❗ Opened issue [#17](https://github.com/rust-gamedev/meetup/issues/17) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
+5. ❗ Opened issue [#16](https://github.com/rust-gamedev/meetup/issues/16) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
