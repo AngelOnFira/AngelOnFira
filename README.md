@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#124](https://github.com/rivet-gg/site/issues/124) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 🗣 Commented on [#2109](https://github.com/SeaQL/sea-orm/pull/2109#issuecomment-1941912920) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-3. 💪 Opened PR [#2109](https://github.com/SeaQL/sea-orm/pull/2109) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-4. ❗ Opened issue [#51](https://github.com/rivet-gg/plugin-godot/issues/51) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-5. 🗣 Commented on [#123](https://github.com/rivet-gg/site/pull/123#issuecomment-1941550078) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. 🗣 Commented on [#223](https://github.com/rivet-gg/rivet/pull/223#issuecomment-1942226136) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 🔒 Closed issue [#124](https://github.com/rivet-gg/site/issues/124) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. 🗣 Commented on [#2109](https://github.com/SeaQL/sea-orm/pull/2109#issuecomment-1941912920) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+4. 💪 Opened PR [#2109](https://github.com/SeaQL/sea-orm/pull/2109) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+5. ❗ Opened issue [#51](https://github.com/rivet-gg/plugin-godot/issues/51) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
