@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/rivet-gg/site/pull/123#issuecomment-1941550078) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 💪 Opened PR [#123](https://github.com/rivet-gg/site/pull/123) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. 🗣 Commented on [#16](https://github.com/rust-gamedev/meetup/issues/16#issuecomment-1937085226) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-4. 🔒 Closed issue [#16](https://github.com/rust-gamedev/meetup/issues/16) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
-5. 🎉 Merged PR [#1463](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1463) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 💪 Opened PR [#2109](https://github.com/SeaQL/sea-orm/pull/2109) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. ❗ Opened issue [#51](https://github.com/rivet-gg/plugin-godot/issues/51) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+3. 🗣 Commented on [#123](https://github.com/rivet-gg/site/pull/123#issuecomment-1941550078) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. 💪 Opened PR [#123](https://github.com/rivet-gg/site/pull/123) in [rivet-gg/site](https://github.com/rivet-gg/site)
+5. 🗣 Commented on [#16](https://github.com/rust-gamedev/meetup/issues/16#issuecomment-1937085226) in [rust-gamedev/meetup](https://github.com/rust-gamedev/meetup)
 <!--END_SECTION:activity-->
 
 <p align="center">
