@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/rivet-gg/site/pull/125#issuecomment-1942759644) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 💪 Opened PR [#125](https://github.com/rivet-gg/site/pull/125) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. 🗣 Commented on [#223](https://github.com/rivet-gg/rivet/pull/223#issuecomment-1942226136) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 🔒 Closed issue [#124](https://github.com/rivet-gg/site/issues/124) in [rivet-gg/site](https://github.com/rivet-gg/site)
-5. 🗣 Commented on [#2109](https://github.com/SeaQL/sea-orm/pull/2109#issuecomment-1941912920) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+1. ❗ Opened issue [#67](https://github.com/CarletonURocketry/ground-station/issues/67) in [CarletonURocketry/ground-station](https://github.com/CarletonURocketry/ground-station)
+2. 🗣 Commented on [#125](https://github.com/rivet-gg/site/pull/125#issuecomment-1942759644) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. 💪 Opened PR [#125](https://github.com/rivet-gg/site/pull/125) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. 🗣 Commented on [#223](https://github.com/rivet-gg/rivet/pull/223#issuecomment-1942226136) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. 🔒 Closed issue [#124](https://github.com/rivet-gg/site/issues/124) in [rivet-gg/site](https://github.com/rivet-gg/site)
 <!--END_SECTION:activity-->
 
 <p align="center">
