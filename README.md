@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/rivet-gg/site/pull/86#issuecomment-1947112111) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. 💪 Opened PR [#68](https://github.com/CarletonURocketry/ground-station/pull/68) in [CarletonURocketry/ground-station](https://github.com/CarletonURocketry/ground-station)
-3. ❗ Opened issue [#67](https://github.com/CarletonURocketry/ground-station/issues/67) in [CarletonURocketry/ground-station](https://github.com/CarletonURocketry/ground-station)
-4. 🗣 Commented on [#125](https://github.com/rivet-gg/site/pull/125#issuecomment-1942759644) in [rivet-gg/site](https://github.com/rivet-gg/site)
-5. 💪 Opened PR [#125](https://github.com/rivet-gg/site/pull/125) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. ❗ Opened issue [#511](https://github.com/rivet-gg/rivet/issues/511) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 🗣 Commented on [#86](https://github.com/rivet-gg/site/pull/86#issuecomment-1947112111) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. 💪 Opened PR [#68](https://github.com/CarletonURocketry/ground-station/pull/68) in [CarletonURocketry/ground-station](https://github.com/CarletonURocketry/ground-station)
+4. ❗ Opened issue [#67](https://github.com/CarletonURocketry/ground-station/issues/67) in [CarletonURocketry/ground-station](https://github.com/CarletonURocketry/ground-station)
+5. 🗣 Commented on [#125](https://github.com/rivet-gg/site/pull/125#issuecomment-1942759644) in [rivet-gg/site](https://github.com/rivet-gg/site)
 <!--END_SECTION:activity-->
 
 <p align="center">
