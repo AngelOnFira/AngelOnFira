@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/rivet-gg/rivet/pull/521#issuecomment-1955199733) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 💪 Opened PR [#521](https://github.com/rivet-gg/rivet/pull/521) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. 🗣 Commented on [#520](https://github.com/rivet-gg/rivet/pull/520#issuecomment-1955164683) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 💪 Opened PR [#520](https://github.com/rivet-gg/rivet/pull/520) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. ❌ Closed PR [#393](https://github.com/rivet-gg/rivet/pull/393) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🗣 Commented on [#173](https://github.com/SpicyPizza/create-envfile/pull/173#issuecomment-1955784537) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+2. 🎉 Merged PR [#173](https://github.com/SpicyPizza/create-envfile/pull/173) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+3. 🗣 Commented on [#173](https://github.com/SpicyPizza/create-envfile/pull/173#issuecomment-1955784086) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+4. ❌ Closed PR [#175](https://github.com/SpicyPizza/create-envfile/pull/175) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+5. 💪 Opened PR [#175](https://github.com/SpicyPizza/create-envfile/pull/175) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
