@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.3](https://github.com/SpicyPizza/create-envfile/releases/tag/v2.0.3) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-2. 🗣 Commented on [#173](https://github.com/SpicyPizza/create-envfile/pull/173#issuecomment-1955784537) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-3. 🎉 Merged PR [#173](https://github.com/SpicyPizza/create-envfile/pull/173) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-4. 🗣 Commented on [#173](https://github.com/SpicyPizza/create-envfile/pull/173#issuecomment-1955784086) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
-5. ❌ Closed PR [#175](https://github.com/SpicyPizza/create-envfile/pull/175) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
+1. 🎉 Merged PR [#3](https://github.com/AngelOnFira/rivet/pull/3) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+2. 🗣 Commented on [#3](https://github.com/AngelOnFira/rivet/pull/3#issuecomment-1957040501) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+3. 🗣 Commented on [#3](https://github.com/AngelOnFira/rivet/pull/3#issuecomment-1957038416) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+4. 💪 Opened PR [#3](https://github.com/AngelOnFira/rivet/pull/3) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+5. 🚀 Published release [v2.0.3](https://github.com/SpicyPizza/create-envfile/releases/tag/v2.0.3) in [SpicyPizza/create-envfile](https://github.com/SpicyPizza/create-envfile)
 <!--END_SECTION:activity-->
 
 <p align="center">
