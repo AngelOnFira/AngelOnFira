@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rivet/pull/12) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
-2. 🎉 Merged PR [#11](https://github.com/AngelOnFira/rivet/pull/11) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
-3. 🗣 Commented on [#12](https://github.com/AngelOnFira/rivet/pull/12#issuecomment-1960621127) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
-4. 🗣 Commented on [#11](https://github.com/AngelOnFira/rivet/pull/11#issuecomment-1960621128) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
-5. 🗣 Commented on [#12](https://github.com/AngelOnFira/rivet/pull/12#issuecomment-1960618920) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+1. 🗣 Commented on [#536](https://github.com/rivet-gg/rivet/pull/536#issuecomment-1961545184) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#536](https://github.com/rivet-gg/rivet/pull/536) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 🎉 Merged PR [#12](https://github.com/AngelOnFira/rivet/pull/12) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+4. 🎉 Merged PR [#11](https://github.com/AngelOnFira/rivet/pull/11) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+5. 🗣 Commented on [#12](https://github.com/AngelOnFira/rivet/pull/12#issuecomment-1960621127) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
