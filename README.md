@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/AngelOnFira/git-workshop/pull/87) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-2. 🎉 Merged PR [#88](https://github.com/AngelOnFira/git-workshop/pull/88) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-3. 💪 Opened PR [#88](https://github.com/AngelOnFira/git-workshop/pull/88) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-4. 💪 Opened PR [#87](https://github.com/AngelOnFira/git-workshop/pull/87) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
-5. 🎉 Merged PR [#78](https://github.com/AngelOnFira/git-workshop/pull/78) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+1. ❗ Opened issue [#149](https://github.com/rivet-gg/site/issues/149) in [rivet-gg/site](https://github.com/rivet-gg/site)
+2. 🎉 Merged PR [#86](https://github.com/AngelOnFira/git-workshop/pull/86) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+3. 🎉 Merged PR [#85](https://github.com/AngelOnFira/git-workshop/pull/85) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+4. 🎉 Merged PR [#84](https://github.com/AngelOnFira/git-workshop/pull/84) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
+5. 🎉 Merged PR [#83](https://github.com/AngelOnFira/git-workshop/pull/83) in [AngelOnFira/git-workshop](https://github.com/AngelOnFira/git-workshop)
 <!--END_SECTION:activity-->
 
 <p align="center">
