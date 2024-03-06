@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#558](https://github.com/rivet-gg/rivet/issues/558) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 🗣 Commented on [#7](https://github.com/rivet-gg/plugin-unity/pull/7#issuecomment-1977700557) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-3. 🗣 Commented on [#8](https://github.com/rivet-gg/plugin-unity/pull/8#issuecomment-1977700568) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-4. 💪 Opened PR [#8](https://github.com/rivet-gg/plugin-unity/pull/8) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-5. 💪 Opened PR [#7](https://github.com/rivet-gg/plugin-unity/pull/7) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+1. 🎉 Merged PR [#9](https://github.com/rivet-gg/plugin-unity/pull/9) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+2. 🗣 Commented on [#11](https://github.com/rivet-gg/plugin-unity/pull/11#issuecomment-1981753431) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+3. 💪 Opened PR [#11](https://github.com/rivet-gg/plugin-unity/pull/11) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+4. 🗣 Commented on [#10](https://github.com/rivet-gg/plugin-unity/pull/10#issuecomment-1981697506) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+5. 💪 Opened PR [#10](https://github.com/rivet-gg/plugin-unity/pull/10) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
 <!--END_SECTION:activity-->
 
 <p align="center">
