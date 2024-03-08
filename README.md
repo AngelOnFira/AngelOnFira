@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/rivet-gg/plugin-unity/pull/16) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-2. 🗣 Commented on [#17](https://github.com/rivet-gg/plugin-unity/pull/17#issuecomment-1982446347) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-3. 💪 Opened PR [#17](https://github.com/rivet-gg/plugin-unity/pull/17) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-4. 🗣 Commented on [#15](https://github.com/rivet-gg/plugin-unity/pull/15#issuecomment-1982275904) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-5. 💪 Opened PR [#15](https://github.com/rivet-gg/plugin-unity/pull/15) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+1. 🗣 Commented on [#57](https://github.com/rivet-gg/plugin-godot/pull/57#issuecomment-1985813953) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+2. 💪 Opened PR [#57](https://github.com/rivet-gg/plugin-godot/pull/57) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+3. 🎉 Merged PR [#16](https://github.com/rivet-gg/plugin-unity/pull/16) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+4. 🗣 Commented on [#17](https://github.com/rivet-gg/plugin-unity/pull/17#issuecomment-1982446347) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+5. 💪 Opened PR [#17](https://github.com/rivet-gg/plugin-unity/pull/17) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
 <!--END_SECTION:activity-->
 
 <p align="center">
