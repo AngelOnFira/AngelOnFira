@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/rivet-gg/plugin-godot/pull/31#issuecomment-1992301977) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-2. ❗ Opened issue [#75](https://github.com/rivet-gg/plugin-godot/issues/75) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-3. 🗣 Commented on [#73](https://github.com/rivet-gg/plugin-godot/pull/73#issuecomment-1989909871) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 💪 Opened PR [#73](https://github.com/rivet-gg/plugin-godot/pull/73) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-5. ❌ Closed PR [#371](https://github.com/rivet-gg/rivet/pull/371) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. ❌ Closed PR [#169](https://github.com/rivet-gg/rivet/pull/169) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. ❌ Closed PR [#125](https://github.com/rivet-gg/site/pull/125) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. ❌ Closed PR [#3](https://github.com/rivet-gg/conventional-commit-comment/pull/3) in [rivet-gg/conventional-commit-comment](https://github.com/rivet-gg/conventional-commit-comment)
+4. 🗣 Commented on [#31](https://github.com/rivet-gg/plugin-godot/pull/31#issuecomment-1992301977) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+5. ❗ Opened issue [#75](https://github.com/rivet-gg/plugin-godot/issues/75) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
