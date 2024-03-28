@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#614](https://github.com/rivet-gg/rivet/issues/614) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. ❗ Opened issue [#167](https://github.com/rivet-gg/site/issues/167) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. 💪 Opened PR [#8](https://github.com/CarletonURocketry/monitor/pull/8) in [CarletonURocketry/monitor](https://github.com/CarletonURocketry/monitor)
-4. 💪 Opened PR [#7](https://github.com/CarletonURocketry/monitor/pull/7) in [CarletonURocketry/monitor](https://github.com/CarletonURocketry/monitor)
-5. 🗣 Commented on [#6](https://github.com/CarletonURocketry/monitor/pull/6#issuecomment-2002144669) in [CarletonURocketry/monitor](https://github.com/CarletonURocketry/monitor)
+1. 🗣 Commented on [#168](https://github.com/rivet-gg/site/pull/168#issuecomment-2026095056) in [rivet-gg/site](https://github.com/rivet-gg/site)
+2. 💪 Opened PR [#168](https://github.com/rivet-gg/site/pull/168) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. ❗ Opened issue [#614](https://github.com/rivet-gg/rivet/issues/614) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+4. ❗ Opened issue [#167](https://github.com/rivet-gg/site/issues/167) in [rivet-gg/site](https://github.com/rivet-gg/site)
+5. 💪 Opened PR [#8](https://github.com/CarletonURocketry/monitor/pull/8) in [CarletonURocketry/monitor](https://github.com/CarletonURocketry/monitor)
 <!--END_SECTION:activity-->
 
 <p align="center">
