@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#698](https://github.com/rivet-gg/rivet/pull/698#issuecomment-2060067136) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 💪 Opened PR [#698](https://github.com/rivet-gg/rivet/pull/698) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. 🗣 Commented on [#693](https://github.com/rivet-gg/rivet/pull/693#issuecomment-2057507060) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 💪 Opened PR [#693](https://github.com/rivet-gg/rivet/pull/693) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 🗣 Commented on [#662](https://github.com/rivet-gg/rivet/pull/662#issuecomment-2050213383) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🗣 Commented on [#701](https://github.com/rivet-gg/rivet/pull/701#issuecomment-2061988041) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 🗣 Commented on [#700](https://github.com/rivet-gg/rivet/pull/700#issuecomment-2061988021) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 💪 Opened PR [#701](https://github.com/rivet-gg/rivet/pull/701) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+4. 💪 Opened PR [#700](https://github.com/rivet-gg/rivet/pull/700) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. 🗣 Commented on [#698](https://github.com/rivet-gg/rivet/pull/698#issuecomment-2060067136) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
