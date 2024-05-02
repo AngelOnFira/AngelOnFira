@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#758](https://github.com/rivet-gg/rivet/pull/758) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. ❌ Closed PR [#756](https://github.com/rivet-gg/rivet/pull/756) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. ❌ Closed PR [#750](https://github.com/rivet-gg/rivet/pull/750) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 🗣 Commented on [#1502](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1502#issuecomment-2090580990) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-5. 💪 Opened PR [#1503](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1503) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
+1. 🗣 Commented on [#761](https://github.com/rivet-gg/rivet/pull/761#issuecomment-2091659956) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#761](https://github.com/rivet-gg/rivet/pull/761) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. ❌ Closed PR [#758](https://github.com/rivet-gg/rivet/pull/758) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+4. ❌ Closed PR [#756](https://github.com/rivet-gg/rivet/pull/756) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+5. ❌ Closed PR [#750](https://github.com/rivet-gg/rivet/pull/750) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
 <!--END_SECTION:activity-->
 
 <p align="center">
