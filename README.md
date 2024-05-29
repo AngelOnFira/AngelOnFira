@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/rivet-gg/cli/pull/248#issuecomment-2138176688) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-2. 🗣 Commented on [#247](https://github.com/rivet-gg/cli/pull/247#issuecomment-2138176669) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-3. 💪 Opened PR [#248](https://github.com/rivet-gg/cli/pull/248) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-4. 💪 Opened PR [#247](https://github.com/rivet-gg/cli/pull/247) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-5. 💪 Opened PR [#9](https://github.com/AngelOnFira/cli/pull/9) in [AngelOnFira/cli](https://github.com/AngelOnFira/cli)
+1. 🎉 Merged PR [#246](https://github.com/rivet-gg/cli/pull/246) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+2. 🗣 Commented on [#248](https://github.com/rivet-gg/cli/pull/248#issuecomment-2138176688) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+3. 🗣 Commented on [#247](https://github.com/rivet-gg/cli/pull/247#issuecomment-2138176669) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+4. 💪 Opened PR [#248](https://github.com/rivet-gg/cli/pull/248) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+5. 💪 Opened PR [#247](https://github.com/rivet-gg/cli/pull/247) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
 <!--END_SECTION:activity-->
 
 <p align="center">
