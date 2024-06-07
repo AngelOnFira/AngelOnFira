@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/rivet-gg/plugin-unity/pull/31#issuecomment-2155267556) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-2. 💪 Opened PR [#31](https://github.com/rivet-gg/plugin-unity/pull/31) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
-3. 🎉 Merged PR [#116](https://github.com/rivet-gg/plugin-godot/pull/116) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 💪 Opened PR [#115](https://github.com/rivet-gg/plugin-godot/pull/115) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-5. 💪 Opened PR [#114](https://github.com/rivet-gg/plugin-godot/pull/114) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+1. ❗ Opened issue [#330](https://github.com/rivet-gg/opengb/issues/330) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+2. 🗣 Commented on [#31](https://github.com/rivet-gg/plugin-unity/pull/31#issuecomment-2155267556) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+3. 💪 Opened PR [#31](https://github.com/rivet-gg/plugin-unity/pull/31) in [rivet-gg/plugin-unity](https://github.com/rivet-gg/plugin-unity)
+4. 🎉 Merged PR [#116](https://github.com/rivet-gg/plugin-godot/pull/116) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+5. 💪 Opened PR [#115](https://github.com/rivet-gg/plugin-godot/pull/115) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
