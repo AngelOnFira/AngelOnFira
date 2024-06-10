@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AngelOnFira/opengb/pull/1) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
-2. 💪 Opened PR [#1](https://github.com/AngelOnFira/opengb/pull/1) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
-3. 🔒 Closed issue [#94](https://github.com/rivet-gg/plugin-godot/issues/94) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 🔒 Closed issue [#562](https://github.com/rivet-gg/rivet/issues/562) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. ❗ Opened issue [#330](https://github.com/rivet-gg/opengb/issues/330) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+1. 🗣 Commented on [#173](https://github.com/rivet-gg/cli/pull/173#issuecomment-2158825026) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+2. ❌ Closed PR [#173](https://github.com/rivet-gg/cli/pull/173) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+3. 🎉 Merged PR [#1](https://github.com/AngelOnFira/opengb/pull/1) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
+4. 💪 Opened PR [#1](https://github.com/AngelOnFira/opengb/pull/1) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
+5. 🔒 Closed issue [#94](https://github.com/rivet-gg/plugin-godot/issues/94) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
