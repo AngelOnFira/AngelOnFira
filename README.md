@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1543](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1543) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-2. 🗣 Commented on [#1542](https://github.com/rust-gamedev/rust-gamedev.github.io/pull/1542#issuecomment-2203660424) in [rust-gamedev/rust-gamedev.github.io](https://github.com/rust-gamedev/rust-gamedev.github.io)
-3. ❗ Opened issue [#133](https://github.com/rivet-gg/plugin-godot/issues/133) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
-4. 🗣 Commented on [#960](https://github.com/rivet-gg/rivet/pull/960#issuecomment-2195152431) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 💪 Opened PR [#960](https://github.com/rivet-gg/rivet/pull/960) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🎉 Merged PR [#135](https://github.com/rivet-gg/plugin-godot/pull/135) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+2. ❌ Closed PR [#126](https://github.com/rivet-gg/plugin-godot/pull/126) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+3. 🗣 Commented on [#126](https://github.com/rivet-gg/plugin-godot/pull/126#issuecomment-2203994840) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+4. 🗣 Commented on [#134](https://github.com/rivet-gg/plugin-godot/pull/134#issuecomment-2203989221) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+5. 💪 Opened PR [#134](https://github.com/rivet-gg/plugin-godot/pull/134) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
 <!--END_SECTION:activity-->
 
 <p align="center">
