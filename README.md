@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1005](https://github.com/rivet-gg/rivet/pull/1005#issuecomment-2246314559) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-2. 💪 Opened PR [#1005](https://github.com/rivet-gg/rivet/pull/1005) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-3. ❗ Opened issue [#254](https://github.com/rivet-gg/hub/issues/254) in [rivet-gg/hub](https://github.com/rivet-gg/hub)
-4. 🗣 Commented on [#1391](https://github.com/rust-lang/team/pull/1391#issuecomment-2229174639) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🎉 Merged PR [#272](https://github.com/rivet-gg/cli/pull/272) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+1. 🗣 Commented on [#1006](https://github.com/rivet-gg/rivet/pull/1006#issuecomment-2246443430) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+2. 💪 Opened PR [#1006](https://github.com/rivet-gg/rivet/pull/1006) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+3. 🔒 Closed issue [#256](https://github.com/rivet-gg/hub/issues/256) in [rivet-gg/hub](https://github.com/rivet-gg/hub)
+4. ❗ Opened issue [#257](https://github.com/rivet-gg/hub/issues/257) in [rivet-gg/hub](https://github.com/rivet-gg/hub)
+5. ❗ Opened issue [#256](https://github.com/rivet-gg/hub/issues/256) in [rivet-gg/hub](https://github.com/rivet-gg/hub)
 <!--END_SECTION:activity-->
 
 <p align="center">
