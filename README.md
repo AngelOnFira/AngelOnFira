@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AngelOnFira/opengb/pull/3) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
-2. 💪 Opened PR [#3](https://github.com/AngelOnFira/opengb/pull/3) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
-3. 🗣 Commented on [#1014](https://github.com/rivet-gg/rivet/pull/1014#issuecomment-2265726287) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-4. 🗣 Commented on [#1013](https://github.com/rivet-gg/rivet/pull/1013#issuecomment-2265722421) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
-5. 🗣 Commented on [#1006](https://github.com/rivet-gg/rivet/pull/1006#issuecomment-2246443430) in [rivet-gg/rivet](https://github.com/rivet-gg/rivet)
+1. 🗣 Commented on [#490](https://github.com/rivet-gg/opengb/pull/490#issuecomment-2273955385) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+2. 💪 Opened PR [#490](https://github.com/rivet-gg/opengb/pull/490) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+3. 🎉 Merged PR [#2](https://github.com/AngelOnFira/opengb/pull/2) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
+4. 🎉 Merged PR [#3](https://github.com/AngelOnFira/opengb/pull/3) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
+5. 💪 Opened PR [#3](https://github.com/AngelOnFira/opengb/pull/3) in [AngelOnFira/opengb](https://github.com/AngelOnFira/opengb)
 <!--END_SECTION:activity-->
 
 <p align="center">
