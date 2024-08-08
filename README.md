@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/rivet-gg/opengb-modules/pull/112) in [rivet-gg/opengb-modules](https://github.com/rivet-gg/opengb-modules)
-2. 🎉 Merged PR [#493](https://github.com/rivet-gg/opengb/pull/493) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
-3. 🗣 Commented on [#493](https://github.com/rivet-gg/opengb/pull/493#issuecomment-2274219978) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
-4. 💪 Opened PR [#493](https://github.com/rivet-gg/opengb/pull/493) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
-5. 🗣 Commented on [#491](https://github.com/rivet-gg/opengb/pull/491#issuecomment-2274200079) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+1. 🗣 Commented on [#498](https://github.com/rivet-gg/opengb/pull/498#issuecomment-2274495783) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+2. 💪 Opened PR [#498](https://github.com/rivet-gg/opengb/pull/498) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+3. 🎉 Merged PR [#385](https://github.com/rivet-gg/opengb/pull/385) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+4. 🎉 Merged PR [#112](https://github.com/rivet-gg/opengb-modules/pull/112) in [rivet-gg/opengb-modules](https://github.com/rivet-gg/opengb-modules)
+5. 🎉 Merged PR [#493](https://github.com/rivet-gg/opengb/pull/493) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
 <!--END_SECTION:activity-->
 
 <p align="center">
