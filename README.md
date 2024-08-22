@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#315](https://github.com/rivet-gg/cli/pull/315) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-2. 🎉 Merged PR [#336](https://github.com/rivet-gg/cli/pull/336) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-3. 🗣 Commented on [#336](https://github.com/rivet-gg/cli/pull/336#issuecomment-2305380480) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-4. 💪 Opened PR [#336](https://github.com/rivet-gg/cli/pull/336) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
-5. 🗣 Commented on [#178](https://github.com/rivet-gg/plugin-godot/pull/178#issuecomment-2305276418) in [rivet-gg/plugin-godot](https://github.com/rivet-gg/plugin-godot)
+1. ❗ Opened issue [#526](https://github.com/rivet-gg/opengb/issues/526) in [rivet-gg/opengb](https://github.com/rivet-gg/opengb)
+2. 🎉 Merged PR [#315](https://github.com/rivet-gg/cli/pull/315) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+3. 🎉 Merged PR [#336](https://github.com/rivet-gg/cli/pull/336) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+4. 🗣 Commented on [#336](https://github.com/rivet-gg/cli/pull/336#issuecomment-2305380480) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
+5. 💪 Opened PR [#336](https://github.com/rivet-gg/cli/pull/336) in [rivet-gg/cli](https://github.com/rivet-gg/cli)
 <!--END_SECTION:activity-->
 
 <p align="center">
