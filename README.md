@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#250](https://github.com/rivet-gg/site/pull/250) in [rivet-gg/site](https://github.com/rivet-gg/site)
-2. ❌ Closed PR [#251](https://github.com/rivet-gg/site/pull/251) in [rivet-gg/site](https://github.com/rivet-gg/site)
-3. ❌ Closed PR [#252](https://github.com/rivet-gg/site/pull/252) in [rivet-gg/site](https://github.com/rivet-gg/site)
-4. 🗣 Commented on [#212](https://github.com/rivet-gg/site/pull/212#issuecomment-2322214651) in [rivet-gg/site](https://github.com/rivet-gg/site)
-5. 🎉 Merged PR [#248](https://github.com/rivet-gg/site/pull/248) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. 🗣 Commented on [#2329](https://github.com/SeaQL/sea-orm/pull/2329#issuecomment-2358992974) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+2. ❌ Closed PR [#250](https://github.com/rivet-gg/site/pull/250) in [rivet-gg/site](https://github.com/rivet-gg/site)
+3. ❌ Closed PR [#251](https://github.com/rivet-gg/site/pull/251) in [rivet-gg/site](https://github.com/rivet-gg/site)
+4. ❌ Closed PR [#252](https://github.com/rivet-gg/site/pull/252) in [rivet-gg/site](https://github.com/rivet-gg/site)
+5. 🗣 Commented on [#212](https://github.com/rivet-gg/site/pull/212#issuecomment-2322214651) in [rivet-gg/site](https://github.com/rivet-gg/site)
 <!--END_SECTION:activity-->
 
 <p align="center">
