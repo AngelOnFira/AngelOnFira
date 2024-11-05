@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#934](https://github.com/loco-rs/loco/issues/934#issuecomment-2455124002) in [loco-rs/loco](https://github.com/loco-rs/loco)
-2. 🗣 Commented on [#950](https://github.com/loco-rs/loco/issues/950#issuecomment-2455123679) in [loco-rs/loco](https://github.com/loco-rs/loco)
-3. 💪 Opened PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
-4. 🗣 Commented on [#2329](https://github.com/SeaQL/sea-orm/pull/2329#issuecomment-2358992974) in [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-5. ❌ Closed PR [#250](https://github.com/rivet-gg/site/pull/250) in [rivet-gg/site](https://github.com/rivet-gg/site)
+1. 🎉 Merged PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+2. 🗣 Commented on [#1](https://github.com/zilliah/omgSite/pull/1#issuecomment-2455560032) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+3. 🗣 Commented on [#934](https://github.com/loco-rs/loco/issues/934#issuecomment-2455124002) in [loco-rs/loco](https://github.com/loco-rs/loco)
+4. 🗣 Commented on [#950](https://github.com/loco-rs/loco/issues/950#issuecomment-2455123679) in [loco-rs/loco](https://github.com/loco-rs/loco)
+5. 💪 Opened PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
 <!--END_SECTION:activity-->
 
 <p align="center">
