@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
-2. 🗣 Commented on [#1](https://github.com/zilliah/omgSite/pull/1#issuecomment-2455560032) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
-3. 🗣 Commented on [#934](https://github.com/loco-rs/loco/issues/934#issuecomment-2455124002) in [loco-rs/loco](https://github.com/loco-rs/loco)
-4. 🗣 Commented on [#950](https://github.com/loco-rs/loco/issues/950#issuecomment-2455123679) in [loco-rs/loco](https://github.com/loco-rs/loco)
-5. 💪 Opened PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+1. 💪 Opened PR [#255](https://github.com/ahmetoner/whisper-asr-webservice/pull/255) in [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
+2. 🎉 Merged PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+3. 🗣 Commented on [#1](https://github.com/zilliah/omgSite/pull/1#issuecomment-2455560032) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+4. 🗣 Commented on [#934](https://github.com/loco-rs/loco/issues/934#issuecomment-2455124002) in [loco-rs/loco](https://github.com/loco-rs/loco)
+5. 🗣 Commented on [#950](https://github.com/loco-rs/loco/issues/950#issuecomment-2455123679) in [loco-rs/loco](https://github.com/loco-rs/loco)
 <!--END_SECTION:activity-->
 
 <p align="center">
