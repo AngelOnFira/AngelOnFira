@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1073](https://github.com/loco-rs/loco/pull/1073) in [loco-rs/loco](https://github.com/loco-rs/loco)
-2. 🗣 Commented on [#255](https://github.com/ahmetoner/whisper-asr-webservice/pull/255#issuecomment-2529160827) in [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
-3. ❌ Closed PR [#255](https://github.com/ahmetoner/whisper-asr-webservice/pull/255) in [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
-4. 💪 Opened PR [#255](https://github.com/ahmetoner/whisper-asr-webservice/pull/255) in [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)
-5. 🎉 Merged PR [#1](https://github.com/zilliah/omgSite/pull/1) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
+1. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2537213844) in [loco-rs/loco](https://github.com/loco-rs/loco)
+2. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2537211968) in [loco-rs/loco](https://github.com/loco-rs/loco)
+3. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2537147186) in [loco-rs/loco](https://github.com/loco-rs/loco)
+4. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2537107986) in [loco-rs/loco](https://github.com/loco-rs/loco)
+5. 💪 Opened PR [#1073](https://github.com/loco-rs/loco/pull/1073) in [loco-rs/loco](https://github.com/loco-rs/loco)
 <!--END_SECTION:activity-->
 
 <p align="center">
