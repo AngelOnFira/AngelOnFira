@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AngelOnFira/loco/pull/1) in [AngelOnFira/loco](https://github.com/AngelOnFira/loco)
-2. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539091146) in [loco-rs/loco](https://github.com/loco-rs/loco)
-3. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539081726) in [loco-rs/loco](https://github.com/loco-rs/loco)
-4. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539041269) in [loco-rs/loco](https://github.com/loco-rs/loco)
-5. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2537213844) in [loco-rs/loco](https://github.com/loco-rs/loco)
+1. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539318708) in [loco-rs/loco](https://github.com/loco-rs/loco)
+2. 💪 Opened PR [#1](https://github.com/AngelOnFira/loco/pull/1) in [AngelOnFira/loco](https://github.com/AngelOnFira/loco)
+3. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539091146) in [loco-rs/loco](https://github.com/loco-rs/loco)
+4. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539081726) in [loco-rs/loco](https://github.com/loco-rs/loco)
+5. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539041269) in [loco-rs/loco](https://github.com/loco-rs/loco)
 <!--END_SECTION:activity-->
 
 <p align="center">
