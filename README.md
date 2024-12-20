@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/rust-lang/leadership-council/issues/126#issuecomment-2557313613) in [rust-lang/leadership-council](https://github.com/rust-lang/leadership-council)
-2. 🗣 Commented on [#3698](https://github.com/yewstack/yew/issues/3698#issuecomment-2549061639) in [yewstack/yew](https://github.com/yewstack/yew)
-3. ❌ Closed PR [#1](https://github.com/AngelOnFira/loco/pull/1) in [AngelOnFira/loco](https://github.com/AngelOnFira/loco)
-4. 🗣 Commented on [#1073](https://github.com/loco-rs/loco/pull/1073#issuecomment-2539318708) in [loco-rs/loco](https://github.com/loco-rs/loco)
-5. 💪 Opened PR [#1](https://github.com/AngelOnFira/loco/pull/1) in [AngelOnFira/loco](https://github.com/AngelOnFira/loco)
+1. ❌ Closed PR [#5](https://github.com/AngelOnFira/arewegameyet/pull/5) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+2. ❌ Closed PR [#4](https://github.com/AngelOnFira/arewegameyet/pull/4) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+3. ❌ Closed PR [#3](https://github.com/AngelOnFira/arewegameyet/pull/3) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+4. ❌ Closed PR [#2](https://github.com/AngelOnFira/arewegameyet/pull/2) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+5. 💪 Opened PR [#1](https://github.com/AngelOnFira/arewegameyet/pull/1) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
