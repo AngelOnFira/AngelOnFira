@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#583](https://github.com/rust-gamedev/arewegameyet/pull/583#issuecomment-2557443919) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-2. 💪 Opened PR [#583](https://github.com/rust-gamedev/arewegameyet/pull/583) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-3. ❌ Closed PR [#5](https://github.com/AngelOnFira/arewegameyet/pull/5) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
-4. ❌ Closed PR [#4](https://github.com/AngelOnFira/arewegameyet/pull/4) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
-5. ❌ Closed PR [#3](https://github.com/AngelOnFira/arewegameyet/pull/3) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+1. 🎉 Merged PR [#2](https://github.com/swamp-netizens/discord-bot/pull/2) in [swamp-netizens/discord-bot](https://github.com/swamp-netizens/discord-bot)
+2. 🗣 Commented on [#583](https://github.com/rust-gamedev/arewegameyet/pull/583#issuecomment-2557443919) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+3. 💪 Opened PR [#583](https://github.com/rust-gamedev/arewegameyet/pull/583) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+4. ❌ Closed PR [#5](https://github.com/AngelOnFira/arewegameyet/pull/5) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
+5. ❌ Closed PR [#4](https://github.com/AngelOnFira/arewegameyet/pull/4) in [AngelOnFira/arewegameyet](https://github.com/AngelOnFira/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
