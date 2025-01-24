@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/AlanReviews/Discordpy-bot/pull/9) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-2. 💪 Opened PR [#8](https://github.com/AlanReviews/Discordpy-bot/pull/8) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-3. 🎉 Merged PR [#2](https://github.com/swamp-netizens/discord-bot/pull/2) in [swamp-netizens/discord-bot](https://github.com/swamp-netizens/discord-bot)
-4. 🗣 Commented on [#583](https://github.com/rust-gamedev/arewegameyet/pull/583#issuecomment-2557443919) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
-5. 💪 Opened PR [#583](https://github.com/rust-gamedev/arewegameyet/pull/583) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+1. ❌ Closed PR [#1](https://github.com/AngelOnFira/rivet/pull/1) in [AngelOnFira/rivet](https://github.com/AngelOnFira/rivet)
+2. 💪 Opened PR [#9](https://github.com/AlanReviews/Discordpy-bot/pull/9) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+3. 💪 Opened PR [#8](https://github.com/AlanReviews/Discordpy-bot/pull/8) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
+4. 🎉 Merged PR [#2](https://github.com/swamp-netizens/discord-bot/pull/2) in [swamp-netizens/discord-bot](https://github.com/swamp-netizens/discord-bot)
+5. 🗣 Commented on [#583](https://github.com/rust-gamedev/arewegameyet/pull/583#issuecomment-2557443919) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
 <!--END_SECTION:activity-->
 
 <p align="center">
