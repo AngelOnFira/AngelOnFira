@@ -34,7 +34,7 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AasishPokhrel/shit/issues/1#issuecomment-2964464537) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+1. 🚀 Published release [v1.0.0](https://github.com/AngelOnFira/esp-web-flash-server/releases/tag/v1.0.0) in [AngelOnFira/esp-web-flash-server](https://github.com/AngelOnFira/esp-web-flash-server)
 2. 💪 Opened PR [#9](https://github.com/AlanReviews/Discordpy-bot/pull/9) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
 3. 💪 Opened PR [#8](https://github.com/AlanReviews/Discordpy-bot/pull/8) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
 4. 🎉 Merged PR [#2](https://github.com/swamp-netizens/discord-bot/pull/2) in [swamp-netizens/discord-bot](https://github.com/swamp-netizens/discord-bot)
