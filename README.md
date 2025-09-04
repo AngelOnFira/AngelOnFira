@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/AngelOnFira/esp-web-flash-server/releases/tag/v1.0.0) in [AngelOnFira/esp-web-flash-server](https://github.com/AngelOnFira/esp-web-flash-server)
-2. 💪 Opened PR [#9](https://github.com/AlanReviews/Discordpy-bot/pull/9) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-3. 💪 Opened PR [#8](https://github.com/AlanReviews/Discordpy-bot/pull/8) in [AlanReviews/Discordpy-bot](https://github.com/AlanReviews/Discordpy-bot)
-4. 🎉 Merged PR [#2](https://github.com/swamp-netizens/discord-bot/pull/2) in [swamp-netizens/discord-bot](https://github.com/swamp-netizens/discord-bot)
-5. 🗣 Commented on [#583](https://github.com/rust-gamedev/arewegameyet/pull/583#issuecomment-2557443919) in [rust-gamedev/arewegameyet](https://github.com/rust-gamedev/arewegameyet)
+1. ❗ Opened issue [#12](https://github.com/AngelOnFira/macroquad-mech-2025/issues/12) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+2. ❗ Opened issue [#11](https://github.com/AngelOnFira/macroquad-mech-2025/issues/11) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+3. ❗ Opened issue [#10](https://github.com/AngelOnFira/macroquad-mech-2025/issues/10) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+4. ❗ Opened issue [#9](https://github.com/AngelOnFira/macroquad-mech-2025/issues/9) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+5. ❗ Opened issue [#8](https://github.com/AngelOnFira/macroquad-mech-2025/issues/8) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
 <!--END_SECTION:activity-->
 
 <p align="center">
