@@ -34,11 +34,11 @@
 **Recent Stuff I did around the hub:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [zilliah/omgSite](https://github.com/zilliah/omgSite)
-2. 💪 Opened PR [#13](undefined) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
-3.  Labeled issue [#12](https://github.com/AngelOnFira/macroquad-mech-2025/issues/12) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
-4.  Labeled issue [#11](https://github.com/AngelOnFira/macroquad-mech-2025/issues/11) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
-5.  Labeled issue [#10](https://github.com/AngelOnFira/macroquad-mech-2025/issues/10) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+1. 🎉 Merged PR [#13](https://github.com/AngelOnFira/macroquad-mech-2025/pull/13) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+2. 💪 Opened PR [#13](https://github.com/AngelOnFira/macroquad-mech-2025/pull/13) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+3. ❗ Opened issue [#12](https://github.com/AngelOnFira/macroquad-mech-2025/issues/12) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+4. ❗ Opened issue [#11](https://github.com/AngelOnFira/macroquad-mech-2025/issues/11) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
+5. ❗ Opened issue [#10](https://github.com/AngelOnFira/macroquad-mech-2025/issues/10) in [AngelOnFira/macroquad-mech-2025](https://github.com/AngelOnFira/macroquad-mech-2025)
 <!--END_SECTION:activity-->
 
 <p align="center">
